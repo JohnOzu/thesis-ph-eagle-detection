@@ -19,11 +19,9 @@ Thumbs.db
 .idea/
 
 # Large Audio Datasets (Raw & Preprocessed)
-data/raw/audios/
-data/preprocessed/
+data/
 
-# Extracted Feature Arrays (Mel & PCEN npy matrices)
-data/features/
+models/
 
 # Heavy Model Checkpoints & Keras Binaries
 *.keras
