@@ -1,0 +1,52 @@
+Hard-negative recording exclusions
+================================================================================
+Raw hard-negative recordings: 707
+Each recording is counted once, at the first step where it stops.
+
+3.0-second windows (1.5-second hop)
+--------------------------------------------------------------------------------
+Kept (at least one window)                                       503 ( 71.1%)
+No vocalization found by the energy filter                       190 ( 26.9%)
+Vocalization found, but no window holds at least 50% of one       14 (  2.0%)
+Excluded in total                                                204
+Recordings in saved metadata: 503 | kept here: 503 | same set: yes
+
+Recordings per species:
+                          Kept  Excluded
+species                                 
+Brahminy Kite              156       100
+Crested Goshawk            277        67
+Philippine Drongo-Cuckoo    21        23
+Philippine Falconet          4         3
+Philippine Frogmouth        22         6
+Philippine Hawk-Eagle        5         0
+Philippine Honey-buzzard     3         0
+Pinsker's Hawk-Eagle         5         2
+Rufous-bellied Eagle        10         3
+
+Duration of excluded recordings: median 10.0 s (min 1.0 s, max 115.1 s)
+Duration of kept recordings:     median 31.9 s
+
+5.0-second windows (2.0-second hop)
+--------------------------------------------------------------------------------
+Kept (at least one window)                                       503 ( 71.1%)
+No vocalization found by the energy filter                       190 ( 26.9%)
+Vocalization found, but no window holds at least 50% of one       14 (  2.0%)
+Excluded in total                                                204
+Recordings in saved metadata: 503 | kept here: 503 | same set: yes
+
+Recordings per species:
+                          Kept  Excluded
+species                                 
+Brahminy Kite              156       100
+Crested Goshawk            278        66
+Philippine Drongo-Cuckoo    21        23
+Philippine Falconet          4         3
+Philippine Frogmouth        21         7
+Philippine Hawk-Eagle        5         0
+Philippine Honey-buzzard     3         0
+Pinsker's Hawk-Eagle         5         2
+Rufous-bellied Eagle        10         3
+
+Duration of excluded recordings: median 10.1 s (min 1.0 s, max 115.1 s)
+Duration of kept recordings:     median 32.0 s

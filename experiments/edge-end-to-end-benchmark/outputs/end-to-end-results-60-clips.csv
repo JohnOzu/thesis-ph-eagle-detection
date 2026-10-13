@@ -1,0 +1,61 @@
+clip_idx,group,audio_file,species,site,source_audio,label,laptop_raw_int8,laptop_prob,laptop_pred,esp_raw_int8,esp_prob,esp_pred,esp_feature_ms,esp_inference_ms,esp_total_ms
+0,Eagle,converted_176495_00046.5_00049.5.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,-32,0.375,0,-47,0.316406,0.0,242.154,171.786,413.94
+1,Eagle,converted_18535_00039.0_00042.0.wav,Philippine Eagle,Davao del Sur,converted_18535.wav,1,-108,0.078125,0,-109,0.074219,0.0,242.25,171.782,414.03200000000004
+2,Eagle,converted_176495_00127.5_00130.5.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,74,0.7890625,1,81,0.816406,1.0,242.247,171.782,414.029
+3,Eagle,converted_176495_00297.0_00300.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,61,0.73828125,1,96,0.875,1.0,242.249,171.785,414.034
+4,Eagle,converted_176495_00405.0_00408.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,105,0.91015625,1,102,0.898438,1.0,242.236,171.786,414.022
+5,Eagle,converted_176495_00537.0_00540.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,99,0.88671875,1,98,0.882812,1.0,242.251,171.785,414.036
+6,Eagle,converted_176495_00316.5_00319.5.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,121,0.97265625,1,113,0.941406,1.0,242.255,171.769,414.024
+7,Eagle,converted_176495_00144.0_00147.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,-81,0.18359375,0,-80,0.1875,0.0,242.235,171.784,414.019
+8,Eagle,converted_176495_00291.0_00294.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,103,0.90234375,1,97,0.878906,1.0,242.243,171.776,414.019
+9,Eagle,converted_18535_00196.5_00199.5.wav,Philippine Eagle,Davao del Sur,converted_18535.wav,1,-117,0.04296875,0,-115,0.050781,0.0,242.243,171.786,414.029
+10,Eagle,converted_18535_00111.0_00114.0.wav,Philippine Eagle,Davao del Sur,converted_18535.wav,1,-107,0.08203125,0,-112,0.0625,0.0,242.247,171.775,414.02200000000005
+11,Eagle,converted_18535_00109.5_00112.5.wav,Philippine Eagle,Davao del Sur,converted_18535.wav,1,-76,0.203125,0,-90,0.148438,0.0,242.241,171.779,414.02
+12,Eagle,converted_176495_00031.5_00034.5.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,111,0.93359375,1,106,0.914062,1.0,242.243,171.788,414.031
+13,Eagle,converted_176495_00309.0_00312.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,92,0.859375,1,92,0.859375,1.0,242.25,171.786,414.036
+14,Eagle,converted_176495_00499.5_00502.5.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,102,0.8984375,1,73,0.785156,1.0,242.252,171.775,414.02700000000004
+15,Eagle,converted_176495_00081.0_00084.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,-108,0.078125,0,-112,0.0625,0.0,242.239,171.786,414.025
+16,Eagle,converted_18535_00163.5_00166.5.wav,Philippine Eagle,Davao del Sur,converted_18535.wav,1,-92,0.140625,0,-103,0.097656,0.0,242.242,171.788,414.03
+17,Eagle,converted_176495_00262.5_00265.5.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,40,0.65625,1,30,0.617188,1.0,242.246,171.778,414.024
+18,Eagle,converted_176495_00540.0_00543.0.wav,Philippine Eagle,Davao del Sur,converted_176495.wav,1,111,0.93359375,1,113,0.941406,1.0,242.246,171.786,414.03200000000004
+19,Eagle,converted_18535_00147.0_00150.0.wav,Philippine Eagle,Davao del Sur,converted_18535.wav,1,105,0.91015625,1,113,0.941406,1.0,242.236,171.78,414.01599999999996
+20,Ambient,converted_18535_00108.0_00111.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-94,0.1328125,0,-97,0.121094,0.0,242.24,171.787,414.02700000000004
+21,Ambient,converted_176495_00186.0_00189.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-119,0.03515625,0,-118,0.039062,0.0,242.257,171.785,414.04200000000003
+22,Ambient,converted_18535_00015.0_00018.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-109,0.07421875,0,-116,0.046875,0.0,242.253,171.783,414.03599999999994
+23,Ambient,converted_18535_00058.5_00061.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-83,0.17578125,0,-97,0.121094,0.0,242.245,171.787,414.03200000000004
+24,Ambient,converted_18535_00186.0_00189.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-97,0.12109375,0,-104,0.09375,0.0,242.237,171.775,414.012
+25,Ambient,converted_176495_00202.5_00205.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-80,0.1875,0,-74,0.210938,0.0,242.245,171.778,414.023
+26,Ambient,converted_18535_00187.5_00190.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-114,0.0546875,0,-116,0.046875,0.0,242.25,171.783,414.033
+27,Ambient,converted_18535_00043.5_00046.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-115,0.05078125,0,-116,0.046875,0.0,242.246,171.777,414.023
+28,Ambient,converted_176495_00394.5_00397.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-88,0.15625,0,-100,0.109375,0.0,242.24,171.779,414.019
+29,Ambient,converted_176495_00364.5_00367.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-42,0.3359375,0,-42,0.335938,0.0,242.253,171.782,414.03499999999997
+30,Ambient,converted_18535_00042.0_00045.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-103,0.09765625,0,-98,0.117188,0.0,242.245,171.797,414.04200000000003
+31,Ambient,converted_176495_00288.0_00291.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-67,0.23828125,0,-74,0.210938,0.0,242.252,171.782,414.034
+32,Ambient,converted_18535_00168.0_00171.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-111,0.06640625,0,-113,0.058594,0.0,242.25,171.783,414.033
+33,Ambient,converted_176495_00114.0_00117.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-112,0.0625,0,-113,0.058594,0.0,242.237,171.782,414.019
+34,Ambient,converted_18535_00018.0_00021.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-102,0.1015625,0,-98,0.117188,0.0,242.239,171.781,414.02
+35,Ambient,converted_176495_00208.5_00211.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-88,0.15625,0,-94,0.132812,0.0,242.25,171.789,414.039
+36,Ambient,converted_176495_00198.0_00201.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-110,0.0703125,0,-115,0.050781,0.0,242.24,171.786,414.026
+37,Ambient,converted_18535_00211.5_00214.5.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-119,0.03515625,0,-122,0.023438,0.0,242.243,171.776,414.019
+38,Ambient,converted_18535_00060.0_00063.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18535.wav,0,-78,0.1953125,0,-89,0.152344,0.0,242.242,171.79,414.032
+39,Ambient,converted_176495_00453.0_00456.0.wav,Philippine Eagle Territory (Ambient),Davao del Sur,converted_176495.wav,0,-111,0.06640625,0,-114,0.054688,0.0,242.25,171.786,414.036
+40,Hard negative,hardneg_617604888_00001.5_00004.5.wav,Rufous-bellied Eagle,Cagayan,617604888.mp3,0,-27,0.39453125,0,-3,0.488281,0.0,242.246,171.785,414.031
+41,Hard negative,hardneg_647162368_00003.0_00006.0.wav,Crested Goshawk,Taipei City,647162368.wav,0,-118,0.0390625,0,-118,0.039062,0.0,242.242,171.784,414.02599999999995
+42,Hard negative,hardneg_281215_00040.5_00043.5.wav,Brahminy Kite,Selangor,281215.wav,0,-115,0.05078125,0,-106,0.085938,0.0,242.249,171.789,414.038
+43,Hard negative,hardneg_657052860_00049.5_00052.5.wav,Crested Goshawk,Singapore,657052860.mp3,0,-115,0.05078125,0,-110,0.070312,0.0,242.246,171.788,414.034
+44,Hard negative,hardneg_646891313_00042.0_00045.0.wav,Crested Goshawk,Taipei City,646891313.wav,0,-111,0.06640625,0,-112,0.0625,0.0,242.234,171.784,414.01800000000003
+45,Hard negative,hardneg_657052860_00033.0_00036.0.wav,Crested Goshawk,Singapore,657052860.mp3,0,-119,0.03515625,0,-113,0.058594,0.0,242.253,171.77,414.023
+46,Hard negative,hardneg_648740293_00111.0_00114.0.wav,Crested Goshawk,Taipei City,648740293.wav,0,-113,0.05859375,0,-114,0.054688,0.0,242.252,171.784,414.036
+47,Hard negative,hardneg_18664_00049.5_00052.5.wav,Philippine Honey-buzzard,Cotabato,18664.wav,0,92,0.859375,1,100,0.890625,1.0,242.248,171.799,414.047
+48,Hard negative,hardneg_271454851_00001.5_00004.5.wav,Brahminy Kite,Kerala,271454851.wav,0,-123,0.01953125,0,-120,0.03125,0.0,241.526,171.616,413.14200000000005
+49,Hard negative,hardneg_651844808_00046.5_00049.5.wav,Crested Goshawk,Taipei City,651844808.wav,0,-114,0.0546875,0,-110,0.070312,0.0,242.235,171.787,414.02200000000005
+50,Hard negative,hardneg_503946691_00004.5_00007.5.wav,Crested Goshawk,Kerala,503946691.mp3,0,-121,0.02734375,0,-118,0.039062,0.0,242.24,171.798,414.038
+51,Hard negative,hardneg_650806486_00207.0_00210.0.wav,Brahminy Kite,New South Wales,650806486.wav,0,-120,0.03125,0,-119,0.035156,0.0,242.25,171.785,414.03499999999997
+52,Hard negative,hardneg_650806486_00213.0_00216.0.wav,Brahminy Kite,New South Wales,650806486.wav,0,-80,0.1875,0,-80,0.1875,0.0,242.244,171.786,414.03
+53,Hard negative,hardneg_503946691_00049.5_00052.5.wav,Crested Goshawk,Kerala,503946691.mp3,0,-111,0.06640625,0,-100,0.109375,0.0,242.246,171.785,414.031
+54,Hard negative,hardneg_651185436_00033.0_00036.0.wav,Crested Goshawk,Taipei City,651185436.wav,0,-98,0.1171875,0,-107,0.082031,0.0,242.239,171.783,414.022
+55,Hard negative,hardneg_644073410_00016.5_00019.5.wav,Crested Goshawk,Taitung County,644073410.wav,0,-121,0.02734375,0,-118,0.039062,0.0,242.263,171.792,414.055
+56,Hard negative,hardneg_652560728_00009.0_00012.0.wav,Crested Goshawk,Taipei City,652560728.wav,0,-118,0.0390625,0,-114,0.054688,0.0,242.245,171.793,414.038
+57,Hard negative,hardneg_622025029_00003.0_00006.0.wav,Crested Goshawk,Taipei City,622025029.wav,0,-96,0.125,0,-81,0.183594,0.0,242.242,171.788,414.03
+58,Hard negative,hardneg_652522906_00012.0_00015.0.wav,Crested Goshawk,Odisha,652522906.wav,0,-125,0.01171875,0,-124,0.015625,0.0,242.239,171.784,414.023
+59,Hard negative,hardneg_75807001_00001.5_00004.5.wav,Crested Goshawk,Taipei City,75807001.wav,0,-125,0.01171875,0,-122,0.023438,0.0,242.252,171.79,414.04200000000003

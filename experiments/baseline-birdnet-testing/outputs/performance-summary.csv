@@ -1,0 +1,5 @@
+Experiment,Accuracy,Precision,Recall,F1-Score,Specificity,ROC-AUC,PR-AUC,TN,FP,FN,TP,Model Size,Latency (laptop CPU)
+Recording Split,75.12%,66.07%,90.89%,0.7652,62.43%,0.8917,0.8722,349,210,41,409,49.3 MB,40.9 ms
+LOSO - Davao del Sur,47.84%,38.39%,87.65%,0.5339,27.26%,0.7340,0.6874,892,2380,209,1483,49.3 MB,40.9 ms
+LOSO - Cotabato,57.85%,50.84%,96.15%,0.6651,28.32%,0.7812,0.7402,544,1377,57,1424,49.3 MB,40.9 ms
+Minor Sites Held Out,62.91%,68.35%,32.93%,0.4444,87.50%,0.8275,0.7311,175,25,110,54,49.3 MB,40.9 ms

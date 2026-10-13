@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s LOSO - Davao del Sur (Cost-Sensitive)
+============================================================
+Accuracy:    0.8036 (80.36%)
+Precision:   0.7861 (78.61%)
+Recall:      0.5822 (58.22%)
+F1-Score:    0.6689 (66.89%)
+Specificity: 0.9181 (91.81%)
+ROC-AUC:     0.8495
+Confusion:   TN 3004 | FP 268 | FN 707 | TP 985
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.81      0.92      0.86      3272
+   Eagle (1)       0.79      0.58      0.67      1692
+
+    accuracy                           0.80      4964
+   macro avg       0.80      0.75      0.76      4964
+weighted avg       0.80      0.80      0.80      4964
+

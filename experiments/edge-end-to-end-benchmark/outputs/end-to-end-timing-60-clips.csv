@@ -1,0 +1,4 @@
+Stage,Mean (ms),Min (ms),Max (ms),Std (ms)
+Feature extraction,242.23,241.53,242.26,0.09
+Inference,171.78,171.62,171.8,0.02
+Total,414.01,413.14,414.06,0.12

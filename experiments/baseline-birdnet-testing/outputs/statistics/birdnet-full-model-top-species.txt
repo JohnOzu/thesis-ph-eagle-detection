@@ -1,0 +1,34 @@
+================================================================================
+SPECIES WITH THE HIGHEST BIRDNET CONFIDENCE (RECORDING SPLIT, TEST SUBSET)
+================================================================================
+
+Eagle windows (n = 450): ten most frequent top species
+  Philippine Eagle                           428 ( 95.1%)
+  Rufous-tailed Flatbill                       6 (  1.3%)
+  Rufous Hornbill                              3 (  0.7%)
+  Oriental Honey-buzzard                       3 (  0.7%)
+  Philippine Oriole                            2 (  0.4%)
+  Long-billed Woodcreeper                      2 (  0.4%)
+  Black Cuckoo                                 2 (  0.4%)
+  Sunbittern                                   1 (  0.2%)
+  Orange-bellied Flowerpecker                  1 (  0.2%)
+  Pearl-spotted Owlet                          1 (  0.2%)
+
+Ambient windows (n = 236): ten most frequent top species
+  Philippine Eagle                           225 ( 95.3%)
+  Philippine Bulbul                            8 (  3.4%)
+  Rufous Hornbill                              1 (  0.4%)
+  Sykes's Warbler                              1 (  0.4%)
+  Great Plains Narrow-mouthed Toad             1 (  0.4%)
+
+Hard negative windows (n = 323): ten most frequent top species
+  Engine                                      51 ( 15.8%)
+  Brahminy Kite                               40 ( 12.4%)
+  Crested Goshawk                             16 (  5.0%)
+  Philippine Frogmouth                        10 (  3.1%)
+  Common Hawk-Cuckoo                           7 (  2.2%)
+  Oriental Magpie-Robin                        7 (  2.2%)
+  Philippine Drongo-Cuckoo                     6 (  1.9%)
+  Hair-crested Drongo                          6 (  1.9%)
+  Common Redstart                              4 (  1.2%)
+  Common Kingfisher                            4 (  1.2%)

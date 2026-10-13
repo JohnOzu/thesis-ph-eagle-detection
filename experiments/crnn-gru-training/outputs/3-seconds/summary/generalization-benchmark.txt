@@ -1,0 +1,17 @@
+================================================================================
+1. CRNN-GRU ARCHITECTURE & GENERALIZATION BENCHMARK (FP32)
+Test results at a decision threshold of 0.50.
+================================================================================
+                           Experiment FP32 Accuracy Precision Recall F1-Score Specificity ROC-AUC
+                      Recording Split        94.65%    95.21% 92.67%   0.9392      96.24%  0.9823
+     Recording Split (Cost-Sensitive)        95.24%    95.27% 94.00%   0.9463      96.24%  0.9816
+      Edge-Optimized (Cost-Sensitive)        92.86%    94.58% 89.11%   0.9176      95.89%  0.9690
+                 LOSO - Davao del Sur        83.30%    80.67% 67.08%   0.7325      91.69%  0.8828
+                      LOSO - Cotabato        88.65%    94.48% 78.53%   0.8577      96.46%  0.9392
+  Edge-Optimized LOSO - Davao del Sur        80.36%    78.61% 58.22%   0.6689      91.81%  0.8495
+       Edge-Optimized LOSO - Cotabato        88.68%    93.29% 79.74%   0.8598      95.58%  0.9309
+LOSO - Davao del Sur (Cost-Sensitive)        84.33%    80.18% 71.75%   0.7573      90.83%  0.9026
+     LOSO - Cotabato (Cost-Sensitive)        89.15%    92.70% 81.50%   0.8674      95.05%  0.9434
+                   LOSO - Minor Sites        87.36%    94.70% 76.22%   0.8446      96.50%  0.9419
+  LOSO - Minor Sites (Cost-Sensitive)        84.07%    92.74% 70.12%   0.7986      95.50%  0.9245
+    Edge-Optimized LOSO - Minor Sites        84.89%    94.31% 70.73%   0.8084      96.50%  0.8984

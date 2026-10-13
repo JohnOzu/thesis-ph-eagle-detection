@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: Published Baseline 3.0s Recording Split
+============================================================
+Accuracy:    0.9167 (91.67%)
+Precision:   0.9463 (94.63%)
+Recall:      0.8622 (86.22%)
+F1-Score:    0.9023 (90.23%)
+Specificity: 0.9606 (96.06%)
+ROC-AUC:     0.9748
+Confusion:   TN 537 | FP 22 | FN 62 | TP 388
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.90      0.96      0.93       559
+   Eagle (1)       0.95      0.86      0.90       450
+
+    accuracy                           0.92      1009
+   macro avg       0.92      0.91      0.91      1009
+weighted avg       0.92      0.92      0.92      1009
+

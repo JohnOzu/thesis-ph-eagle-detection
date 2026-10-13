@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s LOSO - Cotabato (Cost-Sensitive)
+============================================================
+Accuracy:    0.8868 (88.68%)
+Precision:   0.9329 (93.29%)
+Recall:      0.7974 (79.74%)
+F1-Score:    0.8598 (85.98%)
+Specificity: 0.9558 (95.58%)
+ROC-AUC:     0.9309
+Confusion:   TN 1836 | FP 85 | FN 300 | TP 1181
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.86      0.96      0.91      1921
+   Eagle (1)       0.93      0.80      0.86      1481
+
+    accuracy                           0.89      3402
+   macro avg       0.90      0.88      0.88      3402
+weighted avg       0.89      0.89      0.89      3402
+

@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: Published Baseline 3.0s LOSO - Davao del Sur
+============================================================
+Accuracy:    0.8378 (83.78%)
+Precision:   0.8668 (86.68%)
+Recall:      0.6194 (61.94%)
+F1-Score:    0.7225 (72.25%)
+Specificity: 0.9508 (95.08%)
+ROC-AUC:     0.9048
+Confusion:   TN 3111 | FP 161 | FN 644 | TP 1048
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.83      0.95      0.89      3272
+   Eagle (1)       0.87      0.62      0.72      1692
+
+    accuracy                           0.84      4964
+   macro avg       0.85      0.79      0.80      4964
+weighted avg       0.84      0.84      0.83      4964
+

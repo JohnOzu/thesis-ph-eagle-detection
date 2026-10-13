@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: Published Baseline 3.0s LOSO - Cotabato
+============================================================
+Accuracy:    0.8636 (86.36%)
+Precision:   0.9635 (96.35%)
+Recall:      0.7137 (71.37%)
+F1-Score:    0.8200 (82.00%)
+Specificity: 0.9792 (97.92%)
+ROC-AUC:     0.9209
+Confusion:   TN 1881 | FP 40 | FN 424 | TP 1057
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.82      0.98      0.89      1921
+   Eagle (1)       0.96      0.71      0.82      1481
+
+    accuracy                           0.86      3402
+   macro avg       0.89      0.85      0.86      3402
+weighted avg       0.88      0.86      0.86      3402
+

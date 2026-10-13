@@ -1,0 +1,22 @@
+=================================================================
+EVALUATION RESULTS: BirdNET Full Model 3.0s LOSO - Cotabato
+BirdNET as distributed, no training. Eagle if the Philippine Eagle confidence >= 0.50.
+=================================================================
+Accuracy:    0.5785 (57.85%)
+Precision:   0.5084 (50.84%)
+Recall:      0.9615 (96.15%)
+F1-Score:    0.6651 (66.51%)
+Specificity: 0.2832 (28.32%)
+ROC-AUC:     0.7812
+PR-AUC:      0.7402
+Confusion:   TN 544 | FP 1377 | FN 57 | TP 1424
+=================================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.91      0.28      0.43      1921
+   Eagle (1)       0.51      0.96      0.67      1481
+
+    accuracy                           0.58      3402
+   macro avg       0.71      0.62      0.55      3402
+weighted avg       0.73      0.58      0.53      3402
+

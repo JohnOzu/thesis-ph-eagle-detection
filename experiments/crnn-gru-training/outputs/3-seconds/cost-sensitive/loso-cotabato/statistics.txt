@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s LOSO - Cotabato (Cost-Sensitive)
+============================================================
+Accuracy:    0.8915 (89.15%)
+Precision:   0.9270 (92.70%)
+Recall:      0.8150 (81.50%)
+F1-Score:    0.8674 (86.74%)
+Specificity: 0.9505 (95.05%)
+ROC-AUC:     0.9434
+Confusion:   TN 1826 | FP 95 | FN 274 | TP 1207
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.87      0.95      0.91      1921
+   Eagle (1)       0.93      0.81      0.87      1481
+
+    accuracy                           0.89      3402
+   macro avg       0.90      0.88      0.89      3402
+weighted avg       0.89      0.89      0.89      3402
+

@@ -1,0 +1,708 @@
+source_audio,species,format,duration_sec,detected_events,load_error,windows_3s,outcome_3s,windows_5s,outcome_5s
+110002131.mp3,Crested Goshawk,.mp3,14.4,1,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+113542371.wav,Crested Goshawk,.wav,9.96,1,,2,Kept (at least one window),2,Kept (at least one window)
+113653.wav,Crested Goshawk,.wav,53.35,5,,4,Kept (at least one window),4,Kept (at least one window)
+117990091.wav,Crested Goshawk,.wav,8.64,1,,1,Kept (at least one window),1,Kept (at least one window)
+118139991.m4a,Crested Goshawk,.m4a,21.52,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+122423621.wav,Brahminy Kite,.wav,33.14,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+124082551.wav,Brahminy Kite,.wav,2.21,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+127449141.wav,Brahminy Kite,.wav,37.14,4,,5,Kept (at least one window),4,Kept (at least one window)
+127449481.wav,Brahminy Kite,.wav,118.35,8,,13,Kept (at least one window),17,Kept (at least one window)
+128631361.mp3,Brahminy Kite,.mp3,10.24,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+129608221.wav,Brahminy Kite,.wav,9.55,2,,3,Kept (at least one window),2,Kept (at least one window)
+134079881.wav,Crested Goshawk,.wav,179.59,7,,5,Kept (at least one window),4,Kept (at least one window)
+149361641.mp3,Brahminy Kite,.mp3,20.78,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+149791591.wav,Brahminy Kite,.wav,9.9,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+149991131.wav,Brahminy Kite,.wav,10.06,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+151825301.wav,Brahminy Kite,.wav,4.26,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+153071091.wav,Crested Goshawk,.wav,80.91,3,,3,Kept (at least one window),3,Kept (at least one window)
+155313371.wav,Brahminy Kite,.wav,19.44,2,,3,Kept (at least one window),4,Kept (at least one window)
+159089551.wav,Crested Goshawk,.wav,26.52,3,,5,Kept (at least one window),5,Kept (at least one window)
+163989811.mp3,Rufous-bellied Eagle,.mp3,26.75,1,,2,Kept (at least one window),3,Kept (at least one window)
+170290811.mp3,Brahminy Kite,.mp3,5.96,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+175064.wav,Philippine Drongo-Cuckoo,.wav,73.16,1,,2,Kept (at least one window),3,Kept (at least one window)
+175069.wav,Philippine Frogmouth,.wav,169.99,15,,30,Kept (at least one window),38,Kept (at least one window)
+180246541.wav,Brahminy Kite,.wav,7.23,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+183499.wav,Philippine Drongo-Cuckoo,.wav,172.95,9,,7,Kept (at least one window),8,Kept (at least one window)
+184022121.wav,Brahminy Kite,.wav,9.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+18664.wav,Philippine Honey-buzzard,.wav,77.81,7,,7,Kept (at least one window),8,Kept (at least one window)
+18665.wav,Philippine Falconet,.wav,79.91,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+196952.wav,Philippine Frogmouth,.wav,357.97,34,,50,Kept (at least one window),47,Kept (at least one window)
+197455311.wav,Brahminy Kite,.wav,1.11,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+202746.wav,Brahminy Kite,.wav,20.31,3,,4,Kept (at least one window),3,Kept (at least one window)
+202811.wav,Brahminy Kite,.wav,31.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+202837.wav,Brahminy Kite,.wav,37.51,1,,2,Kept (at least one window),3,Kept (at least one window)
+203893781.mp3,Crested Goshawk,.mp3,18.13,1,,2,Kept (at least one window),2,Kept (at least one window)
+203894171.mp3,Philippine Drongo-Cuckoo,.mp3,27.25,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+203894541.mp3,Philippine Drongo-Cuckoo,.mp3,71.82,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+203894561.mp3,Philippine Frogmouth,.mp3,47.05,4,,8,Kept (at least one window),9,Kept (at least one window)
+203992921.mp3,Brahminy Kite,.mp3,1.85,1,,1,Kept (at least one window),1,Kept (at least one window)
+203992961.mp3,Brahminy Kite,.mp3,16.67,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+203997421.mp3,Philippine Hawk-Eagle,.mp3,80.38,15,,23,Kept (at least one window),26,Kept (at least one window)
+204002161.mp3,Philippine Falconet,.mp3,2.61,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+208616361.m4a,Brahminy Kite,.m4a,20.57,3,,3,Kept (at least one window),3,Kept (at least one window)
+209284881.wav,Brahminy Kite,.wav,20.06,3,,3,Kept (at least one window),3,Kept (at least one window)
+212082431.wav,Crested Goshawk,.wav,51.24,9,,6,Kept (at least one window),5,Kept (at least one window)
+212082501.wav,Crested Goshawk,.wav,11.22,3,,5,Kept (at least one window),4,Kept (at least one window)
+212964541.wav,Brahminy Kite,.wav,22.2,3,,3,Kept (at least one window),2,Kept (at least one window)
+214780391.wav,Brahminy Kite,.wav,15.98,1,,2,Kept (at least one window),3,Kept (at least one window)
+217253.wav,Philippine Honey-buzzard,.wav,84.49,9,,12,Kept (at least one window),11,Kept (at least one window)
+218372321.wav,Brahminy Kite,.wav,12.41,2,,4,Kept (at least one window),3,Kept (at least one window)
+218386371.wav,Brahminy Kite,.wav,16.95,5,,3,Kept (at least one window),2,Kept (at least one window)
+218658281.wav,Crested Goshawk,.wav,22.94,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+219215941.wav,Brahminy Kite,.wav,49.46,6,,10,Kept (at least one window),9,Kept (at least one window)
+219215951.wav,Brahminy Kite,.wav,50.4,2,,4,Kept (at least one window),5,Kept (at least one window)
+220830951.mp3,Crested Goshawk,.mp3,15.09,4,,4,Kept (at least one window),3,Kept (at least one window)
+221149381.wav,Brahminy Kite,.wav,74.69,9,,17,Kept (at least one window),20,Kept (at least one window)
+221150281.wav,Brahminy Kite,.wav,318.46,64,,55,Kept (at least one window),55,Kept (at least one window)
+221157931.wav,Brahminy Kite,.wav,44.72,5,,8,Kept (at least one window),8,Kept (at least one window)
+221158031.wav,Brahminy Kite,.wav,47.1,14,,10,Kept (at least one window),9,Kept (at least one window)
+221158451.wav,Brahminy Kite,.wav,23.42,1,,2,Kept (at least one window),1,Kept (at least one window)
+221158851.wav,Brahminy Kite,.wav,15.19,5,,3,Kept (at least one window),3,Kept (at least one window)
+221160071.wav,Brahminy Kite,.wav,148.54,24,,36,Kept (at least one window),37,Kept (at least one window)
+222249711.wav,Philippine Drongo-Cuckoo,.wav,51.3,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+224327661.wav,Brahminy Kite,.wav,26.97,3,,5,Kept (at least one window),5,Kept (at least one window)
+226784441.wav,Crested Goshawk,.wav,12.11,1,,2,Kept (at least one window),2,Kept (at least one window)
+230845171.m4a,Crested Goshawk,.m4a,32.0,1,,2,Kept (at least one window),3,Kept (at least one window)
+236554181.wav,Brahminy Kite,.wav,15.74,3,,3,Kept (at least one window),3,Kept (at least one window)
+240539321.wav,Rufous-bellied Eagle,.wav,10.15,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+242111281.mp3,Crested Goshawk,.mp3,29.78,7,,7,Kept (at least one window),6,Kept (at least one window)
+243904911.wav,Crested Goshawk,.wav,32.43,4,,6,Kept (at least one window),6,Kept (at least one window)
+244656271.wav,Philippine Frogmouth,.wav,28.01,5,,7,Kept (at least one window),6,Kept (at least one window)
+245202141.wav,Brahminy Kite,.wav,13.09,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+246153251.wav,Brahminy Kite,.wav,31.34,5,,4,Kept (at least one window),4,Kept (at least one window)
+246985381.wav,Philippine Hawk-Eagle,.wav,40.05,1,,2,Kept (at least one window),2,Kept (at least one window)
+247137.wav,Brahminy Kite,.wav,10.97,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+247139.wav,Brahminy Kite,.wav,9.1,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+252435581.wav,Philippine Drongo-Cuckoo,.wav,31.3,3,,1,Kept (at least one window),1,Kept (at least one window)
+252435611.wav,Philippine Drongo-Cuckoo,.wav,49.11,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+252580011.wav,Philippine Frogmouth,.wav,48.61,3,,6,Kept (at least one window),7,Kept (at least one window)
+255829851.wav,Brahminy Kite,.wav,13.34,1,,2,Kept (at least one window),3,Kept (at least one window)
+256119441.wav,Brahminy Kite,.wav,13.76,2,,4,Kept (at least one window),4,Kept (at least one window)
+25650371.wav,Crested Goshawk,.wav,20.74,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+257219931.wav,Brahminy Kite,.wav,82.65,19,,24,Kept (at least one window),22,Kept (at least one window)
+25730541.wav,Crested Goshawk,.wav,19.73,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+259853521.mp3,Brahminy Kite,.mp3,53.96,8,,12,Kept (at least one window),13,Kept (at least one window)
+262911881.wav,Brahminy Kite,.wav,6.79,2,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+265061541.wav,Crested Goshawk,.wav,5.78,1,,1,Kept (at least one window),1,Kept (at least one window)
+268019681.m4a,Crested Goshawk,.m4a,18.58,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+271184421.m4a,Crested Goshawk,.m4a,149.16,19,,20,Kept (at least one window),17,Kept (at least one window)
+271199131.mp3,Crested Goshawk,.mp3,35.4,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+271454851.wav,Brahminy Kite,.wav,32.62,6,,10,Kept (at least one window),9,Kept (at least one window)
+272836351.mp3,Brahminy Kite,.mp3,10.05,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+275750321.mp3,Brahminy Kite,.mp3,6.55,1,,1,Kept (at least one window),1,Kept (at least one window)
+279420321.mp3,Rufous-bellied Eagle,.mp3,10.66,1,,2,Kept (at least one window),1,Kept (at least one window)
+281213771.mp3,Brahminy Kite,.mp3,2.28,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+281215.wav,Brahminy Kite,.wav,68.79,9,,14,Kept (at least one window),13,Kept (at least one window)
+281216.wav,Brahminy Kite,.wav,25.97,6,,8,Kept (at least one window),8,Kept (at least one window)
+282699691.wav,Brahminy Kite,.wav,58.02,4,,8,Kept (at least one window),8,Kept (at least one window)
+283420.wav,Brahminy Kite,.wav,12.4,1,,2,Kept (at least one window),2,Kept (at least one window)
+290008191.wav,Brahminy Kite,.wav,4.01,1,,1,Kept (at least one window),1,Kept (at least one window)
+290613031.wav,Crested Goshawk,.wav,11.39,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+291362181.wav,Crested Goshawk,.wav,5.21,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+301153691.wav,Brahminy Kite,.wav,14.83,1,,1,Kept (at least one window),1,Kept (at least one window)
+306599811.wav,Crested Goshawk,.wav,14.93,1,,2,Kept (at least one window),1,Kept (at least one window)
+307864851.wav,Crested Goshawk,.wav,5.31,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+310123221.wav,Philippine Drongo-Cuckoo,.wav,12.05,1,,2,Kept (at least one window),2,Kept (at least one window)
+310225.wav,Brahminy Kite,.wav,43.31,5,,8,Kept (at least one window),8,Kept (at least one window)
+312724861.wav,Philippine Drongo-Cuckoo,.wav,30.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+312760851.wav,Philippine Drongo-Cuckoo,.wav,24.22,3,,4,Kept (at least one window),4,Kept (at least one window)
+313731171.wav,Philippine Drongo-Cuckoo,.wav,19.49,3,,4,Kept (at least one window),5,Kept (at least one window)
+313731181.wav,Philippine Drongo-Cuckoo,.wav,54.65,1,,2,Kept (at least one window),2,Kept (at least one window)
+314464901.wav,Brahminy Kite,.wav,5.34,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+314524621.wav,Philippine Drongo-Cuckoo,.wav,7.18,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+315058001.wav,Philippine Drongo-Cuckoo,.wav,11.61,2,,2,Kept (at least one window),3,Kept (at least one window)
+315081151.wav,Philippine Drongo-Cuckoo,.wav,20.78,4,,3,Kept (at least one window),2,Kept (at least one window)
+315604981.wav,Crested Goshawk,.wav,69.25,10,,9,Kept (at least one window),10,Kept (at least one window)
+319784291.wav,Philippine Drongo-Cuckoo,.wav,14.71,2,,4,Kept (at least one window),4,Kept (at least one window)
+319943491.wav,Philippine Drongo-Cuckoo,.wav,17.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+319943501.wav,Philippine Drongo-Cuckoo,.wav,17.17,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+319969761.wav,Brahminy Kite,.wav,48.36,2,,3,Kept (at least one window),4,Kept (at least one window)
+320630181.wav,Brahminy Kite,.wav,5.08,2,,1,Kept (at least one window),1,Kept (at least one window)
+320993571.wav,Rufous-bellied Eagle,.wav,35.33,5,,7,Kept (at least one window),8,Kept (at least one window)
+327003191.wav,Brahminy Kite,.wav,55.28,6,,5,Kept (at least one window),4,Kept (at least one window)
+327928041.wav,Crested Goshawk,.wav,25.44,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+328027981.wav,Brahminy Kite,.wav,13.09,3,,2,Kept (at least one window),3,Kept (at least one window)
+32938.wav,Brahminy Kite,.wav,33.06,3,,3,Kept (at least one window),2,Kept (at least one window)
+32965.wav,Brahminy Kite,.wav,308.92,10,,17,Kept (at least one window),17,Kept (at least one window)
+331467581.wav,Crested Goshawk,.wav,20.43,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+337279441.wav,Brahminy Kite,.wav,7.29,1,,2,Kept (at least one window),2,Kept (at least one window)
+338400651.wav,Brahminy Kite,.wav,58.97,3,,6,Kept (at least one window),6,Kept (at least one window)
+347113531.mp3,Brahminy Kite,.mp3,16.35,3,,3,Kept (at least one window),3,Kept (at least one window)
+351239611.mp3,Brahminy Kite,.mp3,10.99,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+357049491.mp3,Brahminy Kite,.mp3,7.93,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+359141891.wav,Brahminy Kite,.wav,5.03,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+361900561.wav,Crested Goshawk,.wav,8.02,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+361900571.wav,Crested Goshawk,.wav,25.17,2,,2,Kept (at least one window),2,Kept (at least one window)
+363424741.m4a,Brahminy Kite,.m4a,26.41,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+366446761.wav,Brahminy Kite,.wav,8.54,1,,2,Kept (at least one window),2,Kept (at least one window)
+368750271.wav,Brahminy Kite,.wav,8.62,1,,2,Kept (at least one window),1,Kept (at least one window)
+369654261.mp3,Brahminy Kite,.mp3,1.67,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+372508421.wav,Brahminy Kite,.wav,12.87,2,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+372625131.wav,Brahminy Kite,.wav,13.23,3,,2,Kept (at least one window),4,Kept (at least one window)
+372939041.wav,Brahminy Kite,.wav,18.87,1,,2,Kept (at least one window),3,Kept (at least one window)
+373471161.wav,Brahminy Kite,.wav,4.03,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+373979141.wav,Brahminy Kite,.wav,14.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+374343531.wav,Brahminy Kite,.wav,30.64,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+376529101.m4a,Brahminy Kite,.m4a,11.69,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+378213271.wav,Brahminy Kite,.wav,9.42,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+380277001.wav,Brahminy Kite,.wav,46.27,3,,4,Kept (at least one window),4,Kept (at least one window)
+380279031.m4a,Crested Goshawk,.m4a,8.34,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+381353831.wav,Crested Goshawk,.wav,5.34,1,,1,Kept (at least one window),1,Kept (at least one window)
+385409621.wav,Brahminy Kite,.wav,47.28,1,,2,Kept (at least one window),1,Kept (at least one window)
+38604.wav,Philippine Hawk-Eagle,.wav,140.36,11,,11,Kept (at least one window),10,Kept (at least one window)
+386306981.wav,Brahminy Kite,.wav,1.5,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+388279801.wav,Brahminy Kite,.wav,25.67,1,,2,Kept (at least one window),2,Kept (at least one window)
+394314671.wav,Brahminy Kite,.wav,7.05,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+394314681.wav,Brahminy Kite,.wav,6.53,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+396302811.wav,Brahminy Kite,.wav,52.06,8,,13,Kept (at least one window),13,Kept (at least one window)
+407179041.mp3,Philippine Falconet,.mp3,28.06,1,,1,Kept (at least one window),1,Kept (at least one window)
+412772561.wav,Crested Goshawk,.wav,31.72,1,,1,Kept (at least one window),1,Kept (at least one window)
+412772571.wav,Crested Goshawk,.wav,31.88,1,,1,Kept (at least one window),1,Kept (at least one window)
+412772581.wav,Crested Goshawk,.wav,33.28,2,,3,Kept (at least one window),3,Kept (at least one window)
+413844771.wav,Crested Goshawk,.wav,8.99,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+415006741.m4a,Brahminy Kite,.m4a,31.27,5,,3,Kept (at least one window),3,Kept (at least one window)
+418955521.wav,Rufous-bellied Eagle,.wav,23.8,3,,4,Kept (at least one window),3,Kept (at least one window)
+419485871.mp3,Crested Goshawk,.mp3,60.38,1,,2,Kept (at least one window),3,Kept (at least one window)
+419956731.m4a,Brahminy Kite,.m4a,55.85,8,,8,Kept (at least one window),8,Kept (at least one window)
+421059261.mp3,Pinsker's Hawk-Eagle,.mp3,115.07,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+421402381.mp3,Crested Goshawk,.mp3,5.56,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+426211101.mp3,Crested Goshawk,.mp3,10.61,1,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+426494491.m4a,Crested Goshawk,.m4a,23.1,1,,3,Kept (at least one window),2,Kept (at least one window)
+428158251.wav,Brahminy Kite,.wav,30.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+428158931.wav,Brahminy Kite,.wav,36.14,4,,5,Kept (at least one window),5,Kept (at least one window)
+428995851.wav,Brahminy Kite,.wav,33.98,5,,7,Kept (at least one window),5,Kept (at least one window)
+433164661.wav,Brahminy Kite,.wav,8.56,1,,1,Kept (at least one window),1,Kept (at least one window)
+440296371.wav,Crested Goshawk,.wav,25.17,1,,2,Kept (at least one window),2,Kept (at least one window)
+440685301.m4a,Crested Goshawk,.m4a,26.0,3,,4,Kept (at least one window),4,Kept (at least one window)
+441098951.mp3,Brahminy Kite,.mp3,7.34,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+451414981.wav,Crested Goshawk,.wav,1.95,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+452800651.mp3,Philippine Drongo-Cuckoo,.mp3,8.23,3,,4,Kept (at least one window),2,Kept (at least one window)
+456023751.wav,Crested Goshawk,.wav,9.97,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+458340071.mp3,Brahminy Kite,.mp3,35.9,4,,4,Kept (at least one window),5,Kept (at least one window)
+458340111.mp3,Brahminy Kite,.mp3,28.7,1,,2,Kept (at least one window),3,Kept (at least one window)
+458383331.wav,Crested Goshawk,.wav,31.07,2,,1,Kept (at least one window),2,Kept (at least one window)
+461012001.wav,Brahminy Kite,.wav,23.8,3,,4,Kept (at least one window),4,Kept (at least one window)
+462983791.m4a,Brahminy Kite,.m4a,25.64,3,,4,Kept (at least one window),3,Kept (at least one window)
+463670311.wav,Philippine Frogmouth,.wav,47.35,3,,6,Kept (at least one window),7,Kept (at least one window)
+464703291.mp3,Brahminy Kite,.mp3,5.96,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+466537451.wav,Crested Goshawk,.wav,16.44,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+466537461.wav,Crested Goshawk,.wav,18.29,1,,2,Kept (at least one window),2,Kept (at least one window)
+466537471.wav,Crested Goshawk,.wav,22.04,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+466537481.wav,Crested Goshawk,.wav,74.74,3,,4,Kept (at least one window),5,Kept (at least one window)
+47108661.mp3,Rufous-bellied Eagle,.mp3,4.81,1,,1,Kept (at least one window),1,Kept (at least one window)
+47226651.mp3,Brahminy Kite,.mp3,3.36,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+476369091.wav,Brahminy Kite,.wav,5.67,1,,1,Kept (at least one window),1,Kept (at least one window)
+478139291.wav,Crested Goshawk,.wav,4.84,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+478385411.wav,Brahminy Kite,.wav,1.35,1,,1,Kept (at least one window),1,Kept (at least one window)
+478643381.wav,Brahminy Kite,.wav,3.45,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+478643391.wav,Brahminy Kite,.wav,3.19,1,,1,Kept (at least one window),1,Kept (at least one window)
+479340361.wav,Brahminy Kite,.wav,2.16,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+479340371.wav,Brahminy Kite,.wav,1.82,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+48534381.wav,Crested Goshawk,.wav,8.23,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+486099091.m4a,Crested Goshawk,.m4a,59.29,3,,5,Kept (at least one window),6,Kept (at least one window)
+488255971.wav,Crested Goshawk,.wav,3.95,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+488849221.wav,Crested Goshawk,.wav,15.0,1,,2,Kept (at least one window),1,Kept (at least one window)
+492696811.wav,Brahminy Kite,.wav,7.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+493920261.wav,Crested Goshawk,.wav,26.61,1,,2,Kept (at least one window),3,Kept (at least one window)
+493958541.wav,Crested Goshawk,.wav,3.47,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+493958711.wav,Crested Goshawk,.wav,4.56,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+493959001.wav,Crested Goshawk,.wav,4.2,2,,1,Kept (at least one window),1,Kept (at least one window)
+493959141.wav,Crested Goshawk,.wav,3.39,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+496231811.wav,Brahminy Kite,.wav,10.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+497683091.wav,Rufous-bellied Eagle,.wav,9.63,3,,5,Kept (at least one window),3,Kept (at least one window)
+501966161.wav,Crested Goshawk,.wav,5.3,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+503946691.mp3,Crested Goshawk,.mp3,70.61,8,,10,Kept (at least one window),9,Kept (at least one window)
+503946701.mp3,Crested Goshawk,.mp3,28.22,3,,4,Kept (at least one window),5,Kept (at least one window)
+503946711.mp3,Crested Goshawk,.mp3,13.49,2,,3,Kept (at least one window),2,Kept (at least one window)
+505153991.wav,Brahminy Kite,.wav,7.0,2,,1,Kept (at least one window),2,Kept (at least one window)
+511425041.wav,Brahminy Kite,.wav,4.58,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+511425051.wav,Brahminy Kite,.wav,10.19,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+511700861.wav,Brahminy Kite,.wav,8.05,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+512083531.m4a,Crested Goshawk,.m4a,19.15,1,,2,Kept (at least one window),3,Kept (at least one window)
+520936781.wav,Rufous-bellied Eagle,.wav,0.96,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+522197381.wav,Crested Goshawk,.wav,9.76,2,,1,Kept (at least one window),1,Kept (at least one window)
+523837281.wav,Brahminy Kite,.wav,31.7,4,,6,Kept (at least one window),6,Kept (at least one window)
+524273151.wav,Crested Goshawk,.wav,48.12,2,,3,Kept (at least one window),2,Kept (at least one window)
+530127901.wav,Brahminy Kite,.wav,6.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+530129241.wav,Brahminy Kite,.wav,18.0,1,,2,Kept (at least one window),2,Kept (at least one window)
+532250541.mp3,Brahminy Kite,.mp3,20.14,1,,2,Kept (at least one window),3,Kept (at least one window)
+534977301.m4a,Crested Goshawk,.m4a,11.93,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+535348621.m4a,Brahminy Kite,.m4a,44.31,5,,7,Kept (at least one window),10,Kept (at least one window)
+535921561.wav,Philippine Drongo-Cuckoo,.wav,18.57,1,,2,Kept (at least one window),2,Kept (at least one window)
+541073041.m4a,Crested Goshawk,.m4a,36.8,2,,2,Kept (at least one window),3,Kept (at least one window)
+542558711.wav,Crested Goshawk,.wav,34.98,3,,6,Kept (at least one window),8,Kept (at least one window)
+545982441.wav,Crested Goshawk,.wav,46.58,4,,6,Kept (at least one window),5,Kept (at least one window)
+552021631.wav,Brahminy Kite,.wav,8.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+552021641.wav,Brahminy Kite,.wav,13.0,3,,6,Kept (at least one window),5,Kept (at least one window)
+552021651.wav,Brahminy Kite,.wav,16.0,2,,3,Kept (at least one window),2,Kept (at least one window)
+556824621.wav,Crested Goshawk,.wav,113.63,5,,10,Kept (at least one window),12,Kept (at least one window)
+557835831.wav,Brahminy Kite,.wav,9.29,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+570260841.wav,Crested Goshawk,.wav,50.9,5,,7,Kept (at least one window),7,Kept (at least one window)
+57081661.mp3,Crested Goshawk,.mp3,47.94,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+572389371.m4a,Brahminy Kite,.m4a,22.06,4,,4,Kept (at least one window),4,Kept (at least one window)
+572389381.m4a,Brahminy Kite,.m4a,22.06,2,,4,Kept (at least one window),5,Kept (at least one window)
+573903481.wav,Crested Goshawk,.wav,46.99,1,,1,Kept (at least one window),1,Kept (at least one window)
+576335711.m4a,Crested Goshawk,.m4a,49.66,5,,7,Kept (at least one window),7,Kept (at least one window)
+577769891.m4a,Crested Goshawk,.m4a,38.02,5,,4,Kept (at least one window),3,Kept (at least one window)
+578241851.m4a,Crested Goshawk,.m4a,38.02,5,,4,Kept (at least one window),3,Kept (at least one window)
+579543901.wav,Crested Goshawk,.wav,20.51,1,,2,Kept (at least one window),2,Kept (at least one window)
+579543911.wav,Crested Goshawk,.wav,41.14,1,,1,Kept (at least one window),1,Kept (at least one window)
+579543981.wav,Crested Goshawk,.wav,184.99,1,,2,Kept (at least one window),3,Kept (at least one window)
+579946251.wav,Crested Goshawk,.wav,54.4,1,,1,Kept (at least one window),1,Kept (at least one window)
+581751221.wav,Crested Goshawk,.wav,17.13,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+581751231.wav,Crested Goshawk,.wav,20.47,6,,6,Kept (at least one window),6,Kept (at least one window)
+581751241.wav,Crested Goshawk,.wav,18.7,5,,5,Kept (at least one window),5,Kept (at least one window)
+581751251.wav,Crested Goshawk,.wav,23.12,1,,2,Kept (at least one window),3,Kept (at least one window)
+581751261.wav,Crested Goshawk,.wav,36.65,6,,5,Kept (at least one window),6,Kept (at least one window)
+588165421.wav,Brahminy Kite,.wav,1.77,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+590911461.wav,Crested Goshawk,.wav,11.01,2,,1,Kept (at least one window),1,Kept (at least one window)
+590911471.wav,Crested Goshawk,.wav,23.61,3,,3,Kept (at least one window),3,Kept (at least one window)
+590911481.wav,Crested Goshawk,.wav,31.86,5,,2,Kept (at least one window),2,Kept (at least one window)
+593057101.wav,Brahminy Kite,.wav,39.86,1,,2,Kept (at least one window),2,Kept (at least one window)
+595126471.wav,Brahminy Kite,.wav,3.64,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+601483781.wav,Crested Goshawk,.wav,56.45,5,,6,Kept (at least one window),9,Kept (at least one window)
+601483791.wav,Crested Goshawk,.wav,64.59,2,,4,Kept (at least one window),3,Kept (at least one window)
+607862011.wav,Crested Goshawk,.wav,25.01,1,,2,Kept (at least one window),3,Kept (at least one window)
+609056589.wav,Philippine Frogmouth,.wav,43.65,7,,12,Kept (at least one window),13,Kept (at least one window)
+609056934.wav,Philippine Drongo-Cuckoo,.wav,45.24,8,,7,Kept (at least one window),7,Kept (at least one window)
+609056936.wav,Philippine Drongo-Cuckoo,.wav,57.18,4,,6,Kept (at least one window),8,Kept (at least one window)
+609058137.wav,Philippine Drongo-Cuckoo,.wav,28.12,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609058256.wav,Philippine Drongo-Cuckoo,.wav,14.86,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609058265.wav,Philippine Frogmouth,.wav,23.38,2,,3,Kept (at least one window),4,Kept (at least one window)
+609060445.wav,Crested Goshawk,.wav,52.77,6,,10,Kept (at least one window),12,Kept (at least one window)
+609062326.wav,Philippine Frogmouth,.wav,60.21,6,,11,Kept (at least one window),11,Kept (at least one window)
+609062331.wav,Philippine Frogmouth,.wav,27.13,1,,2,Kept (at least one window),2,Kept (at least one window)
+609062336.wav,Philippine Frogmouth,.wav,38.81,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609062342.wav,Philippine Frogmouth,.wav,76.52,5,,10,Kept (at least one window),10,Kept (at least one window)
+609062352.wav,Philippine Frogmouth,.wav,11.03,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609062362.wav,Philippine Frogmouth,.wav,16.95,2,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+609062377.wav,Philippine Frogmouth,.wav,50.82,4,,6,Kept (at least one window),6,Kept (at least one window)
+609062394.wav,Philippine Frogmouth,.wav,1.94,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609063968.wav,Philippine Honey-buzzard,.wav,2.36,1,,1,Kept (at least one window),1,Kept (at least one window)
+609064156.wav,Philippine Drongo-Cuckoo,.wav,8.84,2,,2,Kept (at least one window),2,Kept (at least one window)
+609064157.wav,Philippine Drongo-Cuckoo,.wav,8.84,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+609064158.wav,Philippine Drongo-Cuckoo,.wav,91.2,8,,4,Kept (at least one window),5,Kept (at least one window)
+609064159.wav,Philippine Drongo-Cuckoo,.wav,34.26,1,,2,Kept (at least one window),3,Kept (at least one window)
+609064161.wav,Philippine Drongo-Cuckoo,.wav,12.56,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609065191.wav,Brahminy Kite,.wav,72.64,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609065552.wav,Brahminy Kite,.wav,33.47,5,,8,Kept (at least one window),7,Kept (at least one window)
+609067250.wav,Brahminy Kite,.wav,18.47,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609069585.wav,Philippine Frogmouth,.wav,36.77,1,,1,Kept (at least one window),1,Kept (at least one window)
+609069586.wav,Philippine Frogmouth,.wav,63.7,10,,19,Kept (at least one window),23,Kept (at least one window)
+609069587.wav,Philippine Frogmouth,.wav,31.1,4,,2,Kept (at least one window),1,Kept (at least one window)
+609069969.wav,Philippine Drongo-Cuckoo,.wav,65.04,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609069970.wav,Philippine Drongo-Cuckoo,.wav,32.75,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+609070270.wav,Philippine Frogmouth,.wav,46.97,2,,4,Kept (at least one window),4,Kept (at least one window)
+609070587.wav,Philippine Hawk-Eagle,.wav,47.91,6,,6,Kept (at least one window),6,Kept (at least one window)
+609193583.wav,Brahminy Kite,.wav,46.55,6,,5,Kept (at least one window),3,Kept (at least one window)
+609921051.m4a,Brahminy Kite,.m4a,44.46,2,,4,Kept (at least one window),5,Kept (at least one window)
+610270865.m4a,Brahminy Kite,.m4a,13.46,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+610279825.mp3,Crested Goshawk,.mp3,6.77,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+610461224.wav,Crested Goshawk,.wav,42.48,3,,3,Kept (at least one window),3,Kept (at least one window)
+611154778.wav,Brahminy Kite,.wav,10.13,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+611394849.wav,Crested Goshawk,.wav,12.83,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+612297886.wav,Brahminy Kite,.wav,35.08,13,,18,Kept (at least one window),14,Kept (at least one window)
+612819479.mp3,Brahminy Kite,.mp3,5.11,2,,2,Kept (at least one window),1,Kept (at least one window)
+612819480.mp3,Brahminy Kite,.mp3,32.59,2,,4,Kept (at least one window),3,Kept (at least one window)
+612917564.m4a,Philippine Frogmouth,.m4a,11.82,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+613499545.wav,Brahminy Kite,.wav,11.04,1,,1,Kept (at least one window),1,Kept (at least one window)
+613499546.wav,Brahminy Kite,.wav,32.37,4,,5,Kept (at least one window),6,Kept (at least one window)
+613854843.wav,Crested Goshawk,.wav,145.31,7,,11,Kept (at least one window),13,Kept (at least one window)
+614254245.wav,Crested Goshawk,.wav,23.78,1,,2,Kept (at least one window),2,Kept (at least one window)
+614628340.wav,Brahminy Kite,.wav,5.86,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+614629129.wav,Brahminy Kite,.wav,4.53,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+614778714.mp3,Crested Goshawk,.mp3,13.44,1,,2,Kept (at least one window),3,Kept (at least one window)
+615287306.wav,Brahminy Kite,.wav,9.57,1,,2,Kept (at least one window),2,Kept (at least one window)
+615983389.wav,Crested Goshawk,.wav,12.39,1,,2,Kept (at least one window),3,Kept (at least one window)
+616055798.wav,Crested Goshawk,.wav,59.72,1,,2,Kept (at least one window),2,Kept (at least one window)
+616149662.wav,Crested Goshawk,.wav,42.44,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+616354915.wav,Brahminy Kite,.wav,15.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+616491391.wav,Crested Goshawk,.wav,88.53,6,,8,Kept (at least one window),7,Kept (at least one window)
+616494414.wav,Crested Goshawk,.wav,29.84,4,,5,Kept (at least one window),5,Kept (at least one window)
+616974839.wav,Pinsker's Hawk-Eagle,.wav,2.7,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+616974840.wav,Pinsker's Hawk-Eagle,.wav,9.2,1,,1,Kept (at least one window),1,Kept (at least one window)
+617307243.m4a,Brahminy Kite,.m4a,59.35,3,,6,Kept (at least one window),7,Kept (at least one window)
+617330356.wav,Philippine Frogmouth,.wav,5.91,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+617604888.mp3,Rufous-bellied Eagle,.mp3,14.11,3,,4,Kept (at least one window),3,Kept (at least one window)
+618478652.wav,Crested Goshawk,.wav,17.63,1,,2,Kept (at least one window),2,Kept (at least one window)
+618550437.wav,Crested Goshawk,.wav,26.52,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+618550444.wav,Crested Goshawk,.wav,32.55,1,,2,Kept (at least one window),3,Kept (at least one window)
+618662527.wav,Crested Goshawk,.wav,64.4,2,,3,Kept (at least one window),3,Kept (at least one window)
+618752356.wav,Brahminy Kite,.wav,3.45,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+618938423.m4a,Philippine Hawk-Eagle,.m4a,48.49,3,,4,Kept (at least one window),5,Kept (at least one window)
+619119971.wav,Crested Goshawk,.wav,56.64,4,,5,Kept (at least one window),5,Kept (at least one window)
+619172128.m4a,Rufous-bellied Eagle,.m4a,47.06,2,,3,Kept (at least one window),4,Kept (at least one window)
+619172136.m4a,Rufous-bellied Eagle,.m4a,51.14,2,,4,Kept (at least one window),4,Kept (at least one window)
+619285980.wav,Brahminy Kite,.wav,6.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+619546332.wav,Brahminy Kite,.wav,18.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+619701226.wav,Brahminy Kite,.wav,7.0,1,,2,Kept (at least one window),2,Kept (at least one window)
+619845654.wav,Brahminy Kite,.wav,3.06,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+619927332.wav,Brahminy Kite,.wav,10.0,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+619927333.wav,Brahminy Kite,.wav,20.0,1,,2,Kept (at least one window),2,Kept (at least one window)
+619927334.wav,Brahminy Kite,.wav,29.0,3,,4,Kept (at least one window),3,Kept (at least one window)
+620058095.wav,Brahminy Kite,.wav,16.08,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+620403245.wav,Brahminy Kite,.wav,10.0,1,,2,Kept (at least one window),2,Kept (at least one window)
+620492014.wav,Brahminy Kite,.wav,11.95,1,,1,Kept (at least one window),1,Kept (at least one window)
+620528766.m4a,Crested Goshawk,.m4a,51.86,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+620787400.wav,Crested Goshawk,.wav,41.27,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+621999479.wav,Crested Goshawk,.wav,23.75,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+622025029.wav,Crested Goshawk,.wav,61.1,5,,6,Kept (at least one window),6,Kept (at least one window)
+622234308.m4a,Crested Goshawk,.m4a,28.78,1,,2,Kept (at least one window),3,Kept (at least one window)
+622534072.wav,Brahminy Kite,.wav,7.04,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+622540128.wav,Brahminy Kite,.wav,4.05,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+622728292.m4a,Philippine Frogmouth,.m4a,7.17,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+622917326.wav,Crested Goshawk,.wav,11.51,2,,3,Kept (at least one window),3,Kept (at least one window)
+623032626.wav,Brahminy Kite,.wav,5.68,1,,1,Kept (at least one window),1,Kept (at least one window)
+623032700.wav,Brahminy Kite,.wav,34.81,2,,4,Kept (at least one window),5,Kept (at least one window)
+623178893.wav,Crested Goshawk,.wav,2.39,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+623385594.wav,Brahminy Kite,.wav,7.06,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+623385595.wav,Brahminy Kite,.wav,6.97,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+623708572.mp3,Philippine Frogmouth,.mp3,34.95,9,,10,Kept (at least one window),8,Kept (at least one window)
+623711721.mp3,Philippine Drongo-Cuckoo,.mp3,57.63,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+623859850.wav,Brahminy Kite,.wav,74.72,4,,7,Kept (at least one window),7,Kept (at least one window)
+624424977.wav,Crested Goshawk,.wav,70.64,4,,7,Kept (at least one window),7,Kept (at least one window)
+625441230.wav,Brahminy Kite,.wav,5.03,2,,2,Kept (at least one window),1,Kept (at least one window)
+625923056.wav,Brahminy Kite,.wav,5.78,1,,1,Kept (at least one window),1,Kept (at least one window)
+625951101.wav,Brahminy Kite,.wav,15.33,3,,3,Kept (at least one window),3,Kept (at least one window)
+625951420.wav,Brahminy Kite,.wav,31.63,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+626164441.wav,Brahminy Kite,.wav,4.21,1,,1,Kept (at least one window),1,Kept (at least one window)
+626495911.wav,Brahminy Kite,.wav,23.05,5,,5,Kept (at least one window),5,Kept (at least one window)
+627218195.m4a,Crested Goshawk,.m4a,62.76,11,,13,Kept (at least one window),13,Kept (at least one window)
+627300715.m4a,Crested Goshawk,.m4a,20.69,2,,3,Kept (at least one window),4,Kept (at least one window)
+627300716.m4a,Crested Goshawk,.m4a,13.72,1,,2,Kept (at least one window),2,Kept (at least one window)
+627312137.m4a,Brahminy Kite,.m4a,3.32,1,,1,Kept (at least one window),1,Kept (at least one window)
+627417711.mp3,Brahminy Kite,.mp3,5.25,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+627752834.wav,Crested Goshawk,.wav,25.23,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+628123079.mp3,Brahminy Kite,.mp3,9.64,1,,2,Kept (at least one window),2,Kept (at least one window)
+628123122.mp3,Brahminy Kite,.mp3,9.64,1,,2,Kept (at least one window),2,Kept (at least one window)
+628460123.wav,Brahminy Kite,.wav,47.83,6,,8,Kept (at least one window),7,Kept (at least one window)
+628470509.m4a,Philippine Drongo-Cuckoo,.m4a,21.34,1,,2,Kept (at least one window),3,Kept (at least one window)
+628658690.wav,Crested Goshawk,.wav,37.61,1,,2,Kept (at least one window),2,Kept (at least one window)
+629500272.wav,Crested Goshawk,.wav,48.17,3,,6,Kept (at least one window),7,Kept (at least one window)
+629590096.wav,Crested Goshawk,.wav,80.26,8,,10,Kept (at least one window),13,Kept (at least one window)
+629811537.wav,Brahminy Kite,.wav,2.06,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+629811538.wav,Brahminy Kite,.wav,4.21,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+629811539.wav,Brahminy Kite,.wav,7.72,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+62991701.wav,Crested Goshawk,.wav,23.31,4,,5,Kept (at least one window),5,Kept (at least one window)
+630157456.wav,Crested Goshawk,.wav,25.06,3,,2,Kept (at least one window),3,Kept (at least one window)
+630310692.wav,Brahminy Kite,.wav,14.63,2,,2,Kept (at least one window),2,Kept (at least one window)
+630393718.m4a,Philippine Drongo-Cuckoo,.m4a,25.36,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+630570309.wav,Crested Goshawk,.wav,7.06,2,,2,Kept (at least one window),2,Kept (at least one window)
+630578959.wav,Crested Goshawk,.wav,50.31,5,,6,Kept (at least one window),7,Kept (at least one window)
+630651878.wav,Crested Goshawk,.wav,131.43,12,,13,Kept (at least one window),15,Kept (at least one window)
+630659542.wav,Crested Goshawk,.wav,27.72,2,,4,Kept (at least one window),3,Kept (at least one window)
+630829614.mp3,Philippine Drongo-Cuckoo,.mp3,22.8,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+631040730.m4a,Brahminy Kite,.m4a,6.06,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+631040731.m4a,Brahminy Kite,.m4a,7.22,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+631208134.wav,Philippine Drongo-Cuckoo,.wav,22.77,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+631214694.m4a,Brahminy Kite,.m4a,10.07,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+631903265.m4a,Rufous-bellied Eagle,.m4a,2.88,1,,1,Kept (at least one window),1,Kept (at least one window)
+63206221.wav,Crested Goshawk,.wav,42.02,1,,2,Kept (at least one window),2,Kept (at least one window)
+632088796.wav,Crested Goshawk,.wav,2.57,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+632339784.wav,Crested Goshawk,.wav,11.58,1,,2,Kept (at least one window),2,Kept (at least one window)
+632339785.wav,Crested Goshawk,.wav,25.59,4,,6,Kept (at least one window),7,Kept (at least one window)
+632339786.wav,Crested Goshawk,.wav,41.28,2,,3,Kept (at least one window),4,Kept (at least one window)
+632377576.wav,Crested Goshawk,.wav,23.17,2,,3,Kept (at least one window),4,Kept (at least one window)
+632377577.wav,Crested Goshawk,.wav,27.88,2,,1,Kept (at least one window),1,Kept (at least one window)
+632377578.wav,Crested Goshawk,.wav,64.15,6,,6,Kept (at least one window),5,Kept (at least one window)
+632432925.wav,Crested Goshawk,.wav,35.97,5,,5,Kept (at least one window),5,Kept (at least one window)
+632432926.wav,Crested Goshawk,.wav,33.31,2,,2,Kept (at least one window),3,Kept (at least one window)
+632432927.wav,Crested Goshawk,.wav,21.57,2,,2,Kept (at least one window),2,Kept (at least one window)
+632546006.wav,Philippine Falconet,.wav,4.76,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+632611297.wav,Brahminy Kite,.wav,22.41,1,,2,Kept (at least one window),3,Kept (at least one window)
+632847503.wav,Brahminy Kite,.wav,8.8,2,,1,Kept (at least one window),1,Kept (at least one window)
+632887094.wav,Brahminy Kite,.wav,39.2,4,,5,Kept (at least one window),6,Kept (at least one window)
+632889406.wav,Crested Goshawk,.wav,8.98,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+632890076.wav,Brahminy Kite,.wav,27.6,4,,6,Kept (at least one window),6,Kept (at least one window)
+633269705.wav,Crested Goshawk,.wav,51.47,5,,5,Kept (at least one window),4,Kept (at least one window)
+633333860.wav,Crested Goshawk,.wav,49.63,1,,2,Kept (at least one window),3,Kept (at least one window)
+633535784.wav,Crested Goshawk,.wav,60.83,2,,3,Kept (at least one window),2,Kept (at least one window)
+633893043.wav,Crested Goshawk,.wav,14.79,1,,1,Kept (at least one window),1,Kept (at least one window)
+633947748.wav,Crested Goshawk,.wav,5.28,1,,2,Kept (at least one window),1,Kept (at least one window)
+633947749.wav,Crested Goshawk,.wav,9.28,4,,4,Kept (at least one window),3,Kept (at least one window)
+633947750.wav,Crested Goshawk,.wav,26.14,4,,5,Kept (at least one window),3,Kept (at least one window)
+633947751.wav,Crested Goshawk,.wav,39.22,6,,7,Kept (at least one window),6,Kept (at least one window)
+634140933.wav,Brahminy Kite,.wav,89.68,3,,6,Kept (at least one window),8,Kept (at least one window)
+634155652.wav,Crested Goshawk,.wav,30.23,3,,4,Kept (at least one window),4,Kept (at least one window)
+634928771.mp3,Crested Goshawk,.mp3,9.25,2,,3,Kept (at least one window),2,Kept (at least one window)
+635484312.wav,Crested Goshawk,.wav,17.52,2,,1,Kept (at least one window),1,Kept (at least one window)
+635484313.wav,Crested Goshawk,.wav,40.57,6,,9,Kept (at least one window),9,Kept (at least one window)
+636006984.wav,Brahminy Kite,.wav,9.05,1,,2,Kept (at least one window),2,Kept (at least one window)
+636211610.wav,Brahminy Kite,.wav,10.96,2,,2,Kept (at least one window),1,Kept (at least one window)
+636211611.wav,Brahminy Kite,.wav,13.93,1,,2,Kept (at least one window),2,Kept (at least one window)
+636635774.wav,Brahminy Kite,.wav,38.68,4,,7,Kept (at least one window),6,Kept (at least one window)
+636871587.m4a,Brahminy Kite,.m4a,7.89,3,,3,Kept (at least one window),2,Kept (at least one window)
+636871595.m4a,Brahminy Kite,.m4a,9.15,3,,2,Kept (at least one window),2,Kept (at least one window)
+636937671.wav,Brahminy Kite,.wav,4.54,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+637264900.wav,Crested Goshawk,.wav,12.15,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+63745001.wav,Brahminy Kite,.wav,6.64,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+63745331.wav,Brahminy Kite,.wav,4.48,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+637832042.wav,Brahminy Kite,.wav,30.04,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+637833951.wav,Brahminy Kite,.wav,31.87,9,,10,Kept (at least one window),8,Kept (at least one window)
+637858363.wav,Brahminy Kite,.wav,12.31,3,,2,Kept (at least one window),2,Kept (at least one window)
+637858364.wav,Brahminy Kite,.wav,12.29,3,,4,Kept (at least one window),4,Kept (at least one window)
+638122119.wav,Crested Goshawk,.wav,12.11,3,,3,Kept (at least one window),3,Kept (at least one window)
+638122756.wav,Philippine Frogmouth,.wav,13.62,1,,3,Kept (at least one window),2,Kept (at least one window)
+638970328.mp3,Philippine Frogmouth,.mp3,9.94,2,,3,Kept (at least one window),2,Kept (at least one window)
+639141821.wav,Crested Goshawk,.wav,18.06,2,,5,Kept (at least one window),5,Kept (at least one window)
+639404165.m4a,Brahminy Kite,.m4a,9.9,1,,2,Kept (at least one window),2,Kept (at least one window)
+639448625.wav,Brahminy Kite,.wav,21.58,1,,2,Kept (at least one window),2,Kept (at least one window)
+639658220.wav,Crested Goshawk,.wav,30.92,1,,2,Kept (at least one window),2,Kept (at least one window)
+639949852.wav,Brahminy Kite,.wav,21.91,2,,2,Kept (at least one window),2,Kept (at least one window)
+640007363.wav,Brahminy Kite,.wav,3.1,1,,1,Kept (at least one window),1,Kept (at least one window)
+641001650.wav,Brahminy Kite,.wav,12.49,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+641001651.wav,Brahminy Kite,.wav,38.25,5,,7,Kept (at least one window),8,Kept (at least one window)
+641417745.wav,Brahminy Kite,.wav,57.11,4,,3,Kept (at least one window),4,Kept (at least one window)
+643342298.m4a,Brahminy Kite,.m4a,20.29,3,,2,Kept (at least one window),2,Kept (at least one window)
+643342311.wav,Brahminy Kite,.wav,11.38,2,,1,Kept (at least one window),1,Kept (at least one window)
+643812607.wav,Crested Goshawk,.wav,7.42,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+643880927.mp3,Crested Goshawk,.mp3,8.77,1,,2,Kept (at least one window),2,Kept (at least one window)
+644073410.wav,Crested Goshawk,.wav,98.23,15,,19,Kept (at least one window),20,Kept (at least one window)
+644255988.wav,Brahminy Kite,.wav,25.86,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+644361337.wav,Brahminy Kite,.wav,4.38,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+644461743.m4a,Brahminy Kite,.m4a,6.08,1,,2,Kept (at least one window),1,Kept (at least one window)
+644462773.wav,Brahminy Kite,.wav,6.51,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+645308500.wav,Philippine Frogmouth,.wav,5.87,1,,1,Kept (at least one window),1,Kept (at least one window)
+645442800.wav,Crested Goshawk,.wav,21.92,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+645442823.wav,Crested Goshawk,.wav,17.83,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+645444116.wav,Crested Goshawk,.wav,17.83,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+645764789.wav,Crested Goshawk,.wav,13.98,3,,2,Kept (at least one window),3,Kept (at least one window)
+646229675.wav,Crested Goshawk,.wav,23.47,2,,3,Kept (at least one window),2,Kept (at least one window)
+646231081.wav,Brahminy Kite,.wav,5.25,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+646231093.wav,Brahminy Kite,.wav,5.74,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+646231690.m4a,Brahminy Kite,.m4a,61.25,1,,2,Kept (at least one window),2,Kept (at least one window)
+646496533.wav,Crested Goshawk,.wav,35.59,4,,6,Kept (at least one window),7,Kept (at least one window)
+646496534.wav,Crested Goshawk,.wav,71.79,4,,5,Kept (at least one window),6,Kept (at least one window)
+646496667.wav,Crested Goshawk,.wav,39.29,5,,6,Kept (at least one window),7,Kept (at least one window)
+646496799.wav,Crested Goshawk,.wav,21.29,3,,3,Kept (at least one window),3,Kept (at least one window)
+646496849.wav,Crested Goshawk,.wav,32.79,3,,3,Kept (at least one window),4,Kept (at least one window)
+646496850.wav,Crested Goshawk,.wav,24.68,3,,3,Kept (at least one window),2,Kept (at least one window)
+646496851.wav,Crested Goshawk,.wav,43.98,1,,2,Kept (at least one window),2,Kept (at least one window)
+646566095.wav,Crested Goshawk,.wav,40.49,4,,5,Kept (at least one window),5,Kept (at least one window)
+646566096.wav,Crested Goshawk,.wav,49.99,3,,4,Kept (at least one window),4,Kept (at least one window)
+646573005.wav,Crested Goshawk,.wav,37.17,2,,1,Kept (at least one window),2,Kept (at least one window)
+646573008.wav,Crested Goshawk,.wav,65.78,11,,12,Kept (at least one window),12,Kept (at least one window)
+646615246.wav,Crested Goshawk,.wav,24.38,2,,3,Kept (at least one window),3,Kept (at least one window)
+646627617.wav,Brahminy Kite,.wav,37.52,5,,6,Kept (at least one window),6,Kept (at least one window)
+646891136.wav,Crested Goshawk,.wav,70.59,6,,10,Kept (at least one window),9,Kept (at least one window)
+646891137.wav,Crested Goshawk,.wav,70.68,13,,9,Kept (at least one window),9,Kept (at least one window)
+646891185.wav,Crested Goshawk,.wav,53.68,5,,6,Kept (at least one window),5,Kept (at least one window)
+646891267.wav,Crested Goshawk,.wav,28.79,1,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+646891313.wav,Crested Goshawk,.wav,86.28,6,,10,Kept (at least one window),10,Kept (at least one window)
+646996683.wav,Crested Goshawk,.wav,30.28,4,,5,Kept (at least one window),5,Kept (at least one window)
+646996684.wav,Crested Goshawk,.wav,29.09,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+646996685.wav,Crested Goshawk,.wav,25.19,3,,3,Kept (at least one window),4,Kept (at least one window)
+646996686.wav,Crested Goshawk,.wav,76.28,10,,8,Kept (at least one window),7,Kept (at least one window)
+646996936.wav,Crested Goshawk,.wav,30.58,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+646997062.wav,Crested Goshawk,.wav,60.39,5,,6,Kept (at least one window),6,Kept (at least one window)
+646997063.wav,Crested Goshawk,.wav,31.58,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+646997111.wav,Crested Goshawk,.wav,105.49,10,,9,Kept (at least one window),9,Kept (at least one window)
+647006292.wav,Crested Goshawk,.wav,74.88,5,,5,Kept (at least one window),5,Kept (at least one window)
+647012635.wav,Crested Goshawk,.wav,65.53,7,,7,Kept (at least one window),7,Kept (at least one window)
+647012636.wav,Crested Goshawk,.wav,76.98,5,,4,Kept (at least one window),5,Kept (at least one window)
+647012670.wav,Crested Goshawk,.wav,65.56,5,,7,Kept (at least one window),10,Kept (at least one window)
+647012671.wav,Crested Goshawk,.wav,110.46,2,,3,Kept (at least one window),4,Kept (at least one window)
+647109224.wav,Crested Goshawk,.wav,6.99,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+647162356.wav,Crested Goshawk,.wav,60.28,5,,7,Kept (at least one window),7,Kept (at least one window)
+647162368.wav,Crested Goshawk,.wav,61.39,7,,9,Kept (at least one window),9,Kept (at least one window)
+647162369.wav,Crested Goshawk,.wav,60.28,4,,4,Kept (at least one window),6,Kept (at least one window)
+647162370.wav,Crested Goshawk,.wav,86.28,6,,11,Kept (at least one window),13,Kept (at least one window)
+647672699.wav,Crested Goshawk,.wav,76.67,6,,10,Kept (at least one window),11,Kept (at least one window)
+647812473.wav,Crested Goshawk,.wav,31.09,3,,4,Kept (at least one window),4,Kept (at least one window)
+647812474.wav,Crested Goshawk,.wav,60.18,6,,7,Kept (at least one window),7,Kept (at least one window)
+647812475.wav,Crested Goshawk,.wav,61.79,1,,2,Kept (at least one window),1,Kept (at least one window)
+647812476.wav,Crested Goshawk,.wav,60.28,3,,3,Kept (at least one window),3,Kept (at least one window)
+647961558.wav,Crested Goshawk,.wav,9.01,1,,1,Kept (at least one window),1,Kept (at least one window)
+648106400.wav,Brahminy Kite,.wav,8.05,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+648164941.wav,Crested Goshawk,.wav,17.79,1,,3,Kept (at least one window),3,Kept (at least one window)
+648191525.wav,Crested Goshawk,.wav,40.68,4,,5,Kept (at least one window),4,Kept (at least one window)
+648541846.wav,Philippine Drongo-Cuckoo,.wav,30.08,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+648671883.wav,Crested Goshawk,.wav,45.39,2,,3,Kept (at least one window),3,Kept (at least one window)
+648671884.wav,Crested Goshawk,.wav,70.29,3,,3,Kept (at least one window),4,Kept (at least one window)
+648675430.wav,Philippine Drongo-Cuckoo,.wav,20.72,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+648740292.wav,Crested Goshawk,.wav,60.28,4,,4,Kept (at least one window),3,Kept (at least one window)
+648740293.wav,Crested Goshawk,.wav,120.09,13,,9,Kept (at least one window),9,Kept (at least one window)
+648747576.wav,Philippine Drongo-Cuckoo,.wav,23.44,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+648813890.wav,Philippine Drongo-Cuckoo,.wav,21.84,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+648927976.wav,Crested Goshawk,.wav,51.18,1,,2,Kept (at least one window),2,Kept (at least one window)
+649029170.wav,Crested Goshawk,.wav,43.37,2,,3,Kept (at least one window),4,Kept (at least one window)
+649029252.wav,Crested Goshawk,.wav,82.78,5,,5,Kept (at least one window),5,Kept (at least one window)
+649099008.wav,Crested Goshawk,.wav,128.17,10,,11,Kept (at least one window),15,Kept (at least one window)
+649099009.wav,Crested Goshawk,.wav,150.09,12,,16,Kept (at least one window),15,Kept (at least one window)
+649099096.wav,Crested Goshawk,.wav,64.88,4,,5,Kept (at least one window),6,Kept (at least one window)
+649099648.wav,Crested Goshawk,.wav,40.49,7,,6,Kept (at least one window),5,Kept (at least one window)
+649099649.wav,Crested Goshawk,.wav,90.09,5,,9,Kept (at least one window),11,Kept (at least one window)
+649099650.wav,Crested Goshawk,.wav,90.09,8,,9,Kept (at least one window),8,Kept (at least one window)
+649099651.wav,Crested Goshawk,.wav,89.79,6,,7,Kept (at least one window),9,Kept (at least one window)
+649099763.wav,Crested Goshawk,.wav,63.99,2,,4,Kept (at least one window),5,Kept (at least one window)
+649121620.wav,Crested Goshawk,.wav,12.19,1,,1,Kept (at least one window),0,"Vocalization found, but no window holds at least 50% of one"
+649121621.wav,Crested Goshawk,.wav,20.18,2,,4,Kept (at least one window),5,Kept (at least one window)
+649121622.wav,Crested Goshawk,.wav,26.49,3,,4,Kept (at least one window),4,Kept (at least one window)
+649121623.wav,Crested Goshawk,.wav,40.08,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+649121624.wav,Crested Goshawk,.wav,60.18,5,,9,Kept (at least one window),11,Kept (at least one window)
+649441876.wav,Crested Goshawk,.wav,27.09,2,,4,Kept (at least one window),5,Kept (at least one window)
+649562634.wav,Crested Goshawk,.wav,29.98,5,,2,Kept (at least one window),2,Kept (at least one window)
+649562672.wav,Crested Goshawk,.wav,27.89,1,,2,Kept (at least one window),3,Kept (at least one window)
+649570880.wav,Brahminy Kite,.wav,28.61,3,,4,Kept (at least one window),4,Kept (at least one window)
+649573973.wav,Crested Goshawk,.wav,25.77,1,,2,Kept (at least one window),1,Kept (at least one window)
+649573974.wav,Crested Goshawk,.wav,60.18,1,,2,Kept (at least one window),3,Kept (at least one window)
+649574025.wav,Crested Goshawk,.wav,20.29,2,,1,Kept (at least one window),1,Kept (at least one window)
+649574026.wav,Crested Goshawk,.wav,43.19,3,,6,Kept (at least one window),5,Kept (at least one window)
+649787008.mp3,Crested Goshawk,.mp3,40.84,3,,4,Kept (at least one window),4,Kept (at least one window)
+649836753.wav,Brahminy Kite,.wav,9.18,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+649873199.wav,Brahminy Kite,.wav,1.79,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+649889946.wav,Crested Goshawk,.wav,3.92,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+650026847.wav,Crested Goshawk,.wav,96.78,3,,3,Kept (at least one window),3,Kept (at least one window)
+650026848.wav,Crested Goshawk,.wav,115.29,5,,5,Kept (at least one window),5,Kept (at least one window)
+650096990.mp3,Crested Goshawk,.mp3,11.88,2,,3,Kept (at least one window),2,Kept (at least one window)
+650177050.wav,Brahminy Kite,.wav,17.46,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+650557438.wav,Crested Goshawk,.wav,16.83,2,,3,Kept (at least one window),3,Kept (at least one window)
+650803576.wav,Brahminy Kite,.wav,264.11,38,,37,Kept (at least one window),35,Kept (at least one window)
+650806486.wav,Brahminy Kite,.wav,272.57,23,,28,Kept (at least one window),28,Kept (at least one window)
+650809899.wav,Philippine Falconet,.wav,35.66,1,,2,Kept (at least one window),2,Kept (at least one window)
+650899419.wav,Crested Goshawk,.wav,41.0,1,,0,"Vocalization found, but no window holds at least 50% of one",1,Kept (at least one window)
+650950742.wav,Crested Goshawk,.wav,46.69,1,,2,Kept (at least one window),3,Kept (at least one window)
+650950743.wav,Crested Goshawk,.wav,90.28,7,,7,Kept (at least one window),6,Kept (at least one window)
+651023175.wav,Crested Goshawk,.wav,24.98,3,,5,Kept (at least one window),4,Kept (at least one window)
+651023176.wav,Crested Goshawk,.wav,16.88,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+651023177.wav,Crested Goshawk,.wav,22.29,2,,3,Kept (at least one window),3,Kept (at least one window)
+651023178.wav,Crested Goshawk,.wav,30.39,4,,6,Kept (at least one window),5,Kept (at least one window)
+651023179.wav,Crested Goshawk,.wav,44.98,3,,3,Kept (at least one window),4,Kept (at least one window)
+651023180.wav,Crested Goshawk,.wav,30.28,1,,2,Kept (at least one window),3,Kept (at least one window)
+651023181.wav,Crested Goshawk,.wav,63.99,8,,6,Kept (at least one window),7,Kept (at least one window)
+651023182.wav,Crested Goshawk,.wav,62.58,3,,5,Kept (at least one window),5,Kept (at least one window)
+651023409.wav,Crested Goshawk,.wav,34.87,2,,3,Kept (at least one window),4,Kept (at least one window)
+651023412.wav,Crested Goshawk,.wav,60.28,3,,5,Kept (at least one window),5,Kept (at least one window)
+651023413.wav,Crested Goshawk,.wav,65.29,2,,3,Kept (at least one window),3,Kept (at least one window)
+651027050.wav,Crested Goshawk,.wav,60.39,3,,5,Kept (at least one window),6,Kept (at least one window)
+651027103.wav,Crested Goshawk,.wav,30.79,2,,3,Kept (at least one window),3,Kept (at least one window)
+651027104.wav,Crested Goshawk,.wav,25.29,3,,3,Kept (at least one window),4,Kept (at least one window)
+651027105.wav,Crested Goshawk,.wav,40.08,4,,6,Kept (at least one window),6,Kept (at least one window)
+651027106.wav,Crested Goshawk,.wav,50.48,3,,3,Kept (at least one window),2,Kept (at least one window)
+651027107.wav,Crested Goshawk,.wav,49.99,6,,4,Kept (at least one window),4,Kept (at least one window)
+651027108.wav,Crested Goshawk,.wav,90.39,3,,5,Kept (at least one window),5,Kept (at least one window)
+651027109.wav,Crested Goshawk,.wav,80.39,11,,10,Kept (at least one window),9,Kept (at least one window)
+651027110.wav,Crested Goshawk,.wav,90.18,1,,2,Kept (at least one window),2,Kept (at least one window)
+651120664.wav,Brahminy Kite,.wav,3.58,1,,1,Kept (at least one window),1,Kept (at least one window)
+651133605.wav,Brahminy Kite,.wav,8.02,1,,2,Kept (at least one window),1,Kept (at least one window)
+651185435.wav,Crested Goshawk,.wav,85.29,5,,8,Kept (at least one window),9,Kept (at least one window)
+651185436.wav,Crested Goshawk,.wav,69.98,6,,8,Kept (at least one window),9,Kept (at least one window)
+651185437.wav,Crested Goshawk,.wav,60.28,6,,8,Kept (at least one window),7,Kept (at least one window)
+651185438.wav,Crested Goshawk,.wav,62.79,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+651185439.wav,Crested Goshawk,.wav,89.67,9,,9,Kept (at least one window),8,Kept (at least one window)
+651185440.wav,Crested Goshawk,.wav,100.38,6,,5,Kept (at least one window),4,Kept (at least one window)
+651185441.wav,Crested Goshawk,.wav,119.28,2,,3,Kept (at least one window),3,Kept (at least one window)
+651185443.wav,Crested Goshawk,.wav,120.19,11,,14,Kept (at least one window),13,Kept (at least one window)
+651191184.wav,Crested Goshawk,.wav,35.29,2,,2,Kept (at least one window),2,Kept (at least one window)
+651191185.wav,Crested Goshawk,.wav,30.39,1,,2,Kept (at least one window),3,Kept (at least one window)
+651191186.wav,Crested Goshawk,.wav,30.28,3,,3,Kept (at least one window),3,Kept (at least one window)
+651191187.wav,Crested Goshawk,.wav,39.98,6,,4,Kept (at least one window),3,Kept (at least one window)
+651191188.wav,Crested Goshawk,.wav,50.29,4,,5,Kept (at least one window),5,Kept (at least one window)
+651191189.wav,Crested Goshawk,.wav,55.98,1,,2,Kept (at least one window),3,Kept (at least one window)
+651191190.wav,Crested Goshawk,.wav,70.29,7,,8,Kept (at least one window),10,Kept (at least one window)
+651191343.wav,Crested Goshawk,.wav,34.18,1,,2,Kept (at least one window),2,Kept (at least one window)
+651191344.wav,Crested Goshawk,.wav,65.39,7,,11,Kept (at least one window),12,Kept (at least one window)
+651191345.wav,Crested Goshawk,.wav,90.28,14,,14,Kept (at least one window),12,Kept (at least one window)
+651191346.wav,Crested Goshawk,.wav,119.88,3,,5,Kept (at least one window),6,Kept (at least one window)
+651202385.wav,Crested Goshawk,.wav,9.56,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+651202646.wav,Crested Goshawk,.wav,35.74,2,,1,Kept (at least one window),1,Kept (at least one window)
+651263361.wav,Crested Goshawk,.wav,30.49,3,,3,Kept (at least one window),3,Kept (at least one window)
+651535575.wav,Brahminy Kite,.wav,8.0,1,,2,Kept (at least one window),2,Kept (at least one window)
+651535576.wav,Brahminy Kite,.wav,25.88,7,,11,Kept (at least one window),9,Kept (at least one window)
+651563522.wav,Crested Goshawk,.wav,13.62,1,,2,Kept (at least one window),2,Kept (at least one window)
+651659833.wav,Crested Goshawk,.wav,8.82,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+651659834.wav,Crested Goshawk,.wav,8.21,2,,3,Kept (at least one window),2,Kept (at least one window)
+651659835.wav,Crested Goshawk,.wav,17.54,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+651659836.wav,Crested Goshawk,.wav,17.03,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+651659837.wav,Crested Goshawk,.wav,46.38,5,,4,Kept (at least one window),3,Kept (at least one window)
+651665374.wav,Philippine Frogmouth,.wav,19.29,2,,3,Kept (at least one window),3,Kept (at least one window)
+651666013.wav,Pinsker's Hawk-Eagle,.wav,20.39,3,,3,Kept (at least one window),4,Kept (at least one window)
+651666014.wav,Pinsker's Hawk-Eagle,.wav,61.64,9,,5,Kept (at least one window),4,Kept (at least one window)
+651676837.wav,Pinsker's Hawk-Eagle,.wav,15.6,3,,3,Kept (at least one window),3,Kept (at least one window)
+651786332.wav,Philippine Falconet,.wav,49.02,4,,5,Kept (at least one window),6,Kept (at least one window)
+651786334.wav,Philippine Falconet,.wav,61.35,3,,2,Kept (at least one window),4,Kept (at least one window)
+651787306.wav,Pinsker's Hawk-Eagle,.wav,38.01,1,,1,Kept (at least one window),1,Kept (at least one window)
+651844804.wav,Crested Goshawk,.wav,25.98,2,,1,Kept (at least one window),1,Kept (at least one window)
+651844805.wav,Crested Goshawk,.wav,15.97,1,,0,"Vocalization found, but no window holds at least 50% of one",0,"Vocalization found, but no window holds at least 50% of one"
+651844806.wav,Crested Goshawk,.wav,41.89,7,,8,Kept (at least one window),10,Kept (at least one window)
+651844807.wav,Crested Goshawk,.wav,40.68,3,,5,Kept (at least one window),5,Kept (at least one window)
+651844808.wav,Crested Goshawk,.wav,90.09,10,,8,Kept (at least one window),8,Kept (at least one window)
+651844809.wav,Crested Goshawk,.wav,49.99,6,,6,Kept (at least one window),6,Kept (at least one window)
+651844810.wav,Crested Goshawk,.wav,110.99,4,,7,Kept (at least one window),6,Kept (at least one window)
+651844866.wav,Crested Goshawk,.wav,32.27,2,,4,Kept (at least one window),4,Kept (at least one window)
+651844867.wav,Crested Goshawk,.wav,30.88,2,,2,Kept (at least one window),1,Kept (at least one window)
+651918543.wav,Crested Goshawk,.wav,31.58,5,,6,Kept (at least one window),8,Kept (at least one window)
+651925041.wav,Crested Goshawk,.wav,30.28,2,,2,Kept (at least one window),3,Kept (at least one window)
+651925042.wav,Crested Goshawk,.wav,56.38,1,,2,Kept (at least one window),3,Kept (at least one window)
+652378664.wav,Brahminy Kite,.wav,26.16,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+652515015.wav,Crested Goshawk,.wav,25.17,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+652522906.wav,Crested Goshawk,.wav,18.65,3,,3,Kept (at least one window),2,Kept (at least one window)
+652522907.wav,Crested Goshawk,.wav,22.61,5,,5,Kept (at least one window),4,Kept (at least one window)
+652522908.wav,Crested Goshawk,.wav,24.19,5,,4,Kept (at least one window),4,Kept (at least one window)
+652522909.wav,Crested Goshawk,.wav,25.92,5,,4,Kept (at least one window),3,Kept (at least one window)
+652560728.wav,Crested Goshawk,.wav,30.18,3,,5,Kept (at least one window),5,Kept (at least one window)
+652639985.mp3,Crested Goshawk,.mp3,10.03,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+652640088.mp3,Crested Goshawk,.mp3,10.03,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+652690213.wav,Brahminy Kite,.wav,7.02,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+652747199.wav,Crested Goshawk,.wav,40.49,2,,2,Kept (at least one window),3,Kept (at least one window)
+652747204.wav,Crested Goshawk,.wav,170.18,13,,16,Kept (at least one window),16,Kept (at least one window)
+653313294.wav,Brahminy Kite,.wav,17.46,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+653313295.wav,Brahminy Kite,.wav,45.76,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+653603780.wav,Brahminy Kite,.wav,20.99,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+653828574.wav,Crested Goshawk,.wav,20.83,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+654333482.wav,Philippine Drongo-Cuckoo,.wav,6.66,2,,3,Kept (at least one window),1,Kept (at least one window)
+654333483.wav,Philippine Drongo-Cuckoo,.wav,80.38,11,,12,Kept (at least one window),14,Kept (at least one window)
+654341496.wav,Crested Goshawk,.wav,89.98,12,,11,Kept (at least one window),13,Kept (at least one window)
+654789633.mp3,Brahminy Kite,.mp3,5.67,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+655079010.wav,Brahminy Kite,.wav,31.66,1,,2,Kept (at least one window),2,Kept (at least one window)
+655377751.wav,Crested Goshawk,.wav,8.72,2,,2,Kept (at least one window),1,Kept (at least one window)
+655460186.m4a,Brahminy Kite,.m4a,6.46,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+655886798.wav,Crested Goshawk,.wav,6.74,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+656864212.mp3,Crested Goshawk,.mp3,28.64,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+656940538.m4a,Brahminy Kite,.m4a,13.31,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+657052860.mp3,Crested Goshawk,.mp3,64.15,5,,9,Kept (at least one window),8,Kept (at least one window)
+657616825.wav,Crested Goshawk,.wav,3.86,2,,1,Kept (at least one window),1,Kept (at least one window)
+657617422.wav,Crested Goshawk,.wav,12.81,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+658182150.wav,Crested Goshawk,.wav,32.65,3,,3,Kept (at least one window),2,Kept (at least one window)
+658266171.wav,Brahminy Kite,.wav,5.82,1,,1,Kept (at least one window),1,Kept (at least one window)
+658266175.wav,Brahminy Kite,.wav,318.22,17,,32,Kept (at least one window),33,Kept (at least one window)
+658446345.wav,Brahminy Kite,.wav,8.06,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+658446346.wav,Brahminy Kite,.wav,7.91,1,,2,Kept (at least one window),2,Kept (at least one window)
+658446347.wav,Brahminy Kite,.wav,9.2,2,,2,Kept (at least one window),2,Kept (at least one window)
+658446348.wav,Brahminy Kite,.wav,17.33,1,,1,Kept (at least one window),1,Kept (at least one window)
+658635250.wav,Crested Goshawk,.wav,12.75,1,,2,Kept (at least one window),3,Kept (at least one window)
+658923983.wav,Crested Goshawk,.wav,14.55,1,,2,Kept (at least one window),2,Kept (at least one window)
+659164075.wav,Brahminy Kite,.wav,20.81,6,,6,Kept (at least one window),5,Kept (at least one window)
+659164076.wav,Brahminy Kite,.wav,27.61,1,,2,Kept (at least one window),3,Kept (at least one window)
+659169122.wav,Crested Goshawk,.wav,119.98,6,,7,Kept (at least one window),7,Kept (at least one window)
+659169249.wav,Crested Goshawk,.wav,50.18,5,,5,Kept (at least one window),5,Kept (at least one window)
+659169250.wav,Crested Goshawk,.wav,60.67,1,,2,Kept (at least one window),2,Kept (at least one window)
+659169343.wav,Crested Goshawk,.wav,50.29,5,,4,Kept (at least one window),4,Kept (at least one window)
+659169414.wav,Crested Goshawk,.wav,11.07,1,,2,Kept (at least one window),2,Kept (at least one window)
+659169668.wav,Crested Goshawk,.wav,21.69,1,,2,Kept (at least one window),2,Kept (at least one window)
+659325653.wav,Crested Goshawk,.wav,52.88,7,,12,Kept (at least one window),12,Kept (at least one window)
+659600035.mp3,Brahminy Kite,.mp3,40.46,9,,7,Kept (at least one window),7,Kept (at least one window)
+660637000.wav,Brahminy Kite,.wav,6.19,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+660637001.wav,Brahminy Kite,.wav,3.93,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+660996467.wav,Rufous-bellied Eagle,.wav,21.75,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+661760999.wav,Brahminy Kite,.wav,14.48,3,,5,Kept (at least one window),5,Kept (at least one window)
+662160236.wav,Crested Goshawk,.wav,13.45,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+662432121.wav,Crested Goshawk,.wav,15.82,1,,2,Kept (at least one window),3,Kept (at least one window)
+662432429.wav,Crested Goshawk,.wav,28.88,3,,4,Kept (at least one window),5,Kept (at least one window)
+662926745.wav,Brahminy Kite,.wav,5.51,1,,2,Kept (at least one window),1,Kept (at least one window)
+662926746.wav,Brahminy Kite,.wav,39.55,4,,7,Kept (at least one window),7,Kept (at least one window)
+662926747.wav,Brahminy Kite,.wav,43.5,8,,12,Kept (at least one window),13,Kept (at least one window)
+663287136.mp3,Crested Goshawk,.mp3,7.38,2,,3,Kept (at least one window),2,Kept (at least one window)
+663932332.wav,Philippine Drongo-Cuckoo,.wav,19.48,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+664010220.wav,Philippine Drongo-Cuckoo,.wav,21.48,1,,2,Kept (at least one window),2,Kept (at least one window)
+664050920.wav,Crested Goshawk,.wav,54.48,2,,3,Kept (at least one window),3,Kept (at least one window)
+664050930.wav,Crested Goshawk,.wav,47.0,4,,3,Kept (at least one window),3,Kept (at least one window)
+664060230.wav,Crested Goshawk,.wav,29.28,1,,2,Kept (at least one window),3,Kept (at least one window)
+664221608.wav,Brahminy Kite,.wav,8.12,0,,0,No vocalization found by the energy filter,0,No vocalization found by the energy filter
+70434.wav,Crested Goshawk,.wav,86.01,11,,21,Kept (at least one window),22,Kept (at least one window)
+73644.wav,Brahminy Kite,.wav,37.87,3,,5,Kept (at least one window),5,Kept (at least one window)
+75807001.wav,Crested Goshawk,.wav,15.64,2,,2,Kept (at least one window),1,Kept (at least one window)
+79510.wav,Brahminy Kite,.wav,27.71,3,,4,Kept (at least one window),5,Kept (at least one window)
+83210301.wav,Brahminy Kite,.wav,15.55,3,,3,Kept (at least one window),3,Kept (at least one window)
+98940641.mp3,Brahminy Kite,.mp3,22.71,2,,2,Kept (at least one window),3,Kept (at least one window)

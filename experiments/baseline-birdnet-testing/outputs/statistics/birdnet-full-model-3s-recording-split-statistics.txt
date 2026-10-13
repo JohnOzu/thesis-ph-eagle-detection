@@ -1,0 +1,22 @@
+=================================================================
+EVALUATION RESULTS: BirdNET Full Model 3.0s Recording Split
+BirdNET as distributed, no training. Eagle if the Philippine Eagle confidence >= 0.50.
+=================================================================
+Accuracy:    0.7512 (75.12%)
+Precision:   0.6607 (66.07%)
+Recall:      0.9089 (90.89%)
+F1-Score:    0.7652 (76.52%)
+Specificity: 0.6243 (62.43%)
+ROC-AUC:     0.8917
+PR-AUC:      0.8722
+Confusion:   TN 349 | FP 210 | FN 41 | TP 409
+=================================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.89      0.62      0.74       559
+   Eagle (1)       0.66      0.91      0.77       450
+
+    accuracy                           0.75      1009
+   macro avg       0.78      0.77      0.75      1009
+weighted avg       0.79      0.75      0.75      1009
+

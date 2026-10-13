@@ -1,0 +1,21 @@
+=================================================================
+EVALUATION RESULTS: BirdNET Head 3.0s Minor Sites Held Out
+=================================================================
+Accuracy:    0.8434 (84.34%)
+Precision:   0.9652 (96.52%)
+Recall:      0.6768 (67.68%)
+F1-Score:    0.7957 (79.57%)
+Specificity: 0.9800 (98.00%)
+ROC-AUC:     0.9651
+PR-AUC:      0.9595
+Confusion:   TN 196 | FP 4 | FN 53 | TP 111
+=================================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.79      0.98      0.87       200
+   Eagle (1)       0.97      0.68      0.80       164
+
+    accuracy                           0.84       364
+   macro avg       0.88      0.83      0.83       364
+weighted avg       0.87      0.84      0.84       364
+

@@ -1,0 +1,15 @@
+======================================================================
+RAW AUDIO ON THE BOARD vs. LAPTOP PIPELINE
+======================================================================
+Clips answered by the board:   1009 of 1009
+Same decision:                 991 of 1009 clips (98.22%)
+Identical raw INT8 output:     17 of 1009 clips
+Largest raw output difference: 45 (out of 255)
+Mean probability difference:   0.0374
+Laptop eagle, board no eagle:  18
+Laptop no eagle, board eagle:  0
+======================================================================
+        Group  Clips  Laptop correct  Board correct  Same decision  Board mean probability
+        Eagle    450             400            390            440                   0.822
+      Ambient    236             220            226            230                   0.147
+Hard negative    323             315            317            321                   0.085

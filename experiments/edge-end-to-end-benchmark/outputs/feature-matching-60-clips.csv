@@ -1,0 +1,10 @@
+clip_idx,group,identical values (%),off by one (%),off by more (%),max difference,feature time (ms)
+0,Eagle,100.0,0.0,0.0,0,242.242
+1,Eagle,100.0,0.0,0.0,0,242.156
+2,Eagle,100.0,0.0,0.0,0,242.158
+20,Ambient,100.0,0.0,0.0,0,242.15
+21,Ambient,99.99399038461539,0.006009615384615385,0.0,1,242.165
+22,Ambient,100.0,0.0,0.0,0,242.147
+40,Hard negative,100.0,0.0,0.0,0,242.15
+41,Hard negative,100.0,0.0,0.0,0,242.145
+42,Hard negative,100.0,0.0,0.0,0,242.155

@@ -1,0 +1,51 @@
+sample_index,test_vector_file,cohort,species,ground_truth,py_prob,py_pred,py_correct,esp32_prob,esp32_pred,esp32_latency_ms,esp32_correct
+0,test_00.bin,Eagle,Philippine Eagle,1,0.859375,1,True,0.9688,1,536,True
+1,test_01.bin,Eagle,Philippine Eagle,1,0.99609375,1,True,0.9961,1,536,True
+2,test_02.bin,Eagle,Philippine Eagle,1,0.9765625,1,True,0.9883,1,537,True
+3,test_03.bin,Eagle,Philippine Eagle,1,0.984375,1,True,0.9961,1,537,True
+4,test_04.bin,Eagle,Philippine Eagle,1,0.83984375,1,True,0.9258,1,536,True
+5,test_05.bin,Eagle,Philippine Eagle,1,0.99609375,1,True,0.9961,1,537,True
+6,test_06.bin,Eagle,Philippine Eagle,1,0.62109375,1,True,0.5977,1,536,True
+7,test_07.bin,Eagle,Philippine Eagle,1,0.99609375,1,True,0.9961,1,537,True
+8,test_08.bin,Eagle,Philippine Eagle,1,0.2890625,0,False,0.8711,1,537,True
+9,test_09.bin,Eagle,Philippine Eagle,1,0.77734375,1,True,0.8438,1,537,True
+10,test_10.bin,Eagle,Philippine Eagle,1,0.0546875,0,False,0.1914,0,537,False
+11,test_11.bin,Eagle,Philippine Eagle,1,0.9921875,1,True,0.9961,1,537,True
+12,test_12.bin,Eagle,Philippine Eagle,1,0.94921875,1,True,0.9922,1,537,True
+13,test_13.bin,Eagle,Philippine Eagle,1,0.76953125,1,True,0.7695,1,537,True
+14,test_14.bin,Eagle,Philippine Eagle,1,0.984375,1,True,0.9922,1,536,True
+15,test_15.bin,Eagle,Philippine Eagle,1,0.87109375,1,True,0.8906,1,535,True
+16,test_16.bin,Eagle,Philippine Eagle,1,0.99609375,1,True,0.9961,1,537,True
+17,test_17.bin,Eagle,Philippine Eagle,1,0.22265625,0,False,0.3672,0,537,False
+18,test_18.bin,Eagle,Philippine Eagle,1,0.9765625,1,True,0.9922,1,537,True
+19,test_19.bin,Eagle,Philippine Eagle,1,0.99609375,1,True,0.9961,1,536,True
+20,test_20.bin,Raptor,Crested Goshawk,0,0.0078125,0,True,0.0039,0,537,True
+21,test_21.bin,Raptor,Brahminy Kite,0,0.00390625,0,True,0.0039,0,537,True
+22,test_22.bin,Raptor,Crested Goshawk,0,0.0078125,0,True,0.0039,0,537,True
+23,test_23.bin,Raptor,Crested Goshawk,0,0.00390625,0,True,0.0039,0,536,True
+24,test_24.bin,Raptor,Philippine Frogmouth,0,0.0078125,0,True,0.0039,0,537,True
+25,test_25.bin,Raptor,Crested Goshawk,0,0.02734375,0,True,0.0156,0,537,True
+26,test_26.bin,Raptor,Crested Goshawk,0,0.01171875,0,True,0.0117,0,536,True
+27,test_27.bin,Raptor,Brahminy Kite,0,0.0078125,0,True,0.0039,0,537,True
+28,test_28.bin,Raptor,Crested Goshawk,0,0.00390625,0,True,0.0039,0,536,True
+29,test_29.bin,Raptor,Brahminy Kite,0,0.0078125,0,True,0.0039,0,537,True
+30,test_30.bin,Raptor,Crested Goshawk,0,0.01953125,0,True,0.0078,0,536,True
+31,test_31.bin,Raptor,Crested Goshawk,0,0.0078125,0,True,0.0039,0,537,True
+32,test_32.bin,Raptor,Crested Goshawk,0,0.0234375,0,True,0.0234,0,537,True
+33,test_33.bin,Raptor,Brahminy Kite,0,0.01171875,0,True,0.0117,0,537,True
+34,test_34.bin,Raptor,Brahminy Kite,0,0.02734375,0,True,0.0156,0,536,True
+35,test_35.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.02734375,0,True,0.0312,0,537,True
+36,test_36.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.01953125,0,True,0.0117,0,537,True
+37,test_37.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.0078125,0,True,0.0039,0,536,True
+38,test_38.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.02734375,0,True,0.0195,0,537,True
+39,test_39.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.03515625,0,True,0.0312,0,537,True
+40,test_40.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.015625,0,True,0.0078,0,537,True
+41,test_41.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.0390625,0,True,0.0312,0,536,True
+42,test_42.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.01171875,0,True,0.0039,0,532,True
+43,test_43.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.04296875,0,True,0.0312,0,536,True
+44,test_44.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.02734375,0,True,0.0156,0,537,True
+45,test_45.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.01171875,0,True,0.0078,0,537,True
+46,test_46.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.01171875,0,True,0.0078,0,537,True
+47,test_47.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.03125,0,True,0.0234,0,537,True
+48,test_48.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.0078125,0,True,0.0039,0,536,True
+49,test_49.bin,Ambient,Philippine Eagle Territory (Ambient),0,0.015625,0,True,0.0039,0,536,True

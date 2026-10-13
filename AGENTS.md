@@ -17,32 +17,81 @@ Agents working on this project should prioritize reproducibility, clear experime
 
 ## Project Structure
 
-The project follows this general structure:
+The project follows a **modular, experiment-centric structure** where each experiment lives in its own self-contained directory under `experiments/`:
 
 ```text
 project-root/
 ├── data/
 │   ├── raw/
+│   ├── preprocessed/
 │   └── features/
 │
-├── models/
-│
-├── notebooks/
+├── experiments/
+│   ├── dataset-exploration/
+│   │   ├── dataset-exploration.ipynb
+│   │   └── outputs/
+│   │       └── figures/
+│   │
+│   ├── preprocess/
+│   │   ├── preprocess.ipynb
+│   │   └── outputs/
+│   │       └── figures/
+│   │
+│   ├── feature-extraction/
+│   │   ├── feature-extraction.ipynb
+│   │   └── outputs/
+│   │       ├── figures/
+│   │       └── spectrograms/
+│   │
+│   ├── crnn-gru-training/
+│   │   ├── crnn-gru-5s-training.ipynb
+│   │   ├── crnn-gru-3s-training.ipynb
+│   │   ├── models/
+│   │   └── outputs/
+│   │       ├── 3-seconds/
+│   │       │   ├── <model>/<partition>/
+│   │       │   ├── splits/
+│   │       │   └── summary/
+│   │       └── multiscale-comparison.csv
+│   │
+│   ├── birdnet-transfer-learning/
+│   │   ├── birdnet-transfer-learning.ipynb
+│   │   ├── models/
+│   │   └── outputs/
+│   │       ├── confusion-matrices/
+│   │       ├── training-history/
+│   │       ├── figures/
+│   │       └── multiscale-comparison.csv
+│   │
+│   ├── mobilenetv3-training/
+│   │   ├── mobilenetv3-5s-training.ipynb
+│   │   ├── mobilenetv3-3s-training.ipynb
+│   │   ├── models/
+│   │   └── outputs/
+│   │       ├── confusion-matrices/
+│   │       ├── training-history/
+│   │       ├── figures/
+│   │       └── multiscale-comparison.csv
+│   │
+│   ├── species-error-analysis/
+│   │   ├── species-error-analysis.ipynb
+│   │   └── outputs/
+│   │       ├── figures/
+│   │       └── species-breakdown.csv
+│   │
+│   └── model-benchmark/
+│       ├── model-benchmark.ipynb
+│       └── outputs/
+│           ├── figures/
+│           └── master-benchmark.csv
 │
 ├── src/
-│
-├── outputs/
-│   ├── figures/
-│   ├── confusion-matrices/
-│   ├── training-history/
-│   ├── spectrograms/
-│   ├── feature-visualizations/
-│   └── other/
-│
 ├── AGENTS.md
 ├── README.md
-└── other project configuration files
+└── requirements.txt
 ```
+
+---
 
 ### `data/`
 
@@ -50,102 +99,161 @@ Contains datasets used throughout the project.
 
 #### `data/raw/`
 
-Contains the original, unmodified audio dataset.
+Contains the original, unmodified audio datasets organized into target and negative corpora:
+
+```text
+data/raw/
+├── eagle-audios/
+│   ├── audios/            # Original recordings containing Philippine Eagle calls (.wav)
+│   ├── selectionTables/   # Verified Raven selection tables for call annotations
+│   └── raw-metadata.csv   # Catalog and recording site metadata for eagle audios
+└── hard-negatives/
+    ├── audios/            # Field recordings of sympatric non-eagle avian species (.wav, .mp3, .m4a)
+    └── raw-metadata.csv   # Macaulay Library / eBird catalog metadata
+```
 
 Rules:
 
 * Never modify or overwrite files in `data/raw/`.
 * Treat raw data as immutable.
-* Any preprocessing or transformation should produce files in another directory.
+* Any preprocessing or transformation should produce files in another directory (such as `data/preprocessed/`).
 * Do not commit large raw datasets unless explicitly required by the project.
+
+#### `data/preprocessed/`
+
+Contains sliced audio segments generated from raw recordings (e.g. 3.0-second and 5.0-second windows).
 
 #### `data/features/`
 
-Contains extracted or processed features generated from the raw audio.
+Contains extracted features generated from audio.
 
 Examples include:
 
 * Mel spectrograms
-* MFCCs
 * PCEN representations
-* Other acoustic features
+* BirdNET foundation embeddings
 * Preprocessed feature arrays
 
-Feature generation should be reproducible through scripts or notebooks.
+Feature generation must remain reproducible through experiment notebooks or scripts.
 
 ---
 
-### `models/`
+### `experiments/`
 
-Contains trained model artifacts.
+Contains self-contained experiment directories.
+
+Every experiment folder:
+1. Must use **semantic kebab-case without numerical ordering prefixes** (e.g. `dataset-exploration/`, `crnn-gru-training/`, `mobilenetv3-training/`).
+2. Must contain the primary Jupyter notebook named identically to the experiment folder (or dedicated scale notebooks, e.g. `crnn-gru-5s-training.ipynb` and `crnn-gru-3s-training.ipynb`, for memory isolation).
+3. Must contain an `outputs/` folder for all generated artifacts (figures, CSVs, reports).
+4. If the experiment trains models, it must contain a local `models/` directory for its checkpoints and weights.
+
+Do not create global, detached output or model folders. All artifacts must live inside their corresponding experiment directory.
+
+---
+
+## Experiment Output Conventions
+
+All figures, plots, confusion matrices, and saved analysis tables must be stored inside the local `outputs/` folder of that specific experiment:
+
+```text
+experiments/<experiment-folder>/outputs/
+├── figures/
+├── confusion-matrices/
+├── training-history/
+├── spectrograms/
+└── <name>.csv
+```
+
+### Per-Model Outputs
+
+When a notebook trains several models on several partitions, group the outputs per model. The 3.0-second CRNN-GRU notebook uses this layout:
+
+```text
+experiments/crnn-gru-training/outputs/3-seconds/
+├── <model>/                  # e.g. published-baseline, standard, cost-sensitive, edge-optimized
+│   └── <partition>/          # recording-split, loso-davao, loso-cotabato, minor-sites
+│       ├── confusion-matrix.png
+│       ├── training-history.png
+│       └── statistics.txt
+├── splits/                   # split distribution and leak check figures, shared by all models
+└── summary/                  # tables and figures that compare models
+```
+
+The folder names carry the model and the partition, so the file names inside stay short and are the same for every model.
+
+### Clean Output Naming Convention
+
+**Do not prepend the experiment folder name to output files.** 
+
+Because files are already isolated inside their dedicated experiment directory, prefixes are redundant. Use clean, descriptive kebab-case:
+
+Prefer:
+```text
+outputs/figures/eagle-geographic-distribution.png
+outputs/figures/paradigm-comparison.png
+outputs/confusion-matrices/3s-std-confusion-matrix.png
+outputs/training-history/3s-std-training-history.png
+outputs/multiscale-comparison.csv
+```
+
+Avoid:
+```text
+01-dataset-exploration-eagle-geographic-distribution.png
+04-crnn-gru-model-training-3s-std-confusion-matrix.png
+Figure1.png
+confusion_matrix.png
+output.png
+```
+
+---
+
+## Model Artifact Conventions
+
+When an experiment trains models, all artifacts must be saved inside that experiment's local `models/` directory:
+
+```text
+experiments/<experiment-folder>/models/
+├── <scale>/
+│   └── <split>/
+│       ├── <model-name>.keras
+│       ├── <model-name>-int8.tflite
+│       ├── training_history.json
+│       └── checkpoints/
+│           └── best_model.keras
+```
 
 Examples:
-
 ```text
-models/
-├── checkpoints/
-├── final/
-└── experiments/
+experiments/crnn-gru-training/models/3-seconds/standard/crnn-gru-std.keras
+experiments/crnn-gru-training/models/3-seconds/standard/crnn-gru-std-int8.tflite
+experiments/birdnet-transfer-learning/models/standard-split/birdnet-head-standard.keras
 ```
 
-Model files should use descriptive names that identify the experiment or architecture.
-
-For example:
-
-```text
-eagle-call-cnn-v1.keras
-eagle-call-cnn-pcen-v2.keras
-```
-
-Do not overwrite an existing trained model unless explicitly requested.
+Do not overwrite existing trained models unless explicitly requested.
 
 ---
 
-### `notebooks/`
+## Cross-Model Benchmarking & Comparative Analysis
 
-Contains Jupyter notebooks used for exploration, preprocessing, experimentation, training, and evaluation.
+Individual model training notebooks (`crnn-gru-training`, `birdnet-transfer-learning`, `mobilenetv3-training`) must remain **decoupled and self-contained**:
+* A training notebook evaluates only its own models and exports its own performance table (e.g. `multiscale-comparison.csv`).
+* Training notebooks must **not** load or depend on other notebooks' benchmark tables.
 
-Notebook filenames **must use kebab-case** and should begin with a numerical ordering prefix.
-
-Example:
-
-```text
-notebooks/
-├── 01-data-exploration.ipynb
-├── 02-audio-preprocessing.ipynb
-├── 03-feature-extraction.ipynb
-├── 04-model-training.ipynb
-└── 05-model-evaluation.ipynb
-```
-
-Use this naming style consistently:
-
-```text
-01-data-exploration.ipynb
-02-mel-spectrogram-experiments.ipynb
-03-pcen-experiments.ipynb
-```
-
-Do not use:
-
-```text
-01_Data_Exploration.ipynb
-01_data_exploration.ipynb
-01DataExploration.ipynb
-```
+All cross-model benchmarking, multi-paradigm comparative plots, and overall project leaderboards belong exclusively in **dedicated comparative analysis notebooks** (e.g. `experiments/model-benchmark/`).
 
 ---
 
 ## Notebook Cell Conventions
 
-Every notebook cell must have a descriptive title immediately before it.
+Every executable notebook cell must have a descriptive title immediately before it.
 
 Use Markdown cells as section titles formatted as Markdown headers (e.g. `## 1. Imports and Configs` or `### 1. Imports and Configs`).
 
 The title should follow this format:
 
 ```markdown
-## 1. Imports and Configs
+## 1. Imports and Configuration
 ```
 
 The numbering indicates the order or logical progression of the notebook.
@@ -153,7 +261,7 @@ The numbering indicates the order or logical progression of the notebook.
 For example:
 
 ```markdown
-## 1. Imports and Configs
+## 1. Imports and Configuration
 
 [code cell]
 
@@ -173,22 +281,12 @@ For example:
 [code cell]
 
 
-## 5. Preprocess Audio
+## 5. Train Model
 
 [code cell]
 
 
-## 6. Extract Features
-
-[code cell]
-
-
-## 7. Train Model
-
-[code cell]
-
-
-## 8. Evaluate Model
+## 6. Evaluate Model
 
 [code cell]
 ```
@@ -209,8 +307,6 @@ over:
 ## 5. Run Code
 ```
 
-For larger sections, additional descriptive Markdown may be used beneath the numbered title.
-
 ---
 
 ## Notebook Reproducibility
@@ -219,515 +315,15 @@ Notebooks should be written so that another person can understand and reproduce 
 
 Whenever practical:
 
-* Set random seeds.
+* Set random seeds (`SEED = 42`).
 * Define configuration values near the beginning of the notebook.
 * Avoid hard-coded absolute paths.
-* Use project-relative paths.
+* Use dynamic project-relative paths.
 * Clearly identify input datasets.
 * Clearly identify generated outputs.
 * Record important model hyperparameters.
 * Record training configuration.
 * Record evaluation metrics.
-* Avoid relying on variables that were created in an earlier notebook unless explicitly documented.
-
-Prefer configuration such as:
-
-```python
-SEED = 42
-SAMPLE_RATE = 16000
-BATCH_SIZE = 32
-EPOCHS = 50
-```
-
-near the beginning of an experiment notebook.
-
----
-
-## Outputs
-
-All figures and visualizations generated by notebooks must be saved inside the `outputs/` directory.
-
-Do not leave important generated figures only inside the Jupyter notebook.
-
-Use dedicated subdirectories based on the type of output.
-
-Example:
-
-```text
-outputs/
-├── figures/
-├── confusion-matrices/
-├── training-history/
-├── spectrograms/
-├── feature-visualizations/
-└── other/
-```
-
-### Output Naming Convention
-
-**Every generated output must begin with the filename of the notebook that produced it.**
-
-The format is:
-
-```text
-<notebook-file-name>-<description-of-output>.<extension>
-```
-
-The notebook filename should be used **without the `.ipynb` extension**.
-
-For example, if the notebook is:
-
-```text
-notebooks/01-data-exploration.ipynb
-```
-
-then its generated outputs should use:
-
-```text
-01-data-exploration-class-distribution.png
-01-data-exploration-waveform-example.png
-01-data-exploration-audio-duration-distribution.png
-```
-
-If the notebook is:
-
-```text
-notebooks/04-model-training.ipynb
-```
-
-then its outputs should use:
-
-```text
-04-model-training-training-history.png
-04-model-training-confusion-matrix.png
-04-model-training-roc-curve.png
-04-model-training-precision-recall-curve.png
-```
-
-This convention must be followed for **all notebook-generated outputs**, including:
-
-* Figures
-* Plots
-* Charts
-* Visualizations
-* Saved analysis results
-* Other generated artifacts
-
-Use **kebab-case** for the entire filename.
-
-Prefer:
-
-```text
-01-data-exploration-class-distribution.png
-04-model-training-confusion-matrix.png
-05-model-evaluation-classification-report.png
-```
-
-Avoid:
-
-```text
-class-distribution.png
-confusion_matrix.png
-Figure1.png
-output.png
-04-model-training-ConfusionMatrix.png
-```
-
-The purpose of this convention is to make it immediately clear **which notebook produced an output and what the output represents**.
-
----
-
-### Confusion Matrices
-
-Save confusion matrix visualizations in:
-
-```text
-outputs/confusion-matrices/
-```
-
-Example:
-
-```text
-outputs/confusion-matrices/
-├── 04-model-training-confusion-matrix.png
-└── 05-model-evaluation-confusion-matrix.png
-```
-
----
-
-### Training History
-
-Training and validation curves should be saved in:
-
-```text
-outputs/training-history/
-```
-
-Examples:
-
-```text
-outputs/training-history/04-model-training-training-history.png
-outputs/training-history/04-model-training-loss-curve.png
-outputs/training-history/04-model-training-accuracy-curve.png
-```
-
----
-
-### Spectrograms
-
-Spectrogram-related visualizations should be saved in:
-
-```text
-outputs/spectrograms/
-```
-
-Examples:
-
-```text
-outputs/spectrograms/02-audio-preprocessing-mel-spectrogram.png
-outputs/spectrograms/03-feature-extraction-pcen-example.png
-```
-
----
-
-### General Figures
-
-Other figures should be saved in:
-
-```text
-outputs/figures/
-```
-
-Examples:
-
-```text
-outputs/figures/01-data-exploration-class-distribution.png
-outputs/figures/05-model-evaluation-roc-curve.png
-```
-
----
-
-### Output Organization
-
-The output directory should organize files by **output type**, while the filename identifies the **source notebook**.
-
-For example:
-
-```text
-outputs/
-├── confusion-matrices/
-│   ├── 04-model-training-confusion-matrix.png
-│   └── 05-model-evaluation-confusion-matrix.png
-│
-├── training-history/
-│   └── 04-model-training-training-history.png
-│
-├── spectrograms/
-│   ├── 02-audio-preprocessing-mel-spectrogram.png
-│   └── 03-feature-extraction-pcen-example.png
-│
-└── figures/
-    ├── 01-data-exploration-class-distribution.png
-    └── 05-model-evaluation-roc-curve.png
-```
-
-This makes it possible to identify both:
-
-1. **What the output is** based on its directory and filename.
-2. **Which notebook generated it** based on the filename prefix.
-
----
-
-## Notebook Output Requirements
-
-Whenever a notebook generates a figure or other saved output:
-
-1. Save the output to the appropriate `outputs/` subdirectory.
-2. Use the notebook filename as the prefix.
-3. Remove `.ipynb` from the notebook filename.
-4. Describe the output after the notebook filename.
-5. Use kebab-case.
-6. Do not use generic names such as `figure.png`, `plot.png`, or `output.png`.
-
-For example:
-
-```python
-output_path = OUTPUTS_DIR / "figures" / "01-data-exploration-class-distribution.png"
-```
-
-The filename should always follow:
-
-```text
-<notebook-file-name>-<what-the-output-is>
-```
-
-This convention must be applied consistently across the entire project.
-
----
-
-## Machine Learning Workflow
-
-The general workflow should follow:
-
-```text
-Raw Audio
-    ↓
-Data Exploration
-    ↓
-Audio Preprocessing
-    ↓
-Feature Extraction
-    ↓
-Dataset Splitting
-    ↓
-Model Training
-    ↓
-Validation
-    ↓
-Testing
-    ↓
-Evaluation
-    ↓
-Model Analysis
-```
-
-Agents should preserve this separation rather than mixing unrelated stages together.
-
----
-
-## Binary Classification
-
-The task is a binary classification problem.
-
-The classes should be represented consistently throughout the project.
-
-Recommended conceptual labels:
-
-```text
-0 = No Eagle Call
-1 = Eagle Call
-```
-
-The exact label representation may differ depending on the model implementation, but it must remain consistent between:
-
-* Dataset preparation
-* Feature extraction
-* Training
-* Validation
-* Testing
-* Evaluation
-* Confusion matrices
-* Classification reports
-
-Do not silently change class mappings.
-
----
-
-## Dataset Splitting
-
-Avoid data leakage.
-
-When splitting audio data into training, validation, and test sets, consider whether multiple recordings originate from the same source, recording session, individual bird, or otherwise related audio.
-
-Highly related samples should not unintentionally appear across training and testing datasets.
-
-Any dataset splitting strategy should be documented in the relevant notebook or source code.
-
----
-
-## Audio Processing
-
-Audio preprocessing should be kept consistent between training and inference.
-
-Important parameters should be explicitly defined and documented, such as:
-
-* Sample rate
-* Audio duration
-* Number of channels
-* Normalization
-* Window size
-* Hop length
-* FFT size
-* Frequency range
-* Mel bins
-* Feature extraction method
-
-If PCEN, MFCCs, mel spectrograms, or other representations are used, document the parameters used to generate them.
-
----
-
-## Model Development
-
-When creating or modifying models:
-
-* Keep architectures reproducible.
-* Record important hyperparameters.
-* Avoid silently changing experimental configurations.
-* Save trained models to `models/`.
-* Save evaluation figures to `outputs/`.
-* Prefer creating a new experiment/model version instead of overwriting an existing result.
-
-Examples:
-
-```text
-eagle-call-cnn-v1
-eagle-call-cnn-pcen-v1
-eagle-call-crnn-v1
-```
-
----
-
-## Source Code
-
-Reusable functionality should preferably be implemented in `src/` rather than duplicated across notebooks.
-
-For example:
-
-```text
-src/
-├── audio/
-├── features/
-├── data/
-├── models/
-├── evaluation/
-└── utils/
-```
-
-Possible responsibilities include:
-
-* Audio loading
-* Audio preprocessing
-* Feature extraction
-* Dataset construction
-* Model creation
-* Evaluation
-* Visualization utilities
-
-Notebooks should primarily be used for experimentation, analysis, and documenting experiments rather than becoming the only location where reusable functionality exists.
-
----
-
-## Experimentation
-
-Experiments should be easy to distinguish from one another.
-
-When comparing models or preprocessing techniques, clearly document:
-
-* Model architecture
-* Input representation
-* Feature extraction method
-* Hyperparameters
-* Dataset configuration
-* Training configuration
-* Evaluation results
-
-For example:
-
-```text
-Experiment:
-CNN + Mel Spectrogram
-
-Input:
-128-bin Mel Spectrogram
-
-Sample Rate:
-16 kHz
-
-Epochs:
-50
-
-Batch Size:
-32
-```
-
-Results should be saved without overwriting results from previous experiments.
-
----
-
-## Visualization
-
-Visualizations should be readable and useful for analysis.
-
-Common visualizations include:
-
-* Class distribution
-* Waveforms
-* Spectrograms
-* Mel spectrograms
-* PCEN representations
-* Training/validation loss
-* Training/validation accuracy
-* ROC curves
-* Precision-recall curves
-* Confusion matrices
-* Classification reports
-* Feature distributions
-
-Save important visualizations under the appropriate `outputs/` subdirectory.
-
----
-
-## Evaluation
-
-Because this is a binary classification problem, do not rely exclusively on accuracy.
-
-When appropriate, report:
-
-* Accuracy
-* Precision
-* Recall
-* F1-score
-* Specificity
-* ROC-AUC
-* PR-AUC
-* Confusion matrix
-
-For bird-call detection, pay particular attention to **false positives and false negatives**, as accuracy alone may hide important class-specific performance.
-
----
-
-## Code Quality
-
-When modifying project code:
-
-* Prefer clear and readable code.
-* Avoid unnecessary duplication.
-* Use descriptive variable and function names.
-* Keep functions focused on a single responsibility.
-* Do not introduce unnecessary dependencies.
-* Preserve existing project conventions.
-* Do not modify unrelated files.
-* Do not delete existing experiment results unless explicitly requested.
-
----
-
-## File Naming
-
-Use **kebab-case** for newly created notebook and output filenames.
-
-Examples:
-
-```text
-01-data-exploration.ipynb
-02-audio-preprocessing.ipynb
-03-feature-extraction.ipynb
-
-01-data-exploration-class-distribution.png
-02-audio-preprocessing-mel-spectrogram.png
-04-model-training-confusion-matrix.png
-05-model-evaluation-roc-curve.png
-```
-
-Python source files should follow the existing Python naming convention, typically:
-
-```text
-audio_preprocessing.py
-feature_extraction.py
-model.py
-evaluation.py
-```
-
-Do not force kebab-case onto Python module filenames because Python imports require valid module identifiers.
 
 ---
 
@@ -739,21 +335,106 @@ Avoid absolute paths such as:
 /home/user/project/data/raw/...
 ```
 
-Prefer project-relative paths or path utilities.
-
-For Python, prefer `pathlib`:
+Use dynamic project root resolution so notebooks execute reliably from any directory depth:
 
 ```python
 from pathlib import Path
 
-PROJECT_ROOT = Path.cwd().parent
+def find_project_root():
+    p = Path.cwd().resolve()
+    while p != p.parent:
+        if (p / "data").exists() and (p / "AGENTS.md").exists():
+            return p
+        p = p.parent
+    return Path.cwd().resolve().parent.parent
+
+PROJECT_ROOT = find_project_root()
 DATA_DIR = PROJECT_ROOT / "data"
-RAW_DIR = DATA_DIR / "raw"
+RAW_DATA_DIR = DATA_DIR / "raw"
 FEATURES_DIR = DATA_DIR / "features"
-OUTPUTS_DIR = PROJECT_ROOT / "outputs"
+
+EXPERIMENT_DIR = Path.cwd().resolve()
+OUTPUTS_DIR = EXPERIMENT_DIR / "outputs"
+FIGURES_DIR = OUTPUTS_DIR / "figures"
+MODELS_DIR = EXPERIMENT_DIR / "models"
 ```
 
-The exact project-root resolution should be adapted to the notebook's location when necessary.
+---
+
+## Machine Learning Workflow
+
+The general workflow follows:
+
+```text
+Raw Audio
+    ↓
+Data Exploration (01)
+    ↓
+Audio Preprocessing (02)
+    ↓
+Feature Extraction (03)
+    ↓
+Model Experiments (04, 05, 06)
+    ↓
+Species Error Analysis (07)
+    ↓
+Comparative Benchmarking (08)
+```
+
+---
+
+## Binary Classification
+
+The task is a binary classification problem:
+
+```text
+0 = No Eagle Call
+1 = Eagle Call
+```
+
+The label representation must remain consistent between:
+* Dataset preparation
+* Feature extraction
+* Training
+* Validation
+* Testing
+* Evaluation
+* Confusion matrices
+* Classification reports
+
+---
+
+## Evaluation Metrics
+
+Because this is an imbalanced bioacoustic detection task, do not rely exclusively on accuracy. Always report:
+
+* Accuracy
+* Precision
+* Recall (Eagle Sensitivity)
+* F1-score
+* Specificity (Hard-negative rejection)
+* ROC-AUC
+* PR-AUC
+* Confusion matrix
+* Model size (KB) & edge inference latency (ms)
+
+---
+
+## Source Code (`src/`)
+
+Reusable functionality should be implemented in `src/` rather than duplicated across notebooks.
+
+```text
+src/
+├── audio/
+├── features/
+├── data/
+├── models/
+├── evaluation/
+└── utils/
+```
+
+Notebooks should primarily be used for experimentation, analysis, and documenting results.
 
 ---
 
@@ -761,40 +442,19 @@ The exact project-root resolution should be adapted to the notebook's location w
 
 Before making changes:
 
-1. Inspect the existing project structure.
-2. Check existing notebooks and source code.
-3. Follow established naming conventions.
-4. Avoid duplicating functionality that already exists.
-5. Determine whether the requested change belongs in `src/`, `notebooks/`, `data/`, `models/`, or `outputs/`.
+1. Inspect the existing project structure and experiment folders.
+2. Follow established naming conventions.
+3. Determine whether the requested change belongs in `src/`, `data/`, or a specific `experiments/` directory.
 
-When creating a notebook:
+When creating a new experiment:
 
-1. Use the next appropriate numerical prefix.
-2. Use kebab-case for the filename.
-3. Add a title Markdown cell before every executable cell.
-4. Save generated figures under `outputs/`.
-5. Use the appropriate dedicated output directory.
-6. Name every generated output using the notebook filename as its prefix.
-7. Keep experiments reproducible.
-8. Clearly document important parameters and results.
-
-When creating figures:
-
-1. Save them to `outputs/`.
-2. Use the appropriate output subdirectory.
-3. Prefix the filename with the notebook filename.
-4. Describe what the figure represents after the notebook filename.
-5. Use kebab-case.
-6. Do not use generic names such as `figure.png`, `plot.png`, or `output.png`.
-
-When training a model:
-
-1. Verify the dataset split.
-2. Check for possible data leakage.
-3. Record the experiment configuration.
-4. Save the resulting model to `models/`.
-5. Save important evaluation results and figures to `outputs/`.
-6. Do not overwrite previous experiment artifacts without explicit permission.
+1. Create a dedicated directory under `experiments/<XX>-<name>/`.
+2. Place the notebook `<XX>-<name>.ipynb` inside.
+3. Place all generated outputs under `outputs/`.
+4. Place all saved models under `models/`.
+5. Add a title Markdown cell before every executable cell.
+6. Use clean kebab-case names without redundant experiment prefixes.
+7. Keep experiments reproducible and self-contained.
 
 Execution Policy:
 
@@ -814,7 +474,7 @@ The project should remain:
 
 **Reproducible, organized, experiment-friendly, and easy to understand.**
 
-When there is a choice between a quick implementation and a well-organized implementation that preserves reproducibility and experiment tracking, prefer the organized approach.
+---
 
 ## Agent Approval Workflow
 
@@ -824,119 +484,14 @@ The agent must not immediately begin implementing a requested feature, modifying
 
 ### Required Workflow
 
-For every implementation task, the agent must follow this process:
+1. **Inspect**: Inspect the relevant project files and directory structure.
+2. **Plan**: Explain what will be changed, which files are affected, and the approach.
+3. **Present the Plan**: Clearly present the proposed implementation to the user.
+4. **Ask for Permission**: Explicitly ask for permission to proceed and wait for confirmation.
+5. **Implement**: Only after permission is granted, perform the planned implementation.
+6. **Verify**: Verify that the changes work as intended.
+7. **Report**: Report what was changed and what was verified.
 
-1. **Inspect**
+### Destructive Operations
 
-   * Inspect the relevant project files and directory structure.
-   * Understand the existing implementation before proposing changes.
-   * Identify existing utilities, notebooks, source code, and conventions that may be affected.
-
-2. **Plan**
-
-   * Explain what will be changed.
-   * Identify which files will be created, modified, or removed.
-   * Explain the implementation approach.
-   * Explain how the proposed implementation fits into the existing project structure.
-   * Mention any important assumptions, dependencies, or potential issues.
-
-3. **Present the Implementation Plan**
-
-   * Clearly present the proposed implementation to the user.
-   * Keep the plan specific enough that the user can understand what the agent is about to do.
-
-4. **Ask for Permission**
-
-   * The agent must explicitly ask the user for permission to proceed.
-   * The agent must wait for confirmation before making implementation changes.
-
-5. **Implement**
-
-   * Only after the user grants permission should the agent modify files or perform the planned implementation.
-   * Follow the approved plan.
-   * If the implementation needs to significantly deviate from the approved plan, stop and ask for permission again.
-
-6. **Verify**
-
-   * After implementation, verify that the changes work as intended.
-   * Run appropriate tests, checks, notebooks, scripts, or validation steps when applicable.
-   * Report what was changed and what was verified.
-
-### Permission Requirement
-
-**Never assume permission to implement.**
-
-A user request such as:
-
-> "Add PCEN preprocessing."
-
-should first result in an implementation plan such as:
-
-```text
-Implementation Plan
-
-1. Add PCEN preprocessing utilities to src/features/.
-2. Add a notebook for exploring PCEN representations.
-3. Save generated PCEN visualizations under outputs/spectrograms/.
-4. Follow the notebook naming convention.
-5. Add a title Markdown cell before every executable cell.
-6. Use the notebook filename as the prefix for generated outputs.
-7. Compare the PCEN representation against the existing feature representation.
-8. Do not modify the raw dataset.
-
-Would you like me to proceed with this implementation?
-```
-
-The agent must wait for the user's approval before performing the implementation.
-
-### Changes Outside the Approved Plan
-
-If the agent discovers that additional changes are necessary during implementation:
-
-* Do not silently make substantial unrelated changes.
-* Explain why the additional change is necessary.
-* Ask for permission before proceeding with the additional change.
-
-Small changes that are inherently required to complete the explicitly approved implementation may be performed when they do not materially alter the scope.
-
-### Destructive or Irreversible Operations
-
-The agent must **always obtain explicit permission** before performing destructive or potentially irreversible operations, including:
-
-* Deleting datasets
-* Deleting notebooks
-* Deleting models
-* Overwriting experiment results
-* Modifying files in `data/raw/`
-* Removing project directories
-* Replacing existing model artifacts
-* Performing operations that could permanently alter experimental results
-
-The `data/raw/` directory should be treated as immutable unless the user explicitly instructs otherwise.
-
-### Training and Resource-Intensive Operations
-
-Training deep learning models can consume significant CPU, GPU, RAM, storage, and time.
-
-Before starting a potentially resource-intensive operation, the agent should include it in the implementation plan and obtain permission.
-
-For example:
-
-```text
-The implementation is ready, but the next step will train the model for
-50 epochs using the available GPU.
-
-This may take several minutes and will create a new model artifact.
-
-May I start the training?
-```
-
-Do not automatically begin lengthy model training simply because the implementation has been completed.
-
-### General Rule
-
-**Inspect → Plan → Ask Permission → Implement → Verify → Report**
-
-This workflow is mandatory for implementation tasks.
-
-The agent should favor user control and transparency over immediately making changes.
+The agent must **always obtain explicit permission** before deleting datasets, deleting notebooks, deleting models, overwriting results, or modifying `data/raw/`.

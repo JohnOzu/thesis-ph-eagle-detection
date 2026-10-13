@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s Recording Split (Cost-Sensitive)
+============================================================
+Accuracy:    0.9286 (92.86%)
+Precision:   0.9458 (94.58%)
+Recall:      0.8911 (89.11%)
+F1-Score:    0.9176 (91.76%)
+Specificity: 0.9589 (95.89%)
+ROC-AUC:     0.9690
+Confusion:   TN 536 | FP 23 | FN 49 | TP 401
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.92      0.96      0.94       559
+   Eagle (1)       0.95      0.89      0.92       450
+
+    accuracy                           0.93      1009
+   macro avg       0.93      0.92      0.93      1009
+weighted avg       0.93      0.93      0.93      1009
+

@@ -1,0 +1,14 @@
+================================================================================
+2. PRODUCTION MODEL EDGE QUANTIZATION BENCHMARK (FP32 vs FP16 vs INT8)
+Latency is measured with the TFLite interpreter on the laptop CPU, not on the ESP32-S3.
+================================================================================
+                           Model           Format Accuracy F1-Score Latency (laptop CPU)      Size   Accuracy Delta
+                 Recording Split       FP32 Keras   94.65%   0.9392         Not measured 4846.1 KB Baseline (0.00%)
+                 Recording Split   TFLite Float16   94.65%   0.9392              6.12 ms  663.7 KB           +0.00%
+                 Recording Split TFLite Full INT8   94.65%   0.9391              2.42 ms  496.7 KB           +0.00%
+Recording Split (Cost-Sensitive)       FP32 Keras   95.24%   0.9463         Not measured 4846.1 KB Baseline (0.00%)
+Recording Split (Cost-Sensitive)   TFLite Float16   95.24%   0.9463              5.76 ms  663.7 KB           +0.00%
+Recording Split (Cost-Sensitive) TFLite Full INT8   95.14%   0.9460              2.29 ms  496.7 KB           -0.10%
+ Edge-Optimized (Cost-Sensitive)       FP32 Keras   92.86%   0.9176         Not measured 1018.0 KB Baseline (0.00%)
+ Edge-Optimized (Cost-Sensitive)   TFLite Float16   92.86%   0.9176              0.80 ms  190.0 KB           +0.00%
+ Edge-Optimized (Cost-Sensitive) TFLite Full INT8   92.67%   0.9151              0.42 ms  216.8 KB           -0.20%

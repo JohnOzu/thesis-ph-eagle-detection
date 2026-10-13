@@ -1,0 +1,12 @@
+{
+  "input_scale": "0.01538708",
+  "input_zp": "-128",
+  "output_scale": "0.00390625",
+  "output_zp": "-128",
+  "arena_kb": "201",
+  "arena_internal": "1",
+  "arena_used": "197868",
+  "free_internal": "105164",
+  "features": "1",
+  "fft_internal": "1"
+}

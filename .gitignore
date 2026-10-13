@@ -33,3 +33,5 @@ models/**/checkpoints/
 scratch/
 *.log
 *.tmp
+
+.codegraph/

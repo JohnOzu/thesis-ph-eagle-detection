@@ -24,3 +24,6 @@ birdnetlib>=0.18.0
 jupyterlab>=4.0.0
 ipykernel>=6.0.0
 tqdm>=4.66.0
+
+# Hardware-In-The-Loop (HIL) & Edge Communication
+pyserial>=3.5.0

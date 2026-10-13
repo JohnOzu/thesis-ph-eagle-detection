@@ -1,0 +1,1010 @@
+group,rank_in_group,in_quick_subset,audio_file,feature_file,label,species,site,source_audio
+Eagle,0,True,converted_18677_00219.0_00222.0.wav,converted_18677_00219.0_00222.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,1,True,converted_18655_00141.0_00144.0.wav,converted_18655_00141.0_00144.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,2,True,converted_18655_00127.5_00130.5.wav,converted_18655_00127.5_00130.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,3,True,converted_18655_00162.0_00165.0.wav,converted_18655_00162.0_00165.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,4,True,converted_18677_00028.5_00031.5.wav,converted_18677_00028.5_00031.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,5,True,converted_18677_00225.0_00228.0.wav,converted_18677_00225.0_00228.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,6,True,converted_18677_00303.0_00306.0.wav,converted_18677_00303.0_00306.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,7,True,converted_18655_00108.0_00111.0.wav,converted_18655_00108.0_00111.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,8,True,converted_18532_00265.5_00268.5.wav,converted_18532_00265.5_00268.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,9,True,converted_18655_00075.0_00078.0.wav,converted_18655_00075.0_00078.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,10,True,converted_18655_00144.0_00147.0.wav,converted_18655_00144.0_00147.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,11,True,converted_18532_00181.5_00184.5.wav,converted_18532_00181.5_00184.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,12,True,converted_18532_00052.5_00055.5.wav,converted_18532_00052.5_00055.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,13,True,converted_18677_00115.5_00118.5.wav,converted_18677_00115.5_00118.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,14,True,converted_18677_00363.0_00366.0.wav,converted_18677_00363.0_00366.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,15,True,converted_609062544_00003.0_00006.0.wav,converted_609062544_00003.0_00006.0.npy,1,Philippine Eagle,Davao del Sur,converted_609062544.wav
+Eagle,16,True,converted_18677_00079.5_00082.5.wav,converted_18677_00079.5_00082.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,17,True,converted_18655_00054.0_00057.0.wav,converted_18655_00054.0_00057.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,18,True,converted_18655_00142.5_00145.5.wav,converted_18655_00142.5_00145.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,19,True,converted_18655_00085.5_00088.5.wav,converted_18655_00085.5_00088.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,20,False,converted_18677_00114.0_00117.0.wav,converted_18677_00114.0_00117.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,21,False,converted_179797_00006.0_00009.0.wav,converted_179797_00006.0_00009.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,22,False,converted_18677_00216.0_00219.0.wav,converted_18677_00216.0_00219.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,23,False,converted_18532_00309.0_00312.0.wav,converted_18532_00309.0_00312.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,24,False,converted_18677_00150.0_00153.0.wav,converted_18677_00150.0_00153.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,25,False,converted_18677_00076.5_00079.5.wav,converted_18677_00076.5_00079.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,26,False,converted_18655_00045.0_00048.0.wav,converted_18655_00045.0_00048.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,27,False,converted_18532_00091.5_00094.5.wav,converted_18532_00091.5_00094.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,28,False,converted_18677_00312.0_00315.0.wav,converted_18677_00312.0_00315.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,29,False,converted_18677_00148.5_00151.5.wav,converted_18677_00148.5_00151.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,30,False,converted_18677_00193.5_00196.5.wav,converted_18677_00193.5_00196.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,31,False,converted_18655_00007.5_00010.5.wav,converted_18655_00007.5_00010.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,32,False,converted_18677_00021.0_00024.0.wav,converted_18677_00021.0_00024.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,33,False,converted_18677_00133.5_00136.5.wav,converted_18677_00133.5_00136.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,34,False,converted_18677_00259.5_00262.5.wav,converted_18677_00259.5_00262.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,35,False,converted_18655_00009.0_00012.0.wav,converted_18655_00009.0_00012.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,36,False,converted_18677_00333.0_00336.0.wav,converted_18677_00333.0_00336.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,37,False,converted_18532_00088.5_00091.5.wav,converted_18532_00088.5_00091.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,38,False,converted_18677_00072.0_00075.0.wav,converted_18677_00072.0_00075.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,39,False,converted_18677_00351.0_00354.0.wav,converted_18677_00351.0_00354.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,40,False,converted_18677_00048.0_00051.0.wav,converted_18677_00048.0_00051.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,41,False,converted_18532_00025.5_00028.5.wav,converted_18532_00025.5_00028.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,42,False,converted_18677_00355.5_00358.5.wav,converted_18677_00355.5_00358.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,43,False,converted_18677_00318.0_00321.0.wav,converted_18677_00318.0_00321.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,44,False,converted_18532_00051.0_00054.0.wav,converted_18532_00051.0_00054.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,45,False,converted_179797_00037.5_00040.5.wav,converted_179797_00037.5_00040.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,46,False,converted_18532_00175.5_00178.5.wav,converted_18532_00175.5_00178.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,47,False,converted_18532_00145.5_00148.5.wav,converted_18532_00145.5_00148.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,48,False,converted_18532_00174.0_00177.0.wav,converted_18532_00174.0_00177.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,49,False,converted_18697_00018.0_00021.0.wav,converted_18697_00018.0_00021.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,50,False,converted_18677_00031.5_00034.5.wav,converted_18677_00031.5_00034.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,51,False,converted_18655_00102.0_00105.0.wav,converted_18655_00102.0_00105.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,52,False,converted_18677_00184.5_00187.5.wav,converted_18677_00184.5_00187.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,53,False,converted_18677_00027.0_00030.0.wav,converted_18677_00027.0_00030.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,54,False,converted_18677_00112.5_00115.5.wav,converted_18677_00112.5_00115.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,55,False,converted_18677_00069.0_00072.0.wav,converted_18677_00069.0_00072.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,56,False,converted_18532_00013.5_00016.5.wav,converted_18532_00013.5_00016.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,57,False,converted_18532_00105.0_00108.0.wav,converted_18532_00105.0_00108.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,58,False,converted_179797_00009.0_00012.0.wav,converted_179797_00009.0_00012.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,59,False,converted_18532_00154.5_00157.5.wav,converted_18532_00154.5_00157.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,60,False,converted_18677_00124.5_00127.5.wav,converted_18677_00124.5_00127.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,61,False,converted_18655_00135.0_00138.0.wav,converted_18655_00135.0_00138.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,62,False,converted_18532_00238.5_00241.5.wav,converted_18532_00238.5_00241.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,63,False,converted_18677_00205.5_00208.5.wav,converted_18677_00205.5_00208.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,64,False,converted_18532_00100.5_00103.5.wav,converted_18532_00100.5_00103.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,65,False,converted_18532_00255.0_00258.0.wav,converted_18532_00255.0_00258.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,66,False,converted_18677_00024.0_00027.0.wav,converted_18677_00024.0_00027.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,67,False,converted_18677_00052.5_00055.5.wav,converted_18677_00052.5_00055.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,68,False,converted_18677_00093.0_00096.0.wav,converted_18677_00093.0_00096.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,69,False,converted_18677_00043.5_00046.5.wav,converted_18677_00043.5_00046.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,70,False,converted_18655_00099.0_00102.0.wav,converted_18655_00099.0_00102.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,71,False,converted_18677_00364.5_00367.5.wav,converted_18677_00364.5_00367.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,72,False,converted_18677_00127.5_00130.5.wav,converted_18677_00127.5_00130.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,73,False,converted_18532_00085.5_00088.5.wav,converted_18532_00085.5_00088.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,74,False,converted_18697_00006.0_00009.0.wav,converted_18697_00006.0_00009.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,75,False,converted_18532_00285.0_00288.0.wav,converted_18532_00285.0_00288.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,76,False,converted_18532_00303.0_00306.0.wav,converted_18532_00303.0_00306.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,77,False,converted_18677_00049.5_00052.5.wav,converted_18677_00049.5_00052.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,78,False,converted_18697_00004.5_00007.5.wav,converted_18697_00004.5_00007.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,79,False,converted_18655_00163.5_00166.5.wav,converted_18655_00163.5_00166.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,80,False,converted_18677_00117.0_00120.0.wav,converted_18677_00117.0_00120.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,81,False,converted_18655_00048.0_00051.0.wav,converted_18655_00048.0_00051.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,82,False,converted_18677_00151.5_00154.5.wav,converted_18677_00151.5_00154.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,83,False,converted_18697_00043.5_00046.5.wav,converted_18697_00043.5_00046.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,84,False,converted_18677_00075.0_00078.0.wav,converted_18677_00075.0_00078.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,85,False,converted_18655_00010.5_00013.5.wav,converted_18655_00010.5_00013.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,86,False,converted_18697_00055.5_00058.5.wav,converted_18697_00055.5_00058.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,87,False,converted_18655_00073.5_00076.5.wav,converted_18655_00073.5_00076.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,88,False,converted_18677_00165.0_00168.0.wav,converted_18677_00165.0_00168.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,89,False,converted_18688_00010.5_00013.5.wav,converted_18688_00010.5_00013.5.npy,1,Philippine Eagle,Cotabato,converted_18688.wav
+Eagle,90,False,converted_18697_00039.0_00042.0.wav,converted_18697_00039.0_00042.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,91,False,converted_18677_00085.5_00088.5.wav,converted_18677_00085.5_00088.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,92,False,converted_18697_00063.0_00066.0.wav,converted_18697_00063.0_00066.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,93,False,converted_18677_00064.5_00067.5.wav,converted_18677_00064.5_00067.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,94,False,converted_18677_00078.0_00081.0.wav,converted_18677_00078.0_00081.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,95,False,converted_18677_00325.5_00328.5.wav,converted_18677_00325.5_00328.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,96,False,converted_18532_00244.5_00247.5.wav,converted_18532_00244.5_00247.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,97,False,converted_18697_00037.5_00040.5.wav,converted_18697_00037.5_00040.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,98,False,converted_18532_00094.5_00097.5.wav,converted_18532_00094.5_00097.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,99,False,converted_18655_00063.0_00066.0.wav,converted_18655_00063.0_00066.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,100,False,converted_18677_00367.5_00370.5.wav,converted_18677_00367.5_00370.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,101,False,converted_618292563_00003.0_00006.0.wav,converted_618292563_00003.0_00006.0.npy,1,Philippine Eagle,Bukidnon,converted_618292563.wav
+Eagle,102,False,converted_18677_00220.5_00223.5.wav,converted_18677_00220.5_00223.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,103,False,converted_179797_00019.5_00022.5.wav,converted_179797_00019.5_00022.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,104,False,converted_18655_00153.0_00156.0.wav,converted_18655_00153.0_00156.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,105,False,converted_18655_00058.5_00061.5.wav,converted_18655_00058.5_00061.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,106,False,converted_18532_00054.0_00057.0.wav,converted_18532_00054.0_00057.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,107,False,converted_18688_00009.0_00012.0.wav,converted_18688_00009.0_00012.0.npy,1,Philippine Eagle,Cotabato,converted_18688.wav
+Eagle,108,False,converted_18697_00051.0_00054.0.wav,converted_18697_00051.0_00054.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,109,False,converted_18532_00109.5_00112.5.wav,converted_18532_00109.5_00112.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,110,False,converted_18697_00046.5_00049.5.wav,converted_18697_00046.5_00049.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,111,False,converted_18697_00048.0_00051.0.wav,converted_18697_00048.0_00051.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,112,False,converted_18677_00249.0_00252.0.wav,converted_18677_00249.0_00252.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,113,False,converted_18677_00010.5_00013.5.wav,converted_18677_00010.5_00013.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,114,False,converted_618292563_00000.0_00003.0.wav,converted_618292563_00000.0_00003.0.npy,1,Philippine Eagle,Bukidnon,converted_618292563.wav
+Eagle,115,False,converted_18677_00261.0_00264.0.wav,converted_18677_00261.0_00264.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,116,False,converted_18655_00184.5_00187.5.wav,converted_18655_00184.5_00187.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,117,False,converted_18697_00042.0_00045.0.wav,converted_18697_00042.0_00045.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,118,False,converted_18532_00180.0_00183.0.wav,converted_18532_00180.0_00183.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,119,False,converted_18532_00214.5_00217.5.wav,converted_18532_00214.5_00217.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,120,False,converted_18655_00154.5_00157.5.wav,converted_18655_00154.5_00157.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,121,False,converted_18677_00156.0_00159.0.wav,converted_18677_00156.0_00159.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,122,False,converted_18655_00183.0_00186.0.wav,converted_18655_00183.0_00186.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,123,False,converted_18677_00246.0_00249.0.wav,converted_18677_00246.0_00249.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,124,False,converted_18677_00217.5_00220.5.wav,converted_18677_00217.5_00220.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,125,False,converted_18655_00172.5_00175.5.wav,converted_18655_00172.5_00175.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,126,False,converted_18677_00306.0_00309.0.wav,converted_18677_00306.0_00309.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,127,False,converted_18677_00258.0_00261.0.wav,converted_18677_00258.0_00261.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,128,False,converted_18677_00186.0_00189.0.wav,converted_18677_00186.0_00189.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,129,False,converted_18697_00066.0_00069.0.wav,converted_18697_00066.0_00069.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,130,False,converted_18677_00118.5_00121.5.wav,converted_18677_00118.5_00121.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,131,False,converted_18677_00040.5_00043.5.wav,converted_18677_00040.5_00043.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,132,False,converted_18655_00105.0_00108.0.wav,converted_18655_00105.0_00108.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,133,False,converted_609062544_00000.0_00003.0.wav,converted_609062544_00000.0_00003.0.npy,1,Philippine Eagle,Davao del Sur,converted_609062544.wav
+Eagle,134,False,converted_18677_00349.5_00352.5.wav,converted_18677_00349.5_00352.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,135,False,converted_18532_00010.5_00013.5.wav,converted_18532_00010.5_00013.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,136,False,converted_18677_00247.5_00250.5.wav,converted_18677_00247.5_00250.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,137,False,converted_18677_00111.0_00114.0.wav,converted_18677_00111.0_00114.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,138,False,converted_18697_00072.0_00075.0.wav,converted_18697_00072.0_00075.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,139,False,converted_18697_00025.5_00028.5.wav,converted_18697_00025.5_00028.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,140,False,converted_18677_00181.5_00184.5.wav,converted_18677_00181.5_00184.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,141,False,converted_18532_00139.5_00142.5.wav,converted_18532_00139.5_00142.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,142,False,converted_18532_00096.0_00099.0.wav,converted_18532_00096.0_00099.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,143,False,converted_18655_00130.5_00133.5.wav,converted_18655_00130.5_00133.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,144,False,converted_179797_00036.0_00039.0.wav,converted_179797_00036.0_00039.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,145,False,converted_18677_00147.0_00150.0.wav,converted_18677_00147.0_00150.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,146,False,converted_18677_00034.5_00037.5.wav,converted_18677_00034.5_00037.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,147,False,converted_18655_00078.0_00081.0.wav,converted_18655_00078.0_00081.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,148,False,converted_18655_00169.5_00172.5.wav,converted_18655_00169.5_00172.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,149,False,converted_18532_00103.5_00106.5.wav,converted_18532_00103.5_00106.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,150,False,converted_18677_00309.0_00312.0.wav,converted_18677_00309.0_00312.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,151,False,converted_18532_00147.0_00150.0.wav,converted_18532_00147.0_00150.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,152,False,converted_18677_00015.0_00018.0.wav,converted_18677_00015.0_00018.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,153,False,converted_179797_00010.5_00013.5.wav,converted_179797_00010.5_00013.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,154,False,converted_18677_00144.0_00147.0.wav,converted_18677_00144.0_00147.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,155,False,converted_18697_00027.0_00030.0.wav,converted_18697_00027.0_00030.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,156,False,converted_18677_00301.5_00304.5.wav,converted_18677_00301.5_00304.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,157,False,converted_18677_00324.0_00327.0.wav,converted_18677_00324.0_00327.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,158,False,converted_18655_00174.0_00177.0.wav,converted_18655_00174.0_00177.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,159,False,converted_18677_00057.0_00060.0.wav,converted_18677_00057.0_00060.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,160,False,converted_18655_00133.5_00136.5.wav,converted_18655_00133.5_00136.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,161,False,converted_18532_00298.5_00301.5.wav,converted_18532_00298.5_00301.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,162,False,converted_18677_00039.0_00042.0.wav,converted_18677_00039.0_00042.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,163,False,converted_18677_00264.0_00267.0.wav,converted_18677_00264.0_00267.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,164,False,converted_18532_00055.5_00058.5.wav,converted_18532_00055.5_00058.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,165,False,converted_18655_00112.5_00115.5.wav,converted_18655_00112.5_00115.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,166,False,converted_18532_00327.0_00330.0.wav,converted_18532_00327.0_00330.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,167,False,converted_18655_00057.0_00060.0.wav,converted_18655_00057.0_00060.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,168,False,converted_18677_00030.0_00033.0.wav,converted_18677_00030.0_00033.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,169,False,converted_18532_00015.0_00018.0.wav,converted_18532_00015.0_00018.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,170,False,converted_18677_00243.0_00246.0.wav,converted_18677_00243.0_00246.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,171,False,converted_18677_00054.0_00057.0.wav,converted_18677_00054.0_00057.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,172,False,converted_18677_00322.5_00325.5.wav,converted_18677_00322.5_00325.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,173,False,converted_618292563_00001.5_00004.5.wav,converted_618292563_00001.5_00004.5.npy,1,Philippine Eagle,Bukidnon,converted_618292563.wav
+Eagle,174,False,converted_18677_00130.5_00133.5.wav,converted_18677_00130.5_00133.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,175,False,converted_18677_00360.0_00363.0.wav,converted_18677_00360.0_00363.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,176,False,converted_18677_00046.5_00049.5.wav,converted_18677_00046.5_00049.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,177,False,converted_18655_00160.5_00163.5.wav,converted_18655_00160.5_00163.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,178,False,converted_18655_00168.0_00171.0.wav,converted_18655_00168.0_00171.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,179,False,converted_18655_00052.5_00055.5.wav,converted_18655_00052.5_00055.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,180,False,converted_18677_00189.0_00192.0.wav,converted_18677_00189.0_00192.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,181,False,converted_18677_00187.5_00190.5.wav,converted_18677_00187.5_00190.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,182,False,converted_18532_00033.0_00036.0.wav,converted_18532_00033.0_00036.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,183,False,converted_18677_00321.0_00324.0.wav,converted_18677_00321.0_00324.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,184,False,converted_18532_00018.0_00021.0.wav,converted_18532_00018.0_00021.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,185,False,converted_18532_00220.5_00223.5.wav,converted_18532_00220.5_00223.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,186,False,converted_18677_00019.5_00022.5.wav,converted_18677_00019.5_00022.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,187,False,converted_18532_00241.5_00244.5.wav,converted_18532_00241.5_00244.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,188,False,converted_18532_00301.5_00304.5.wav,converted_18532_00301.5_00304.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,189,False,converted_18655_00060.0_00063.0.wav,converted_18655_00060.0_00063.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,190,False,converted_18677_00240.0_00243.0.wav,converted_18677_00240.0_00243.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,191,False,converted_18677_00123.0_00126.0.wav,converted_18677_00123.0_00126.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,192,False,converted_18655_00012.0_00015.0.wav,converted_18655_00012.0_00015.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,193,False,converted_18655_00166.5_00169.5.wav,converted_18655_00166.5_00169.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,194,False,converted_179797_00025.5_00028.5.wav,converted_179797_00025.5_00028.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,195,False,converted_18677_00100.5_00103.5.wav,converted_18677_00100.5_00103.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,196,False,converted_18532_00138.0_00141.0.wav,converted_18532_00138.0_00141.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,197,False,converted_18532_00267.0_00270.0.wav,converted_18532_00267.0_00270.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,198,False,converted_18532_00183.0_00186.0.wav,converted_18532_00183.0_00186.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,199,False,converted_18677_00214.5_00217.5.wav,converted_18677_00214.5_00217.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,200,False,converted_18677_00310.5_00313.5.wav,converted_18677_00310.5_00313.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,201,False,converted_18677_00066.0_00069.0.wav,converted_18677_00066.0_00069.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,202,False,converted_18532_00019.5_00022.5.wav,converted_18532_00019.5_00022.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,203,False,converted_179797_00018.0_00021.0.wav,converted_179797_00018.0_00021.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,204,False,converted_18655_00187.5_00190.5.wav,converted_18655_00187.5_00190.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,205,False,converted_18697_00069.0_00072.0.wav,converted_18697_00069.0_00072.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,206,False,converted_18677_00033.0_00036.0.wav,converted_18677_00033.0_00036.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,207,False,converted_18532_00012.0_00015.0.wav,converted_18532_00012.0_00015.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,208,False,converted_18532_00225.0_00228.0.wav,converted_18532_00225.0_00228.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,209,False,converted_18677_00139.5_00142.5.wav,converted_18677_00139.5_00142.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,210,False,converted_18697_00052.5_00055.5.wav,converted_18697_00052.5_00055.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,211,False,converted_18677_00025.5_00028.5.wav,converted_18677_00025.5_00028.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,212,False,converted_18697_00057.0_00060.0.wav,converted_18697_00057.0_00060.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,213,False,converted_18677_00094.5_00097.5.wav,converted_18677_00094.5_00097.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,214,False,converted_18677_00036.0_00039.0.wav,converted_18677_00036.0_00039.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,215,False,converted_18532_00045.0_00048.0.wav,converted_18532_00045.0_00048.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,216,False,converted_18677_00304.5_00307.5.wav,converted_18677_00304.5_00307.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,217,False,converted_18655_00081.0_00084.0.wav,converted_18655_00081.0_00084.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,218,False,converted_18697_00045.0_00048.0.wav,converted_18697_00045.0_00048.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,219,False,converted_18677_00061.5_00064.5.wav,converted_18677_00061.5_00064.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,220,False,converted_18677_00067.5_00070.5.wav,converted_18677_00067.5_00070.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,221,False,converted_18532_00261.0_00264.0.wav,converted_18532_00261.0_00264.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,222,False,converted_18532_00151.5_00154.5.wav,converted_18532_00151.5_00154.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,223,False,converted_18677_00180.0_00183.0.wav,converted_18677_00180.0_00183.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,224,False,converted_18655_00136.5_00139.5.wav,converted_18655_00136.5_00139.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,225,False,converted_18697_00070.5_00073.5.wav,converted_18697_00070.5_00073.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,226,False,converted_18655_00013.5_00016.5.wav,converted_18655_00013.5_00016.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,227,False,converted_18655_00103.5_00106.5.wav,converted_18655_00103.5_00106.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,228,False,converted_18655_00156.0_00159.0.wav,converted_18655_00156.0_00159.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,229,False,converted_18697_00016.5_00019.5.wav,converted_18697_00016.5_00019.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,230,False,converted_18677_00051.0_00054.0.wav,converted_18677_00051.0_00054.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,231,False,converted_18697_00019.5_00022.5.wav,converted_18697_00019.5_00022.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,232,False,converted_18677_00084.0_00087.0.wav,converted_18677_00084.0_00087.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,233,False,converted_18655_00055.5_00058.5.wav,converted_18655_00055.5_00058.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,234,False,converted_18697_00022.5_00025.5.wav,converted_18697_00022.5_00025.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,235,False,converted_18677_00007.5_00010.5.wav,converted_18677_00007.5_00010.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,236,False,converted_18677_00298.5_00301.5.wav,converted_18677_00298.5_00301.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,237,False,converted_18655_00061.5_00064.5.wav,converted_18655_00061.5_00064.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,238,False,converted_18532_00325.5_00328.5.wav,converted_18532_00325.5_00328.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,239,False,converted_18677_00366.0_00369.0.wav,converted_18677_00366.0_00369.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,240,False,converted_18532_00142.5_00145.5.wav,converted_18532_00142.5_00145.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,241,False,converted_18677_00297.0_00300.0.wav,converted_18677_00297.0_00300.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,242,False,converted_18655_00114.0_00117.0.wav,converted_18655_00114.0_00117.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,243,False,converted_18677_00255.0_00258.0.wav,converted_18677_00255.0_00258.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,244,False,converted_18532_00093.0_00096.0.wav,converted_18532_00093.0_00096.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,245,False,converted_18677_00097.5_00100.5.wav,converted_18677_00097.5_00100.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,246,False,converted_18677_00331.5_00334.5.wav,converted_18677_00331.5_00334.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,247,False,converted_18532_00106.5_00109.5.wav,converted_18532_00106.5_00109.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,248,False,converted_18532_00223.5_00226.5.wav,converted_18532_00223.5_00226.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,249,False,converted_18655_00109.5_00112.5.wav,converted_18655_00109.5_00112.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,250,False,converted_18655_00138.0_00141.0.wav,converted_18655_00138.0_00141.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,251,False,converted_18677_00132.0_00135.0.wav,converted_18677_00132.0_00135.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,252,False,converted_18677_00315.0_00318.0.wav,converted_18677_00315.0_00318.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,253,False,converted_18677_00129.0_00132.0.wav,converted_18677_00129.0_00132.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,254,False,converted_18677_00081.0_00084.0.wav,converted_18677_00081.0_00084.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,255,False,converted_18677_00004.5_00007.5.wav,converted_18677_00004.5_00007.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,256,False,converted_18688_00007.5_00010.5.wav,converted_18688_00007.5_00010.5.npy,1,Philippine Eagle,Cotabato,converted_18688.wav
+Eagle,257,False,converted_18697_00015.0_00018.0.wav,converted_18697_00015.0_00018.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,258,False,converted_18655_00084.0_00087.0.wav,converted_18655_00084.0_00087.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,259,False,converted_618292563_00004.5_00007.5.wav,converted_618292563_00004.5_00007.5.npy,1,Philippine Eagle,Bukidnon,converted_618292563.wav
+Eagle,260,False,converted_18532_00237.0_00240.0.wav,converted_18532_00237.0_00240.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,261,False,converted_18697_00054.0_00057.0.wav,converted_18697_00054.0_00057.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,262,False,converted_18677_00204.0_00207.0.wav,converted_18677_00204.0_00207.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,263,False,converted_18655_00145.5_00148.5.wav,converted_18655_00145.5_00148.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,264,False,converted_18677_00082.5_00085.5.wav,converted_18677_00082.5_00085.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,265,False,converted_18677_00073.5_00076.5.wav,converted_18677_00073.5_00076.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,266,False,converted_18697_00067.5_00070.5.wav,converted_18697_00067.5_00070.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,267,False,converted_18677_00244.5_00247.5.wav,converted_18677_00244.5_00247.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,268,False,converted_18688_00006.0_00009.0.wav,converted_18688_00006.0_00009.0.npy,1,Philippine Eagle,Cotabato,converted_18688.wav
+Eagle,269,False,converted_18532_00217.5_00220.5.wav,converted_18532_00217.5_00220.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,270,False,converted_18677_00241.5_00244.5.wav,converted_18677_00241.5_00244.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,271,False,converted_18697_00036.0_00039.0.wav,converted_18697_00036.0_00039.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,272,False,converted_18677_00055.5_00058.5.wav,converted_18677_00055.5_00058.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,273,False,converted_18655_00189.0_00192.0.wav,converted_18655_00189.0_00192.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,274,False,converted_18532_00031.5_00034.5.wav,converted_18532_00031.5_00034.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,275,False,converted_18677_00253.5_00256.5.wav,converted_18677_00253.5_00256.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,276,False,converted_18677_00096.0_00099.0.wav,converted_18677_00096.0_00099.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,277,False,converted_18677_00195.0_00198.0.wav,converted_18677_00195.0_00198.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,278,False,converted_18677_00105.0_00108.0.wav,converted_18677_00105.0_00108.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,279,False,converted_18655_00088.5_00091.5.wav,converted_18655_00088.5_00091.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,280,False,converted_18677_00006.0_00009.0.wav,converted_18677_00006.0_00009.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,281,False,converted_18655_00178.5_00181.5.wav,converted_18655_00178.5_00181.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,282,False,converted_18677_00138.0_00141.0.wav,converted_18677_00138.0_00141.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,283,False,converted_18655_00126.0_00129.0.wav,converted_18655_00126.0_00129.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,284,False,converted_18532_00277.5_00280.5.wav,converted_18532_00277.5_00280.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,285,False,converted_179797_00034.5_00037.5.wav,converted_179797_00034.5_00037.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,286,False,converted_18655_00076.5_00079.5.wav,converted_18655_00076.5_00079.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,287,False,converted_179797_00024.0_00027.0.wav,converted_179797_00024.0_00027.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,288,False,converted_18677_00327.0_00330.0.wav,converted_18677_00327.0_00330.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,289,False,converted_18655_00175.5_00178.5.wav,converted_18655_00175.5_00178.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,290,False,converted_18677_00361.5_00364.5.wav,converted_18677_00361.5_00364.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,291,False,converted_18677_00358.5_00361.5.wav,converted_18677_00358.5_00361.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,292,False,converted_18532_00112.5_00115.5.wav,converted_18532_00112.5_00115.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,293,False,converted_179797_00021.0_00024.0.wav,converted_179797_00021.0_00024.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,294,False,converted_18677_00265.5_00268.5.wav,converted_18677_00265.5_00268.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,295,False,converted_18532_00102.0_00105.0.wav,converted_18532_00102.0_00105.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,296,False,converted_18677_00330.0_00333.0.wav,converted_18677_00330.0_00333.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,297,False,converted_179797_00013.5_00016.5.wav,converted_179797_00013.5_00016.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,298,False,converted_18532_00228.0_00231.0.wav,converted_18532_00228.0_00231.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,299,False,converted_18532_00082.5_00085.5.wav,converted_18532_00082.5_00085.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,300,False,converted_18532_00226.5_00229.5.wav,converted_18532_00226.5_00229.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,301,False,converted_18677_00063.0_00066.0.wav,converted_18677_00063.0_00066.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,302,False,converted_18677_00159.0_00162.0.wav,converted_18677_00159.0_00162.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,303,False,converted_18532_00022.5_00025.5.wav,converted_18532_00022.5_00025.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,304,False,converted_18655_00079.5_00082.5.wav,converted_18655_00079.5_00082.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,305,False,converted_18532_00328.5_00331.5.wav,converted_18532_00328.5_00331.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,306,False,converted_18532_00304.5_00307.5.wav,converted_18532_00304.5_00307.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,307,False,converted_18677_00022.5_00025.5.wav,converted_18677_00022.5_00025.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,308,False,converted_18655_00006.0_00009.0.wav,converted_18655_00006.0_00009.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,309,False,converted_18532_00177.0_00180.0.wav,converted_18532_00177.0_00180.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,310,False,converted_18677_00153.0_00156.0.wav,converted_18677_00153.0_00156.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,311,False,converted_18677_00157.5_00160.5.wav,converted_18677_00157.5_00160.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,312,False,converted_18532_00090.0_00093.0.wav,converted_18532_00090.0_00093.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,313,False,converted_18677_00319.5_00322.5.wav,converted_18677_00319.5_00322.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,314,False,converted_18532_00016.5_00019.5.wav,converted_18532_00016.5_00019.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,315,False,converted_18677_00388.5_00391.5.wav,converted_18677_00388.5_00391.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,316,False,converted_18655_00181.5_00184.5.wav,converted_18655_00181.5_00184.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,317,False,converted_18532_00264.0_00267.0.wav,converted_18532_00264.0_00267.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,318,False,converted_18677_00334.5_00337.5.wav,converted_18677_00334.5_00337.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,319,False,converted_609062544_00001.5_00004.5.wav,converted_609062544_00001.5_00004.5.npy,1,Philippine Eagle,Davao del Sur,converted_609062544.wav
+Eagle,320,False,converted_179797_00039.0_00042.0.wav,converted_179797_00039.0_00042.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,321,False,converted_18677_00009.0_00012.0.wav,converted_18677_00009.0_00012.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,322,False,converted_18677_00370.5_00373.5.wav,converted_18677_00370.5_00373.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,323,False,converted_18677_00087.0_00090.0.wav,converted_18677_00087.0_00090.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,324,False,converted_18697_00024.0_00027.0.wav,converted_18697_00024.0_00027.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,325,False,converted_18677_00192.0_00195.0.wav,converted_18677_00192.0_00195.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,326,False,converted_18532_00043.5_00046.5.wav,converted_18532_00043.5_00046.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,327,False,converted_18655_00148.5_00151.5.wav,converted_18655_00148.5_00151.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,328,False,converted_179797_00027.0_00030.0.wav,converted_179797_00027.0_00030.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,329,False,converted_18655_00150.0_00153.0.wav,converted_18655_00150.0_00153.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,330,False,converted_18677_00223.5_00226.5.wav,converted_18677_00223.5_00226.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,331,False,converted_18677_00256.5_00259.5.wav,converted_18677_00256.5_00259.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,332,False,converted_18677_00012.0_00015.0.wav,converted_18677_00012.0_00015.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,333,False,converted_179797_00015.0_00018.0.wav,converted_179797_00015.0_00018.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,334,False,converted_18532_00184.5_00187.5.wav,converted_18532_00184.5_00187.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,335,False,converted_18677_00300.0_00303.0.wav,converted_18677_00300.0_00303.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,336,False,converted_18677_00262.5_00265.5.wav,converted_18677_00262.5_00265.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,337,False,converted_18677_00207.0_00210.0.wav,converted_18677_00207.0_00210.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,338,False,converted_18677_00108.0_00111.0.wav,converted_18677_00108.0_00111.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,339,False,converted_18532_00172.5_00175.5.wav,converted_18532_00172.5_00175.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,340,False,converted_18697_00028.5_00031.5.wav,converted_18697_00028.5_00031.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,341,False,converted_18532_00283.5_00286.5.wav,converted_18532_00283.5_00286.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,342,False,converted_18655_00111.0_00114.0.wav,converted_18655_00111.0_00114.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,343,False,converted_18677_00222.0_00225.0.wav,converted_18677_00222.0_00225.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,344,False,converted_18532_00307.5_00310.5.wav,converted_18532_00307.5_00310.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,345,False,converted_18677_00142.5_00145.5.wav,converted_18677_00142.5_00145.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,346,False,converted_18532_00258.0_00261.0.wav,converted_18532_00258.0_00261.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,347,False,converted_18532_00222.0_00225.0.wav,converted_18532_00222.0_00225.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,348,False,converted_18655_00165.0_00168.0.wav,converted_18655_00165.0_00168.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,349,False,converted_18677_00102.0_00105.0.wav,converted_18677_00102.0_00105.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,350,False,converted_18677_00328.5_00331.5.wav,converted_18677_00328.5_00331.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,351,False,converted_18655_00177.0_00180.0.wav,converted_18655_00177.0_00180.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,352,False,converted_18532_00216.0_00219.0.wav,converted_18532_00216.0_00219.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,353,False,converted_18677_00013.5_00016.5.wav,converted_18677_00013.5_00016.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,354,False,converted_18655_00051.0_00054.0.wav,converted_18655_00051.0_00054.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,355,False,converted_18532_00276.0_00279.0.wav,converted_18532_00276.0_00279.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,356,False,converted_18677_00196.5_00199.5.wav,converted_18677_00196.5_00199.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,357,False,converted_18697_00060.0_00063.0.wav,converted_18697_00060.0_00063.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,358,False,converted_18677_00106.5_00109.5.wav,converted_18677_00106.5_00109.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,359,False,converted_18677_00252.0_00255.0.wav,converted_18677_00252.0_00255.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,360,False,converted_18697_00021.0_00024.0.wav,converted_18697_00021.0_00024.0.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,361,False,converted_18655_00147.0_00150.0.wav,converted_18655_00147.0_00150.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,362,False,converted_18532_00111.0_00114.0.wav,converted_18532_00111.0_00114.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,363,False,converted_18697_00049.5_00052.5.wav,converted_18697_00049.5_00052.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,364,False,converted_18532_00243.0_00246.0.wav,converted_18532_00243.0_00246.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,365,False,converted_18532_00144.0_00147.0.wav,converted_18532_00144.0_00147.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,366,False,converted_18697_00007.5_00010.5.wav,converted_18697_00007.5_00010.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,367,False,converted_18532_00141.0_00144.0.wav,converted_18532_00141.0_00144.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,368,False,converted_18677_00313.5_00316.5.wav,converted_18677_00313.5_00316.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,369,False,converted_18532_00324.0_00327.0.wav,converted_18532_00324.0_00327.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,370,False,converted_18655_00132.0_00135.0.wav,converted_18655_00132.0_00135.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,371,False,converted_18677_00018.0_00021.0.wav,converted_18677_00018.0_00021.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,372,False,converted_18697_00061.5_00064.5.wav,converted_18697_00061.5_00064.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,373,False,converted_18532_00297.0_00300.0.wav,converted_18532_00297.0_00300.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,374,False,converted_18532_00150.0_00153.0.wav,converted_18532_00150.0_00153.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,375,False,converted_18677_00316.5_00319.5.wav,converted_18677_00316.5_00319.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,376,False,converted_179797_00022.5_00025.5.wav,converted_179797_00022.5_00025.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,377,False,converted_18532_00286.5_00289.5.wav,converted_18532_00286.5_00289.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,378,False,converted_18677_00357.0_00360.0.wav,converted_18677_00357.0_00360.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,379,False,converted_18655_00082.5_00085.5.wav,converted_18655_00082.5_00085.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,380,False,converted_18532_00108.0_00111.0.wav,converted_18532_00108.0_00111.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,381,False,converted_18677_00016.5_00019.5.wav,converted_18677_00016.5_00019.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,382,False,converted_179797_00007.5_00010.5.wav,converted_179797_00007.5_00010.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,383,False,converted_18532_00048.0_00051.0.wav,converted_18532_00048.0_00051.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,384,False,converted_18532_00306.0_00309.0.wav,converted_18532_00306.0_00309.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,385,False,converted_179797_00033.0_00036.0.wav,converted_179797_00033.0_00036.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,386,False,converted_18655_00106.5_00109.5.wav,converted_18655_00106.5_00109.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,387,False,converted_18677_00136.5_00139.5.wav,converted_18677_00136.5_00139.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,388,False,converted_18677_00154.5_00157.5.wav,converted_18677_00154.5_00157.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,389,False,converted_18532_00153.0_00156.0.wav,converted_18532_00153.0_00156.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,390,False,converted_18677_00160.5_00163.5.wav,converted_18677_00160.5_00163.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,391,False,converted_18677_00135.0_00138.0.wav,converted_18677_00135.0_00138.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,392,False,converted_18655_00180.0_00183.0.wav,converted_18655_00180.0_00183.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,393,False,converted_18677_00190.5_00193.5.wav,converted_18677_00190.5_00193.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,394,False,converted_18532_00021.0_00024.0.wav,converted_18532_00021.0_00024.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,395,False,converted_18532_00330.0_00333.0.wav,converted_18532_00330.0_00333.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,396,False,converted_18688_00004.5_00007.5.wav,converted_18688_00004.5_00007.5.npy,1,Philippine Eagle,Cotabato,converted_18688.wav
+Eagle,397,False,converted_18532_00262.5_00265.5.wav,converted_18532_00262.5_00265.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,398,False,converted_18677_00126.0_00129.0.wav,converted_18677_00126.0_00129.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,399,False,converted_18677_00091.5_00094.5.wav,converted_18677_00091.5_00094.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,400,False,converted_18677_00387.0_00390.0.wav,converted_18677_00387.0_00390.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,401,False,converted_18655_00186.0_00189.0.wav,converted_18655_00186.0_00189.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,402,False,converted_18532_00049.5_00052.5.wav,converted_18532_00049.5_00052.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,403,False,converted_18697_00040.5_00043.5.wav,converted_18697_00040.5_00043.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,404,False,converted_18655_00087.0_00090.0.wav,converted_18655_00087.0_00090.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,405,False,converted_18677_00168.0_00171.0.wav,converted_18677_00168.0_00171.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,406,False,converted_18532_00099.0_00102.0.wav,converted_18532_00099.0_00102.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,407,False,converted_18677_00109.5_00112.5.wav,converted_18677_00109.5_00112.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,408,False,converted_18532_00009.0_00012.0.wav,converted_18532_00009.0_00012.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,409,False,converted_18677_00099.0_00102.0.wav,converted_18677_00099.0_00102.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,410,False,converted_179797_00030.0_00033.0.wav,converted_179797_00030.0_00033.0.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,411,False,converted_18677_00166.5_00169.5.wav,converted_18677_00166.5_00169.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,412,False,converted_18532_00268.5_00271.5.wav,converted_18532_00268.5_00271.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,413,False,converted_18655_00043.5_00046.5.wav,converted_18655_00043.5_00046.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,414,False,converted_18655_00151.5_00154.5.wav,converted_18655_00151.5_00154.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,415,False,converted_18677_00121.5_00124.5.wav,converted_18677_00121.5_00124.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,416,False,converted_179797_00031.5_00034.5.wav,converted_179797_00031.5_00034.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,417,False,converted_18677_00141.0_00144.0.wav,converted_18677_00141.0_00144.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,418,False,converted_18677_00042.0_00045.0.wav,converted_18677_00042.0_00045.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,419,False,converted_18532_00274.5_00277.5.wav,converted_18532_00274.5_00277.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,420,False,converted_18655_00159.0_00162.0.wav,converted_18655_00159.0_00162.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,421,False,converted_18532_00027.0_00030.0.wav,converted_18532_00027.0_00030.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,422,False,converted_18677_00120.0_00123.0.wav,converted_18677_00120.0_00123.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,423,False,converted_18677_00163.5_00166.5.wav,converted_18677_00163.5_00166.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,424,False,converted_18532_00028.5_00031.5.wav,converted_18532_00028.5_00031.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,425,False,converted_18677_00213.0_00216.0.wav,converted_18677_00213.0_00216.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,426,False,converted_18655_00139.5_00142.5.wav,converted_18655_00139.5_00142.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,427,False,converted_18532_00084.0_00087.0.wav,converted_18532_00084.0_00087.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,428,False,converted_179797_00016.5_00019.5.wav,converted_179797_00016.5_00019.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,429,False,converted_18532_00256.5_00259.5.wav,converted_18532_00256.5_00259.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,430,False,converted_18655_00129.0_00132.0.wav,converted_18655_00129.0_00132.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,431,False,converted_18655_00046.5_00049.5.wav,converted_18655_00046.5_00049.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,432,False,converted_18697_00058.5_00061.5.wav,converted_18697_00058.5_00061.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,433,False,converted_18532_00046.5_00049.5.wav,converted_18532_00046.5_00049.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,434,False,converted_18677_00307.5_00310.5.wav,converted_18677_00307.5_00310.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,435,False,converted_18532_00007.5_00010.5.wav,converted_18532_00007.5_00010.5.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,436,False,converted_18677_00103.5_00106.5.wav,converted_18677_00103.5_00106.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,437,False,converted_18655_00100.5_00103.5.wav,converted_18655_00100.5_00103.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,438,False,converted_18677_00183.0_00186.0.wav,converted_18677_00183.0_00186.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,439,False,converted_18677_00145.5_00148.5.wav,converted_18677_00145.5_00148.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,440,False,converted_18532_00279.0_00282.0.wav,converted_18532_00279.0_00282.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,441,False,converted_18677_00037.5_00040.5.wav,converted_18677_00037.5_00040.5.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,442,False,converted_18677_00369.0_00372.0.wav,converted_18677_00369.0_00372.0.npy,1,Philippine Eagle,Cotabato,converted_18677.wav
+Eagle,443,False,converted_18697_00064.5_00067.5.wav,converted_18697_00064.5_00067.5.npy,1,Philippine Eagle,Cotabato,converted_18697.wav
+Eagle,444,False,converted_179797_00028.5_00031.5.wav,converted_179797_00028.5_00031.5.npy,1,Philippine Eagle,Davao del Sur,converted_179797.wav
+Eagle,445,False,converted_18655_00049.5_00052.5.wav,converted_18655_00049.5_00052.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,446,False,converted_18655_00157.5_00160.5.wav,converted_18655_00157.5_00160.5.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Eagle,447,False,converted_18532_00030.0_00033.0.wav,converted_18532_00030.0_00033.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,448,False,converted_18532_00240.0_00243.0.wav,converted_18532_00240.0_00243.0.npy,1,Philippine Eagle,Davao del Sur,converted_18532.wav
+Eagle,449,False,converted_18655_00042.0_00045.0.wav,converted_18655_00042.0_00045.0.npy,1,Philippine Eagle,Cotabato,converted_18655.wav
+Ambient,0,True,converted_18532_00087.0_00090.0.wav,converted_18532_00087.0_00090.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,1,True,converted_18655_00031.5_00034.5.wav,converted_18655_00031.5_00034.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,2,True,converted_18532_00034.5_00037.5.wav,converted_18532_00034.5_00037.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,3,True,converted_18677_00229.5_00232.5.wav,converted_18677_00229.5_00232.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,4,True,converted_18532_00148.5_00151.5.wav,converted_18532_00148.5_00151.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,5,True,converted_18655_00171.0_00174.0.wav,converted_18655_00171.0_00174.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,6,True,converted_18688_00015.0_00018.0.wav,converted_18688_00015.0_00018.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18688.wav
+Ambient,7,True,converted_18677_00228.0_00231.0.wav,converted_18677_00228.0_00231.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,8,True,converted_18677_00234.0_00237.0.wav,converted_18677_00234.0_00237.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,9,True,converted_18677_00379.5_00382.5.wav,converted_18677_00379.5_00382.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,10,True,converted_18532_00067.5_00070.5.wav,converted_18532_00067.5_00070.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,11,True,converted_18655_00120.0_00123.0.wav,converted_18655_00120.0_00123.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,12,True,converted_18655_00027.0_00030.0.wav,converted_18655_00027.0_00030.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,13,True,converted_179797_00049.5_00052.5.wav,converted_179797_00049.5_00052.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,14,True,converted_18655_00018.0_00021.0.wav,converted_18655_00018.0_00021.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,15,True,converted_18532_00207.0_00210.0.wav,converted_18532_00207.0_00210.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,16,True,converted_18532_00121.5_00124.5.wav,converted_18532_00121.5_00124.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,17,True,converted_18677_00088.5_00091.5.wav,converted_18677_00088.5_00091.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,18,True,converted_18532_00273.0_00276.0.wav,converted_18532_00273.0_00276.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,19,True,converted_18677_00276.0_00279.0.wav,converted_18677_00276.0_00279.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,20,False,converted_18532_00075.0_00078.0.wav,converted_18532_00075.0_00078.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,21,False,converted_18655_00066.0_00069.0.wav,converted_18655_00066.0_00069.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,22,False,converted_18532_00316.5_00319.5.wav,converted_18532_00316.5_00319.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,23,False,converted_18532_00319.5_00322.5.wav,converted_18532_00319.5_00322.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,24,False,converted_18532_00118.5_00121.5.wav,converted_18532_00118.5_00121.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,25,False,converted_18532_00204.0_00207.0.wav,converted_18532_00204.0_00207.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,26,False,converted_18677_00291.0_00294.0.wav,converted_18677_00291.0_00294.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,27,False,converted_18677_00286.5_00289.5.wav,converted_18677_00286.5_00289.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,28,False,converted_18532_00322.5_00325.5.wav,converted_18532_00322.5_00325.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,29,False,converted_18532_00271.5_00274.5.wav,converted_18532_00271.5_00274.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,30,False,converted_18677_00274.5_00277.5.wav,converted_18677_00274.5_00277.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,31,False,converted_18532_00171.0_00174.0.wav,converted_18532_00171.0_00174.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,32,False,converted_179797_00045.0_00048.0.wav,converted_179797_00045.0_00048.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,33,False,converted_18532_00201.0_00204.0.wav,converted_18532_00201.0_00204.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,34,False,converted_18655_00094.5_00097.5.wav,converted_18655_00094.5_00097.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,35,False,converted_18532_00289.5_00292.5.wav,converted_18532_00289.5_00292.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,36,False,converted_18677_00382.5_00385.5.wav,converted_18677_00382.5_00385.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,37,False,converted_18677_00273.0_00276.0.wav,converted_18677_00273.0_00276.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,38,False,converted_18532_00247.5_00250.5.wav,converted_18532_00247.5_00250.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,39,False,converted_18688_00013.5_00016.5.wav,converted_18688_00013.5_00016.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18688.wav
+Ambient,40,False,converted_18677_00162.0_00165.0.wav,converted_18677_00162.0_00165.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,41,False,converted_18532_00076.5_00079.5.wav,converted_18532_00076.5_00079.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,42,False,converted_18532_00195.0_00198.0.wav,converted_18532_00195.0_00198.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,43,False,converted_18532_00159.0_00162.0.wav,converted_18532_00159.0_00162.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,44,False,converted_18655_00022.5_00025.5.wav,converted_18655_00022.5_00025.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,45,False,converted_18532_00168.0_00171.0.wav,converted_18532_00168.0_00171.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,46,False,converted_18532_00259.5_00262.5.wav,converted_18532_00259.5_00262.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,47,False,converted_18532_00232.5_00235.5.wav,converted_18532_00232.5_00235.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,48,False,converted_18532_00036.0_00039.0.wav,converted_18532_00036.0_00039.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,49,False,converted_18532_00136.5_00139.5.wav,converted_18532_00136.5_00139.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,50,False,converted_18655_00117.0_00120.0.wav,converted_18655_00117.0_00120.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,51,False,converted_18532_00295.5_00298.5.wav,converted_18532_00295.5_00298.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,52,False,converted_18655_00019.5_00022.5.wav,converted_18655_00019.5_00022.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,53,False,converted_18532_00133.5_00136.5.wav,converted_18532_00133.5_00136.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,54,False,converted_18532_00231.0_00234.0.wav,converted_18532_00231.0_00234.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,55,False,converted_18532_00069.0_00072.0.wav,converted_18532_00069.0_00072.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,56,False,converted_18532_00249.0_00252.0.wav,converted_18532_00249.0_00252.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,57,False,converted_18532_00199.5_00202.5.wav,converted_18532_00199.5_00202.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,58,False,converted_18655_00036.0_00039.0.wav,converted_18655_00036.0_00039.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,59,False,converted_18655_00024.0_00027.0.wav,converted_18655_00024.0_00027.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,60,False,converted_18532_00210.0_00213.0.wav,converted_18532_00210.0_00213.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,61,False,converted_18532_00213.0_00216.0.wav,converted_18532_00213.0_00216.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,62,False,converted_18677_00340.5_00343.5.wav,converted_18677_00340.5_00343.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,63,False,converted_18532_00205.5_00208.5.wav,converted_18532_00205.5_00208.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,64,False,converted_18532_00313.5_00316.5.wav,converted_18532_00313.5_00316.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,65,False,converted_18532_00114.0_00117.0.wav,converted_18532_00114.0_00117.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,66,False,converted_18655_00039.0_00042.0.wav,converted_18655_00039.0_00042.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,67,False,converted_18677_00376.5_00379.5.wav,converted_18677_00376.5_00379.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,68,False,converted_18655_00070.5_00073.5.wav,converted_18655_00070.5_00073.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,69,False,converted_18532_00124.5_00127.5.wav,converted_18532_00124.5_00127.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,70,False,converted_18677_00070.5_00073.5.wav,converted_18677_00070.5_00073.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,71,False,converted_18677_00384.0_00387.0.wav,converted_18677_00384.0_00387.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,72,False,converted_18532_00198.0_00201.0.wav,converted_18532_00198.0_00201.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,73,False,converted_18655_00067.5_00070.5.wav,converted_18655_00067.5_00070.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,74,False,converted_18677_00177.0_00180.0.wav,converted_18677_00177.0_00180.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,75,False,converted_18532_00064.5_00067.5.wav,converted_18532_00064.5_00067.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,76,False,converted_18532_00160.5_00163.5.wav,converted_18532_00160.5_00163.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,77,False,converted_18532_00202.5_00205.5.wav,converted_18532_00202.5_00205.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,78,False,converted_18677_00352.5_00355.5.wav,converted_18677_00352.5_00355.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,79,False,converted_18677_00169.5_00172.5.wav,converted_18677_00169.5_00172.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,80,False,converted_18677_00226.5_00229.5.wav,converted_18677_00226.5_00229.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,81,False,converted_179797_00048.0_00051.0.wav,converted_179797_00048.0_00051.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,82,False,converted_18677_00372.0_00375.0.wav,converted_18677_00372.0_00375.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,83,False,converted_18697_00009.0_00012.0.wav,converted_18697_00009.0_00012.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18697.wav
+Ambient,84,False,converted_18532_00132.0_00135.0.wav,converted_18532_00132.0_00135.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,85,False,converted_18655_00025.5_00028.5.wav,converted_18655_00025.5_00028.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,86,False,converted_18677_00285.0_00288.0.wav,converted_18677_00285.0_00288.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,87,False,converted_18532_00189.0_00192.0.wav,converted_18532_00189.0_00192.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,88,False,converted_18677_00198.0_00201.0.wav,converted_18677_00198.0_00201.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,89,False,converted_18677_00339.0_00342.0.wav,converted_18677_00339.0_00342.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,90,False,converted_18655_00015.0_00018.0.wav,converted_18655_00015.0_00018.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,91,False,converted_18532_00288.0_00291.0.wav,converted_18532_00288.0_00291.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,92,False,converted_18532_00078.0_00081.0.wav,converted_18532_00078.0_00081.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,93,False,converted_18532_00294.0_00297.0.wav,converted_18532_00294.0_00297.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,94,False,converted_18677_00343.5_00346.5.wav,converted_18677_00343.5_00346.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,95,False,converted_18532_00039.0_00042.0.wav,converted_18532_00039.0_00042.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,96,False,converted_18532_00063.0_00066.0.wav,converted_18532_00063.0_00066.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,97,False,converted_18532_00321.0_00324.0.wav,converted_18532_00321.0_00324.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,98,False,converted_18532_00004.5_00007.5.wav,converted_18532_00004.5_00007.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,99,False,converted_18677_00288.0_00291.0.wav,converted_18677_00288.0_00291.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,100,False,converted_18677_00295.5_00298.5.wav,converted_18677_00295.5_00298.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,101,False,converted_18677_00268.5_00271.5.wav,converted_18677_00268.5_00271.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,102,False,converted_18677_00199.5_00202.5.wav,converted_18677_00199.5_00202.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,103,False,converted_18677_00208.5_00211.5.wav,converted_18677_00208.5_00211.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,104,False,converted_18532_00166.5_00169.5.wav,converted_18532_00166.5_00169.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,105,False,converted_18655_00093.0_00096.0.wav,converted_18655_00093.0_00096.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,106,False,converted_18655_00121.5_00124.5.wav,converted_18655_00121.5_00124.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,107,False,converted_179797_00046.5_00049.5.wav,converted_179797_00046.5_00049.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,108,False,converted_18677_00178.5_00181.5.wav,converted_18677_00178.5_00181.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,109,False,converted_18532_00280.5_00283.5.wav,converted_18532_00280.5_00283.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,110,False,converted_18655_00069.0_00072.0.wav,converted_18655_00069.0_00072.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,111,False,converted_18677_00294.0_00297.0.wav,converted_18677_00294.0_00297.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,112,False,converted_18677_00172.5_00175.5.wav,converted_18677_00172.5_00175.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,113,False,converted_18532_00310.5_00313.5.wav,converted_18532_00310.5_00313.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,114,False,converted_18532_00234.0_00237.0.wav,converted_18532_00234.0_00237.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,115,False,converted_18532_00066.0_00069.0.wav,converted_18532_00066.0_00069.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,116,False,converted_18532_00250.5_00253.5.wav,converted_18532_00250.5_00253.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,117,False,converted_18532_00073.5_00076.5.wav,converted_18532_00073.5_00076.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,118,False,converted_18655_00118.5_00121.5.wav,converted_18655_00118.5_00121.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,119,False,converted_18677_00282.0_00285.0.wav,converted_18677_00282.0_00285.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,120,False,converted_18532_00061.5_00064.5.wav,converted_18532_00061.5_00064.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,121,False,converted_18532_00072.0_00075.0.wav,converted_18532_00072.0_00075.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,122,False,converted_18655_00030.0_00033.0.wav,converted_18655_00030.0_00033.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,123,False,converted_18532_00252.0_00255.0.wav,converted_18532_00252.0_00255.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,124,False,converted_18688_00012.0_00015.0.wav,converted_18688_00012.0_00015.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18688.wav
+Ambient,125,False,converted_18677_00202.5_00205.5.wav,converted_18677_00202.5_00205.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,126,False,converted_18532_00079.5_00082.5.wav,converted_18532_00079.5_00082.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,127,False,converted_18655_00028.5_00031.5.wav,converted_18655_00028.5_00031.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,128,False,converted_18532_00058.5_00061.5.wav,converted_18532_00058.5_00061.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,129,False,converted_18677_00354.0_00357.0.wav,converted_18677_00354.0_00357.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,130,False,converted_18532_00186.0_00189.0.wav,converted_18532_00186.0_00189.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,131,False,converted_18677_00337.5_00340.5.wav,converted_18677_00337.5_00340.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,132,False,converted_18655_00021.0_00024.0.wav,converted_18655_00021.0_00024.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,133,False,converted_18532_00042.0_00045.0.wav,converted_18532_00042.0_00045.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,134,False,converted_18532_00165.0_00168.0.wav,converted_18532_00165.0_00168.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,135,False,converted_18677_00277.5_00280.5.wav,converted_18677_00277.5_00280.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,136,False,converted_18532_00157.5_00160.5.wav,converted_18532_00157.5_00160.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,137,False,converted_18532_00123.0_00126.0.wav,converted_18532_00123.0_00126.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,138,False,converted_18677_00336.0_00339.0.wav,converted_18677_00336.0_00339.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,139,False,converted_18532_00126.0_00129.0.wav,converted_18532_00126.0_00129.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,140,False,converted_18655_00037.5_00040.5.wav,converted_18655_00037.5_00040.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,141,False,converted_18677_00174.0_00177.0.wav,converted_18677_00174.0_00177.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,142,False,converted_18532_00120.0_00123.0.wav,converted_18532_00120.0_00123.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,143,False,converted_18532_00178.5_00181.5.wav,converted_18532_00178.5_00181.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,144,False,converted_18677_00058.5_00061.5.wav,converted_18677_00058.5_00061.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,145,False,converted_18677_00381.0_00384.0.wav,converted_18677_00381.0_00384.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,146,False,converted_18532_00292.5_00295.5.wav,converted_18532_00292.5_00295.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,147,False,converted_18655_00033.0_00036.0.wav,converted_18655_00033.0_00036.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,148,False,converted_18677_00373.5_00376.5.wav,converted_18677_00373.5_00376.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,149,False,converted_18655_00064.5_00067.5.wav,converted_18655_00064.5_00067.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,150,False,converted_18677_00378.0_00381.0.wav,converted_18677_00378.0_00381.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,151,False,converted_18532_00129.0_00132.0.wav,converted_18532_00129.0_00132.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,152,False,converted_18677_00232.5_00235.5.wav,converted_18677_00232.5_00235.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,153,False,converted_18677_00292.5_00295.5.wav,converted_18677_00292.5_00295.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,154,False,converted_18532_00081.0_00084.0.wav,converted_18532_00081.0_00084.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,155,False,converted_18677_00237.0_00240.0.wav,converted_18677_00237.0_00240.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,156,False,converted_18532_00070.5_00073.5.wav,converted_18532_00070.5_00073.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,157,False,converted_18532_00331.5_00334.5.wav,converted_18532_00331.5_00334.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,158,False,converted_18655_00072.0_00075.0.wav,converted_18655_00072.0_00075.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,159,False,converted_18532_00037.5_00040.5.wav,converted_18532_00037.5_00040.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,160,False,converted_18532_00333.0_00336.0.wav,converted_18532_00333.0_00336.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,161,False,converted_179797_00042.0_00045.0.wav,converted_179797_00042.0_00045.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,162,False,converted_18532_00115.5_00118.5.wav,converted_18532_00115.5_00118.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,163,False,converted_18532_00127.5_00130.5.wav,converted_18532_00127.5_00130.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,164,False,converted_18532_00097.5_00100.5.wav,converted_18532_00097.5_00100.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,165,False,converted_18677_00238.5_00241.5.wav,converted_18677_00238.5_00241.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,166,False,converted_18677_00175.5_00178.5.wav,converted_18677_00175.5_00178.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,167,False,converted_18677_00345.0_00348.0.wav,converted_18677_00345.0_00348.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,168,False,converted_18532_00229.5_00232.5.wav,converted_18532_00229.5_00232.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,169,False,converted_18655_00040.5_00043.5.wav,converted_18655_00040.5_00043.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,170,False,converted_18532_00291.0_00294.0.wav,converted_18532_00291.0_00294.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,171,False,converted_18677_00289.5_00292.5.wav,converted_18677_00289.5_00292.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,172,False,converted_18532_00312.0_00315.0.wav,converted_18532_00312.0_00315.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,173,False,converted_18677_00375.0_00378.0.wav,converted_18677_00375.0_00378.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,174,False,converted_18532_00006.0_00009.0.wav,converted_18532_00006.0_00009.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,175,False,converted_18688_00018.0_00021.0.wav,converted_18688_00018.0_00021.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18688.wav
+Ambient,176,False,converted_18532_00193.5_00196.5.wav,converted_18532_00193.5_00196.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,177,False,converted_18532_00040.5_00043.5.wav,converted_18532_00040.5_00043.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,178,False,converted_18655_00016.5_00019.5.wav,converted_18655_00016.5_00019.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,179,False,converted_18677_00283.5_00286.5.wav,converted_18677_00283.5_00286.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,180,False,converted_18677_00201.0_00204.0.wav,converted_18677_00201.0_00204.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,181,False,converted_18655_00123.0_00126.0.wav,converted_18655_00123.0_00126.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,182,False,converted_18677_00348.0_00351.0.wav,converted_18677_00348.0_00351.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,183,False,converted_18677_00267.0_00270.0.wav,converted_18677_00267.0_00270.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,184,False,converted_18532_00057.0_00060.0.wav,converted_18532_00057.0_00060.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,185,False,converted_18532_00130.5_00133.5.wav,converted_18532_00130.5_00133.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,186,False,converted_18655_00097.5_00100.5.wav,converted_18655_00097.5_00100.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,187,False,converted_18655_00090.0_00093.0.wav,converted_18655_00090.0_00093.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,188,False,converted_18532_00270.0_00273.0.wav,converted_18532_00270.0_00273.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,189,False,converted_18677_00385.5_00388.5.wav,converted_18677_00385.5_00388.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,190,False,converted_18532_00315.0_00318.0.wav,converted_18532_00315.0_00318.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,191,False,converted_18532_00156.0_00159.0.wav,converted_18532_00156.0_00159.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,192,False,converted_18677_00060.0_00063.0.wav,converted_18677_00060.0_00063.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,193,False,converted_18532_00024.0_00027.0.wav,converted_18532_00024.0_00027.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,194,False,converted_179797_00043.5_00046.5.wav,converted_179797_00043.5_00046.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,195,False,converted_18532_00117.0_00120.0.wav,converted_18532_00117.0_00120.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,196,False,converted_18677_00271.5_00274.5.wav,converted_18677_00271.5_00274.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,197,False,converted_18655_00115.5_00118.5.wav,converted_18655_00115.5_00118.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,198,False,converted_18532_00187.5_00190.5.wav,converted_18532_00187.5_00190.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,199,False,converted_18532_00208.5_00211.5.wav,converted_18532_00208.5_00211.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,200,False,converted_18532_00253.5_00256.5.wav,converted_18532_00253.5_00256.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,201,False,converted_18677_00090.0_00093.0.wav,converted_18677_00090.0_00093.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,202,False,converted_18532_00282.0_00285.0.wav,converted_18532_00282.0_00285.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,203,False,converted_18677_00231.0_00234.0.wav,converted_18677_00231.0_00234.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,204,False,converted_18677_00171.0_00174.0.wav,converted_18677_00171.0_00174.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,205,False,converted_18532_00162.0_00165.0.wav,converted_18532_00162.0_00165.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,206,False,converted_18677_00270.0_00273.0.wav,converted_18677_00270.0_00273.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,207,False,converted_18532_00235.5_00238.5.wav,converted_18532_00235.5_00238.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,208,False,converted_179797_00012.0_00015.0.wav,converted_179797_00012.0_00015.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,209,False,converted_18677_00045.0_00048.0.wav,converted_18677_00045.0_00048.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,210,False,converted_18655_00034.5_00037.5.wav,converted_18655_00034.5_00037.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,211,False,converted_18532_00060.0_00063.0.wav,converted_18532_00060.0_00063.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,212,False,converted_18655_00091.5_00094.5.wav,converted_18655_00091.5_00094.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,213,False,converted_18532_00169.5_00172.5.wav,converted_18532_00169.5_00172.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,214,False,converted_18532_00135.0_00138.0.wav,converted_18532_00135.0_00138.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,215,False,converted_18655_00124.5_00127.5.wav,converted_18655_00124.5_00127.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,216,False,converted_18532_00246.0_00249.0.wav,converted_18532_00246.0_00249.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,217,False,converted_18677_00342.0_00345.0.wav,converted_18677_00342.0_00345.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,218,False,converted_18532_00219.0_00222.0.wav,converted_18532_00219.0_00222.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,219,False,converted_18677_00235.5_00238.5.wav,converted_18677_00235.5_00238.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,220,False,converted_179797_00040.5_00043.5.wav,converted_179797_00040.5_00043.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_179797.wav
+Ambient,221,False,converted_18532_00196.5_00199.5.wav,converted_18532_00196.5_00199.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,222,False,converted_18532_00300.0_00303.0.wav,converted_18532_00300.0_00303.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,223,False,converted_18655_00096.0_00099.0.wav,converted_18655_00096.0_00099.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18655.wav
+Ambient,224,False,converted_18688_00016.5_00019.5.wav,converted_18688_00016.5_00019.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18688.wav
+Ambient,225,False,converted_18532_00211.5_00214.5.wav,converted_18532_00211.5_00214.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,226,False,converted_18532_00190.5_00193.5.wav,converted_18532_00190.5_00193.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,227,False,converted_18677_00346.5_00349.5.wav,converted_18677_00346.5_00349.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,228,False,converted_18677_00280.5_00283.5.wav,converted_18677_00280.5_00283.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,229,False,converted_18532_00163.5_00166.5.wav,converted_18532_00163.5_00166.5.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,230,False,converted_18677_00210.0_00213.0.wav,converted_18677_00210.0_00213.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,231,False,converted_18532_00192.0_00195.0.wav,converted_18532_00192.0_00195.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,232,False,converted_18532_00318.0_00321.0.wav,converted_18532_00318.0_00321.0.npy,0,Philippine Eagle Territory (Ambient),Davao del Sur,converted_18532.wav
+Ambient,233,False,converted_18677_00211.5_00214.5.wav,converted_18677_00211.5_00214.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,234,False,converted_18677_00279.0_00282.0.wav,converted_18677_00279.0_00282.0.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Ambient,235,False,converted_18677_00250.5_00253.5.wav,converted_18677_00250.5_00253.5.npy,0,Philippine Eagle Territory (Ambient),Cotabato,converted_18677.wav
+Hard negative,0,True,hardneg_643342311_00007.5_00010.5.wav,hardneg_643342311_00007.5_00010.5.npy,0,Brahminy Kite,Tamil Nadu,643342311.wav
+Hard negative,1,True,hardneg_632339785_00015.0_00018.0.wav,hardneg_632339785_00015.0_00018.0.npy,0,Crested Goshawk,Taipei City,632339785.wav
+Hard negative,2,True,hardneg_646573008_00045.0_00048.0.wav,hardneg_646573008_00045.0_00048.0.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,3,True,hardneg_646627617_00021.0_00024.0.wav,hardneg_646627617_00021.0_00024.0.npy,0,Brahminy Kite,Kerala,646627617.wav
+Hard negative,4,True,hardneg_645764789_00001.5_00004.5.wav,hardneg_645764789_00001.5_00004.5.npy,0,Crested Goshawk,Kerala,645764789.wav
+Hard negative,5,True,hardneg_338400651_00049.5_00052.5.wav,hardneg_338400651_00049.5_00052.5.npy,0,Brahminy Kite,Kerala,338400651.wav
+Hard negative,6,True,hardneg_644073410_00072.0_00075.0.wav,hardneg_644073410_00072.0_00075.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,7,True,hardneg_646566096_00033.0_00036.0.wav,hardneg_646566096_00033.0_00036.0.npy,0,Crested Goshawk,Taipei City,646566096.wav
+Hard negative,8,True,hardneg_646566096_00036.0_00039.0.wav,hardneg_646566096_00036.0_00039.0.npy,0,Crested Goshawk,Taipei City,646566096.wav
+Hard negative,9,True,hardneg_645308500_00000.0_00003.0.wav,hardneg_645308500_00000.0_00003.0.npy,0,Philippine Frogmouth,Agusan del Sur,645308500.wav
+Hard negative,10,True,hardneg_244656271_00010.5_00013.5.wav,hardneg_244656271_00010.5_00013.5.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,11,True,hardneg_38604_00015.0_00018.0.wav,hardneg_38604_00015.0_00018.0.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,12,True,hardneg_163989811_00019.5_00022.5.wav,hardneg_163989811_00019.5_00022.5.npy,0,Rufous-bellied Eagle,Tamil Nadu,163989811.mp3
+Hard negative,13,True,hardneg_651027105_00016.5_00019.5.wav,hardneg_651027105_00016.5_00019.5.npy,0,Crested Goshawk,Taipei City,651027105.wav
+Hard negative,14,True,hardneg_644073410_00013.5_00016.5.wav,hardneg_644073410_00013.5_00016.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,15,True,hardneg_633893043_00000.0_00003.0.wav,hardneg_633893043_00000.0_00003.0.npy,0,Crested Goshawk,Zhejiang,633893043.wav
+Hard negative,16,True,hardneg_639141821_00006.0_00009.0.wav,hardneg_639141821_00006.0_00009.0.npy,0,Crested Goshawk,Hong Kong,639141821.wav
+Hard negative,17,True,hardneg_265061541_00001.5_00004.5.wav,hardneg_265061541_00001.5_00004.5.npy,0,Crested Goshawk,Kaohsiung City,265061541.wav
+Hard negative,18,True,hardneg_32938_00028.5_00031.5.wav,hardneg_32938_00028.5_00031.5.npy,0,Brahminy Kite,Sulawesi,32938.wav
+Hard negative,19,True,hardneg_651786332_00039.0_00042.0.wav,hardneg_651786332_00039.0_00042.0.npy,0,Philippine Falconet,Misamis Oriental,651786332.wav
+Hard negative,20,False,hardneg_651191189_00016.5_00019.5.wav,hardneg_651191189_00016.5_00019.5.npy,0,Crested Goshawk,Taipei City,651191189.wav
+Hard negative,21,False,hardneg_639141821_00007.5_00010.5.wav,hardneg_639141821_00007.5_00010.5.npy,0,Crested Goshawk,Hong Kong,639141821.wav
+Hard negative,22,False,hardneg_609056936_00040.5_00043.5.wav,hardneg_609056936_00040.5_00043.5.npy,0,Philippine Drongo-Cuckoo,Bohol,609056936.wav
+Hard negative,23,False,hardneg_649029170_00039.0_00042.0.wav,hardneg_649029170_00039.0_00042.0.npy,0,Crested Goshawk,Taipei City,649029170.wav
+Hard negative,24,False,hardneg_619119971_00027.0_00030.0.wav,hardneg_619119971_00027.0_00030.0.npy,0,Crested Goshawk,Kerala,619119971.wav
+Hard negative,25,False,hardneg_649562634_00024.0_00027.0.wav,hardneg_649562634_00024.0_00027.0.npy,0,Crested Goshawk,Taipei City,649562634.wav
+Hard negative,26,False,hardneg_556824621_00045.0_00048.0.wav,hardneg_556824621_00045.0_00048.0.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,27,False,hardneg_639141821_00001.5_00004.5.wav,hardneg_639141821_00001.5_00004.5.npy,0,Crested Goshawk,Hong Kong,639141821.wav
+Hard negative,28,False,hardneg_556824621_00043.5_00046.5.wav,hardneg_556824621_00043.5_00046.5.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,29,False,hardneg_651535576_00003.0_00006.0.wav,hardneg_651535576_00003.0_00006.0.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,30,False,hardneg_651535576_00016.5_00019.5.wav,hardneg_651535576_00016.5_00019.5.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,31,False,hardneg_651666013_00012.0_00015.0.wav,hardneg_651666013_00012.0_00015.0.npy,0,Pinsker's Hawk-Eagle,Compostela Valley,651666013.wav
+Hard negative,32,False,hardneg_626495911_00010.5_00013.5.wav,hardneg_626495911_00010.5_00013.5.npy,0,Brahminy Kite,Karnataka,626495911.wav
+Hard negative,33,False,hardneg_636635774_00024.0_00027.0.wav,hardneg_636635774_00024.0_00027.0.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,34,False,hardneg_244656271_00007.5_00010.5.wav,hardneg_244656271_00007.5_00010.5.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,35,False,hardneg_315081151_00000.0_00003.0.wav,hardneg_315081151_00000.0_00003.0.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,315081151.wav
+Hard negative,36,False,hardneg_651786332_00031.5_00034.5.wav,hardneg_651786332_00031.5_00034.5.npy,0,Philippine Falconet,Misamis Oriental,651786332.wav
+Hard negative,37,False,hardneg_652522906_00015.0_00018.0.wav,hardneg_652522906_00015.0_00018.0.npy,0,Crested Goshawk,Odisha,652522906.wav
+Hard negative,38,False,hardneg_577769891_00000.0_00003.0.wav,hardneg_577769891_00000.0_00003.0.npy,0,Crested Goshawk,Karnataka,577769891.m4a
+Hard negative,39,False,hardneg_312760851_00018.0_00021.0.wav,hardneg_312760851_00018.0_00021.0.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,312760851.wav
+Hard negative,40,False,hardneg_644073410_00015.0_00018.0.wav,hardneg_644073410_00015.0_00018.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,41,False,hardneg_651786332_00033.0_00036.0.wav,hardneg_651786332_00033.0_00036.0.npy,0,Philippine Falconet,Misamis Oriental,651786332.wav
+Hard negative,42,False,hardneg_38604_00052.5_00055.5.wav,hardneg_38604_00052.5_00055.5.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,43,False,hardneg_647012636_00025.5_00028.5.wav,hardneg_647012636_00025.5_00028.5.npy,0,Crested Goshawk,Taipei City,647012636.wav
+Hard negative,44,False,hardneg_651786332_00040.5_00043.5.wav,hardneg_651786332_00040.5_00043.5.npy,0,Philippine Falconet,Misamis Oriental,651786332.wav
+Hard negative,45,False,hardneg_652522906_00013.5_00016.5.wav,hardneg_652522906_00013.5_00016.5.npy,0,Crested Goshawk,Odisha,652522906.wav
+Hard negative,46,False,hardneg_646566096_00034.5_00037.5.wav,hardneg_646566096_00034.5_00037.5.npy,0,Crested Goshawk,Taipei City,646566096.wav
+Hard negative,47,False,hardneg_651027105_00010.5_00013.5.wav,hardneg_651027105_00010.5_00013.5.npy,0,Crested Goshawk,Taipei City,651027105.wav
+Hard negative,48,False,hardneg_221158851_00010.5_00013.5.wav,hardneg_221158851_00010.5_00013.5.npy,0,Brahminy Kite,Maharashtra,221158851.wav
+Hard negative,49,False,hardneg_612819480_00027.0_00030.0.wav,hardneg_612819480_00027.0_00030.0.npy,0,Brahminy Kite,Masbate,612819480.mp3
+Hard negative,50,False,hardneg_244656271_00001.5_00004.5.wav,hardneg_244656271_00001.5_00004.5.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,51,False,hardneg_627300715_00010.5_00013.5.wav,hardneg_627300715_00010.5_00013.5.npy,0,Crested Goshawk,Tamil Nadu,627300715.m4a
+Hard negative,52,False,hardneg_651027109_00015.0_00018.0.wav,hardneg_651027109_00015.0_00018.0.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,53,False,hardneg_651027109_00064.5_00067.5.wav,hardneg_651027109_00064.5_00067.5.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,54,False,hardneg_73644_00003.0_00006.0.wav,hardneg_73644_00003.0_00006.0.npy,0,Brahminy Kite,Selangor,73644.wav
+Hard negative,55,False,hardneg_644073410_00021.0_00024.0.wav,hardneg_644073410_00021.0_00024.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,56,False,hardneg_636635774_00034.5_00037.5.wav,hardneg_636635774_00034.5_00037.5.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,57,False,hardneg_646573008_00018.0_00021.0.wav,hardneg_646573008_00018.0_00021.0.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,58,False,hardneg_647012636_00024.0_00027.0.wav,hardneg_647012636_00024.0_00027.0.npy,0,Crested Goshawk,Taipei City,647012636.wav
+Hard negative,59,False,hardneg_646573008_00055.5_00058.5.wav,hardneg_646573008_00055.5_00058.5.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,60,False,hardneg_609921051_00013.5_00016.5.wav,hardneg_609921051_00013.5_00016.5.npy,0,Brahminy Kite,Karnataka,609921051.m4a
+Hard negative,61,False,hardneg_644073410_00019.5_00022.5.wav,hardneg_644073410_00019.5_00022.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,62,False,hardneg_488849221_00009.0_00012.0.wav,hardneg_488849221_00009.0_00012.0.npy,0,Crested Goshawk,Taoyuan City,488849221.wav
+Hard negative,63,False,hardneg_310225_00021.0_00024.0.wav,hardneg_310225_00021.0_00024.0.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,64,False,hardneg_651191346_00027.0_00030.0.wav,hardneg_651191346_00027.0_00030.0.npy,0,Crested Goshawk,Taipei City,651191346.wav
+Hard negative,65,False,hardneg_651027109_00060.0_00063.0.wav,hardneg_651027109_00060.0_00063.0.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,66,False,hardneg_646573008_00049.5_00052.5.wav,hardneg_646573008_00049.5_00052.5.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,67,False,hardneg_163989811_00018.0_00021.0.wav,hardneg_163989811_00018.0_00021.0.npy,0,Rufous-bellied Eagle,Tamil Nadu,163989811.mp3
+Hard negative,68,False,hardneg_650557438_00004.5_00007.5.wav,hardneg_650557438_00004.5_00007.5.npy,0,Crested Goshawk,Changhua County,650557438.wav
+Hard negative,69,False,hardneg_256119441_00006.0_00009.0.wav,hardneg_256119441_00006.0_00009.0.npy,0,Brahminy Kite,Karnataka,256119441.wav
+Hard negative,70,False,hardneg_663287136_00000.0_00003.0.wav,hardneg_663287136_00000.0_00003.0.npy,0,Crested Goshawk,Tamil Nadu,663287136.mp3
+Hard negative,71,False,hardneg_636635774_00025.5_00028.5.wav,hardneg_636635774_00025.5_00028.5.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,72,False,hardneg_618662527_00000.0_00003.0.wav,hardneg_618662527_00000.0_00003.0.npy,0,Crested Goshawk,Yilan County,618662527.wav
+Hard negative,73,False,hardneg_646566096_00031.5_00034.5.wav,hardneg_646566096_00031.5_00034.5.npy,0,Crested Goshawk,Taipei City,646566096.wav
+Hard negative,74,False,hardneg_290008191_00000.0_00003.0.wav,hardneg_290008191_00000.0_00003.0.npy,0,Brahminy Kite,Matara,290008191.wav
+Hard negative,75,False,hardneg_338400651_00051.0_00054.0.wav,hardneg_338400651_00051.0_00054.0.npy,0,Brahminy Kite,Kerala,338400651.wav
+Hard negative,76,False,hardneg_646996685_00009.0_00012.0.wav,hardneg_646996685_00009.0_00012.0.npy,0,Crested Goshawk,Taipei City,646996685.wav
+Hard negative,77,False,hardneg_221158851_00000.0_00003.0.wav,hardneg_221158851_00000.0_00003.0.npy,0,Brahminy Kite,Maharashtra,221158851.wav
+Hard negative,78,False,hardneg_556824621_00034.5_00037.5.wav,hardneg_556824621_00034.5_00037.5.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,79,False,hardneg_38604_00040.5_00043.5.wav,hardneg_38604_00040.5_00043.5.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,80,False,hardneg_651666013_00010.5_00013.5.wav,hardneg_651666013_00010.5_00013.5.npy,0,Pinsker's Hawk-Eagle,Compostela Valley,651666013.wav
+Hard negative,81,False,hardneg_282699691_00000.0_00003.0.wav,hardneg_282699691_00000.0_00003.0.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,82,False,hardneg_256119441_00001.5_00004.5.wav,hardneg_256119441_00001.5_00004.5.npy,0,Brahminy Kite,Karnataka,256119441.wav
+Hard negative,83,False,hardneg_651027105_00018.0_00021.0.wav,hardneg_651027105_00018.0_00021.0.npy,0,Crested Goshawk,Taipei City,651027105.wav
+Hard negative,84,False,hardneg_632339785_00012.0_00015.0.wav,hardneg_632339785_00012.0_00015.0.npy,0,Crested Goshawk,Taipei City,632339785.wav
+Hard negative,85,False,hardneg_556824621_00042.0_00045.0.wav,hardneg_556824621_00042.0_00045.0.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,86,False,hardneg_338400651_00043.5_00046.5.wav,hardneg_338400651_00043.5_00046.5.npy,0,Brahminy Kite,Kerala,338400651.wav
+Hard negative,87,False,hardneg_646573008_00016.5_00019.5.wav,hardneg_646573008_00016.5_00019.5.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,88,False,hardneg_347113531_00012.0_00015.0.wav,hardneg_347113531_00012.0_00015.0.npy,0,Brahminy Kite,Goa,347113531.mp3
+Hard negative,89,False,hardneg_73644_00007.5_00010.5.wav,hardneg_73644_00007.5_00010.5.npy,0,Brahminy Kite,Selangor,73644.wav
+Hard negative,90,False,hardneg_644073410_00058.5_00061.5.wav,hardneg_644073410_00058.5_00061.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,91,False,hardneg_646996685_00006.0_00009.0.wav,hardneg_646996685_00006.0_00009.0.npy,0,Crested Goshawk,Taipei City,646996685.wav
+Hard negative,92,False,hardneg_652522908_00009.0_00012.0.wav,hardneg_652522908_00009.0_00012.0.npy,0,Crested Goshawk,Odisha,652522908.wav
+Hard negative,93,False,hardneg_338400651_00045.0_00048.0.wav,hardneg_338400651_00045.0_00048.0.npy,0,Brahminy Kite,Kerala,338400651.wav
+Hard negative,94,False,hardneg_646627617_00019.5_00022.5.wav,hardneg_646627617_00019.5_00022.5.npy,0,Brahminy Kite,Kerala,646627617.wav
+Hard negative,95,False,hardneg_626495911_00012.0_00015.0.wav,hardneg_626495911_00012.0_00015.0.npy,0,Brahminy Kite,Karnataka,626495911.wav
+Hard negative,96,False,hardneg_38604_00013.5_00016.5.wav,hardneg_38604_00013.5_00016.5.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,97,False,hardneg_644073410_00079.5_00082.5.wav,hardneg_644073410_00079.5_00082.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,98,False,hardneg_651023409_00024.0_00027.0.wav,hardneg_651023409_00024.0_00027.0.npy,0,Crested Goshawk,Taipei City,651023409.wav
+Hard negative,99,False,hardneg_651844804_00022.5_00025.5.wav,hardneg_651844804_00022.5_00025.5.npy,0,Crested Goshawk,Taipei City,651844804.wav
+Hard negative,100,False,hardneg_310225_00028.5_00031.5.wav,hardneg_310225_00028.5_00031.5.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,101,False,hardneg_647961558_00006.0_00009.0.wav,hardneg_647961558_00006.0_00009.0.npy,0,Crested Goshawk,Karnataka,647961558.wav
+Hard negative,102,False,hardneg_649029170_00001.5_00004.5.wav,hardneg_649029170_00001.5_00004.5.npy,0,Crested Goshawk,Taipei City,649029170.wav
+Hard negative,103,False,hardneg_609056936_00001.5_00004.5.wav,hardneg_609056936_00001.5_00004.5.npy,0,Philippine Drongo-Cuckoo,Bohol,609056936.wav
+Hard negative,104,False,hardneg_609056936_00024.0_00027.0.wav,hardneg_609056936_00024.0_00027.0.npy,0,Philippine Drongo-Cuckoo,Bohol,609056936.wav
+Hard negative,105,False,hardneg_644073410_00060.0_00063.0.wav,hardneg_644073410_00060.0_00063.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,106,False,hardneg_652522907_00001.5_00004.5.wav,hardneg_652522907_00001.5_00004.5.npy,0,Crested Goshawk,Odisha,652522907.wav
+Hard negative,107,False,hardneg_556824621_00102.0_00105.0.wav,hardneg_556824621_00102.0_00105.0.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,108,False,hardneg_648740292_00057.0_00060.0.wav,hardneg_648740292_00057.0_00060.0.npy,0,Crested Goshawk,Taipei City,648740292.wav
+Hard negative,109,False,hardneg_310225_00022.5_00025.5.wav,hardneg_310225_00022.5_00025.5.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,110,False,hardneg_651535576_00013.5_00016.5.wav,hardneg_651535576_00013.5_00016.5.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,111,False,hardneg_651535576_00004.5_00007.5.wav,hardneg_651535576_00004.5_00007.5.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,112,False,hardneg_646996683_00009.0_00012.0.wav,hardneg_646996683_00009.0_00012.0.npy,0,Crested Goshawk,Taipei City,646996683.wav
+Hard negative,113,False,hardneg_644073410_00063.0_00066.0.wav,hardneg_644073410_00063.0_00066.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,114,False,hardneg_651023412_00019.5_00022.5.wav,hardneg_651023412_00019.5_00022.5.npy,0,Crested Goshawk,Taipei City,651023412.wav
+Hard negative,115,False,hardneg_347113531_00009.0_00012.0.wav,hardneg_347113531_00009.0_00012.0.npy,0,Brahminy Kite,Goa,347113531.mp3
+Hard negative,116,False,hardneg_649562634_00025.5_00028.5.wav,hardneg_649562634_00025.5_00028.5.npy,0,Crested Goshawk,Taipei City,649562634.wav
+Hard negative,117,False,hardneg_632339785_00010.5_00013.5.wav,hardneg_632339785_00010.5_00013.5.npy,0,Crested Goshawk,Taipei City,632339785.wav
+Hard negative,118,False,hardneg_646996683_00013.5_00016.5.wav,hardneg_646996683_00013.5_00016.5.npy,0,Crested Goshawk,Taipei City,646996683.wav
+Hard negative,119,False,hardneg_651666013_00009.0_00012.0.wav,hardneg_651666013_00009.0_00012.0.npy,0,Pinsker's Hawk-Eagle,Compostela Valley,651666013.wav
+Hard negative,120,False,hardneg_612819480_00003.0_00006.0.wav,hardneg_612819480_00003.0_00006.0.npy,0,Brahminy Kite,Masbate,612819480.mp3
+Hard negative,121,False,hardneg_644073410_00073.5_00076.5.wav,hardneg_644073410_00073.5_00076.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,122,False,hardneg_310225_00015.0_00018.0.wav,hardneg_310225_00015.0_00018.0.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,123,False,hardneg_651535576_00022.5_00025.5.wav,hardneg_651535576_00022.5_00025.5.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,124,False,hardneg_652522908_00013.5_00016.5.wav,hardneg_652522908_00013.5_00016.5.npy,0,Crested Goshawk,Odisha,652522908.wav
+Hard negative,125,False,hardneg_556824621_00040.5_00043.5.wav,hardneg_556824621_00040.5_00043.5.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,126,False,hardneg_73644_00006.0_00009.0.wav,hardneg_73644_00006.0_00009.0.npy,0,Brahminy Kite,Selangor,73644.wav
+Hard negative,127,False,hardneg_609056936_00042.0_00045.0.wav,hardneg_609056936_00042.0_00045.0.npy,0,Philippine Drongo-Cuckoo,Bohol,609056936.wav
+Hard negative,128,False,hardneg_651027109_00057.0_00060.0.wav,hardneg_651027109_00057.0_00060.0.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,129,False,hardneg_633947750_00019.5_00022.5.wav,hardneg_633947750_00019.5_00022.5.npy,0,Crested Goshawk,Zhejiang,633947750.wav
+Hard negative,130,False,hardneg_609921051_00030.0_00033.0.wav,hardneg_609921051_00030.0_00033.0.npy,0,Brahminy Kite,Karnataka,609921051.m4a
+Hard negative,131,False,hardneg_650557438_00003.0_00006.0.wav,hardneg_650557438_00003.0_00006.0.npy,0,Crested Goshawk,Changhua County,650557438.wav
+Hard negative,132,False,hardneg_315081151_00001.5_00004.5.wav,hardneg_315081151_00001.5_00004.5.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,315081151.wav
+Hard negative,133,False,hardneg_579543901_00016.5_00019.5.wav,hardneg_579543901_00016.5_00019.5.npy,0,Crested Goshawk,Taipei City,579543901.wav
+Hard negative,134,False,hardneg_609063968_00000.0_00003.0.wav,hardneg_609063968_00000.0_00003.0.npy,0,Philippine Honey-buzzard,Agusan del Sur,609063968.wav
+Hard negative,135,False,hardneg_645764789_00003.0_00006.0.wav,hardneg_645764789_00003.0_00006.0.npy,0,Crested Goshawk,Kerala,645764789.wav
+Hard negative,136,False,hardneg_627300715_00009.0_00012.0.wav,hardneg_627300715_00009.0_00012.0.npy,0,Crested Goshawk,Tamil Nadu,627300715.m4a
+Hard negative,137,False,hardneg_648740292_00009.0_00012.0.wav,hardneg_648740292_00009.0_00012.0.npy,0,Crested Goshawk,Taipei City,648740292.wav
+Hard negative,138,False,hardneg_612819480_00028.5_00031.5.wav,hardneg_612819480_00028.5_00031.5.npy,0,Brahminy Kite,Masbate,612819480.mp3
+Hard negative,139,False,hardneg_652522906_00012.0_00015.0.wav,hardneg_652522906_00012.0_00015.0.npy,0,Crested Goshawk,Odisha,652522906.wav
+Hard negative,140,False,hardneg_626495911_00013.5_00016.5.wav,hardneg_626495911_00013.5_00016.5.npy,0,Brahminy Kite,Karnataka,626495911.wav
+Hard negative,141,False,hardneg_609056936_00025.5_00028.5.wav,hardneg_609056936_00025.5_00028.5.npy,0,Philippine Drongo-Cuckoo,Bohol,609056936.wav
+Hard negative,142,False,hardneg_282699691_00001.5_00004.5.wav,hardneg_282699691_00001.5_00004.5.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,143,False,hardneg_203992921_00000.0_00003.0.wav,hardneg_203992921_00000.0_00003.0.npy,0,Brahminy Kite,New South Wales,203992921.mp3
+Hard negative,144,False,hardneg_38604_00051.0_00054.0.wav,hardneg_38604_00051.0_00054.0.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,145,False,hardneg_310225_00030.0_00033.0.wav,hardneg_310225_00030.0_00033.0.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,146,False,hardneg_556824621_00048.0_00051.0.wav,hardneg_556824621_00048.0_00051.0.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,147,False,hardneg_244656271_00004.5_00007.5.wav,hardneg_244656271_00004.5_00007.5.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,148,False,hardneg_633947750_00016.5_00019.5.wav,hardneg_633947750_00016.5_00019.5.npy,0,Crested Goshawk,Zhejiang,633947750.wav
+Hard negative,149,False,hardneg_651665374_00004.5_00007.5.wav,hardneg_651665374_00004.5_00007.5.npy,0,Philippine Frogmouth,Bukidnon,651665374.wav
+Hard negative,150,False,hardneg_636635774_00031.5_00034.5.wav,hardneg_636635774_00031.5_00034.5.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,151,False,hardneg_636635774_00021.0_00024.0.wav,hardneg_636635774_00021.0_00024.0.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,152,False,hardneg_648740292_00010.5_00013.5.wav,hardneg_648740292_00010.5_00013.5.npy,0,Crested Goshawk,Taipei City,648740292.wav
+Hard negative,153,False,hardneg_632339785_00019.5_00022.5.wav,hardneg_632339785_00019.5_00022.5.npy,0,Crested Goshawk,Taipei City,632339785.wav
+Hard negative,154,False,hardneg_651191345_00033.0_00036.0.wav,hardneg_651191345_00033.0_00036.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,155,False,hardneg_310225_00013.5_00016.5.wav,hardneg_310225_00013.5_00016.5.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,156,False,hardneg_651535576_00012.0_00015.0.wav,hardneg_651535576_00012.0_00015.0.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,157,False,hardneg_651027110_00064.5_00067.5.wav,hardneg_651027110_00064.5_00067.5.npy,0,Crested Goshawk,Taipei City,651027110.wav
+Hard negative,158,False,hardneg_338400651_00000.0_00003.0.wav,hardneg_338400651_00000.0_00003.0.npy,0,Brahminy Kite,Kerala,338400651.wav
+Hard negative,159,False,hardneg_651665374_00006.0_00009.0.wav,hardneg_651665374_00006.0_00009.0.npy,0,Philippine Frogmouth,Bukidnon,651665374.wav
+Hard negative,160,False,hardneg_644073410_00027.0_00030.0.wav,hardneg_644073410_00027.0_00030.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,161,False,hardneg_651191346_00088.5_00091.5.wav,hardneg_651191346_00088.5_00091.5.npy,0,Crested Goshawk,Taipei City,651191346.wav
+Hard negative,162,False,hardneg_651191346_00087.0_00090.0.wav,hardneg_651191346_00087.0_00090.0.npy,0,Crested Goshawk,Taipei City,651191346.wav
+Hard negative,163,False,hardneg_38604_00043.5_00046.5.wav,hardneg_38604_00043.5_00046.5.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,164,False,hardneg_633947750_00018.0_00021.0.wav,hardneg_633947750_00018.0_00021.0.npy,0,Crested Goshawk,Zhejiang,633947750.wav
+Hard negative,165,False,hardneg_633947750_00021.0_00024.0.wav,hardneg_633947750_00021.0_00024.0.npy,0,Crested Goshawk,Zhejiang,633947750.wav
+Hard negative,166,False,hardneg_652522908_00012.0_00015.0.wav,hardneg_652522908_00012.0_00015.0.npy,0,Crested Goshawk,Odisha,652522908.wav
+Hard negative,167,False,hardneg_636635774_00022.5_00025.5.wav,hardneg_636635774_00022.5_00025.5.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,168,False,hardneg_312760851_00019.5_00022.5.wav,hardneg_312760851_00019.5_00022.5.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,312760851.wav
+Hard negative,169,False,hardneg_646627617_00009.0_00012.0.wav,hardneg_646627617_00009.0_00012.0.npy,0,Brahminy Kite,Kerala,646627617.wav
+Hard negative,170,False,hardneg_651027109_00061.5_00064.5.wav,hardneg_651027109_00061.5_00064.5.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,171,False,hardneg_646573008_00048.0_00051.0.wav,hardneg_646573008_00048.0_00051.0.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,172,False,hardneg_651191345_00040.5_00043.5.wav,hardneg_651191345_00040.5_00043.5.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,173,False,hardneg_636635774_00033.0_00036.0.wav,hardneg_636635774_00033.0_00036.0.npy,0,Brahminy Kite,Karnataka,636635774.wav
+Hard negative,174,False,hardneg_609056936_00000.0_00003.0.wav,hardneg_609056936_00000.0_00003.0.npy,0,Philippine Drongo-Cuckoo,Bohol,609056936.wav
+Hard negative,175,False,hardneg_488849221_00010.5_00013.5.wav,hardneg_488849221_00010.5_00013.5.npy,0,Crested Goshawk,Taoyuan City,488849221.wav
+Hard negative,176,False,hardneg_619119971_00000.0_00003.0.wav,hardneg_619119971_00000.0_00003.0.npy,0,Crested Goshawk,Kerala,619119971.wav
+Hard negative,177,False,hardneg_651027105_00019.5_00022.5.wav,hardneg_651027105_00019.5_00022.5.npy,0,Crested Goshawk,Taipei City,651027105.wav
+Hard negative,178,False,hardneg_648740292_00012.0_00015.0.wav,hardneg_648740292_00012.0_00015.0.npy,0,Crested Goshawk,Taipei City,648740292.wav
+Hard negative,179,False,hardneg_38604_00046.5_00049.5.wav,hardneg_38604_00046.5_00049.5.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,180,False,hardneg_651191345_00042.0_00045.0.wav,hardneg_651191345_00042.0_00045.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,181,False,hardneg_644073410_00057.0_00060.0.wav,hardneg_644073410_00057.0_00060.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,182,False,hardneg_663287136_00003.0_00006.0.wav,hardneg_663287136_00003.0_00006.0.npy,0,Crested Goshawk,Tamil Nadu,663287136.mp3
+Hard negative,183,False,hardneg_208616361_00003.0_00006.0.wav,hardneg_208616361_00003.0_00006.0.npy,0,Brahminy Kite,Kerala,208616361.m4a
+Hard negative,184,False,hardneg_310225_00024.0_00027.0.wav,hardneg_310225_00024.0_00027.0.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,185,False,hardneg_651191345_00036.0_00039.0.wav,hardneg_651191345_00036.0_00039.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,186,False,hardneg_618662527_00003.0_00006.0.wav,hardneg_618662527_00003.0_00006.0.npy,0,Crested Goshawk,Yilan County,618662527.wav
+Hard negative,187,False,hardneg_631903265_00000.0_00003.0.wav,hardneg_631903265_00000.0_00003.0.npy,0,Rufous-bellied Eagle,Tamil Nadu,631903265.m4a
+Hard negative,188,False,hardneg_651191345_00030.0_00033.0.wav,hardneg_651191345_00030.0_00033.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,189,False,hardneg_282699691_00028.5_00031.5.wav,hardneg_282699691_00028.5_00031.5.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,190,False,hardneg_651027109_00063.0_00066.0.wav,hardneg_651027109_00063.0_00066.0.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,191,False,hardneg_609921051_00031.5_00034.5.wav,hardneg_609921051_00031.5_00034.5.npy,0,Brahminy Kite,Karnataka,609921051.m4a
+Hard negative,192,False,hardneg_315081151_00003.0_00006.0.wav,hardneg_315081151_00003.0_00006.0.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,315081151.wav
+Hard negative,193,False,hardneg_651191345_00037.5_00040.5.wav,hardneg_651191345_00037.5_00040.5.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,194,False,hardneg_646627617_00006.0_00009.0.wav,hardneg_646627617_00006.0_00009.0.npy,0,Brahminy Kite,Kerala,646627617.wav
+Hard negative,195,False,hardneg_644073410_00034.5_00037.5.wav,hardneg_644073410_00034.5_00037.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,196,False,hardneg_646573008_00051.0_00054.0.wav,hardneg_646573008_00051.0_00054.0.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,197,False,hardneg_381353831_00001.5_00004.5.wav,hardneg_381353831_00001.5_00004.5.npy,0,Crested Goshawk,Nantou County,381353831.wav
+Hard negative,198,False,hardneg_38604_00042.0_00045.0.wav,hardneg_38604_00042.0_00045.0.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,199,False,hardneg_32938_00027.0_00030.0.wav,hardneg_32938_00027.0_00030.0.npy,0,Brahminy Kite,Sulawesi,32938.wav
+Hard negative,200,False,hardneg_627300715_00000.0_00003.0.wav,hardneg_627300715_00000.0_00003.0.npy,0,Crested Goshawk,Tamil Nadu,627300715.m4a
+Hard negative,201,False,hardneg_651191346_00028.5_00031.5.wav,hardneg_651191346_00028.5_00031.5.npy,0,Crested Goshawk,Taipei City,651191346.wav
+Hard negative,202,False,hardneg_652522907_00012.0_00015.0.wav,hardneg_652522907_00012.0_00015.0.npy,0,Crested Goshawk,Odisha,652522907.wav
+Hard negative,203,False,hardneg_347113531_00007.5_00010.5.wav,hardneg_347113531_00007.5_00010.5.npy,0,Brahminy Kite,Goa,347113531.mp3
+Hard negative,204,False,hardneg_646573008_00054.0_00057.0.wav,hardneg_646573008_00054.0_00057.0.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,205,False,hardneg_648927976_00009.0_00012.0.wav,hardneg_648927976_00009.0_00012.0.npy,0,Crested Goshawk,Taipei City,648927976.wav
+Hard negative,206,False,hardneg_651023412_00046.5_00049.5.wav,hardneg_651023412_00046.5_00049.5.npy,0,Crested Goshawk,Taipei City,651023412.wav
+Hard negative,207,False,hardneg_651191346_00025.5_00028.5.wav,hardneg_651191346_00025.5_00028.5.npy,0,Crested Goshawk,Taipei City,651191346.wav
+Hard negative,208,False,hardneg_651027109_00019.5_00022.5.wav,hardneg_651027109_00019.5_00022.5.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,209,False,hardneg_577769891_00001.5_00004.5.wav,hardneg_577769891_00001.5_00004.5.npy,0,Crested Goshawk,Karnataka,577769891.m4a
+Hard negative,210,False,hardneg_651023412_00045.0_00048.0.wav,hardneg_651023412_00045.0_00048.0.npy,0,Crested Goshawk,Taipei City,651023412.wav
+Hard negative,211,False,hardneg_651023412_00048.0_00051.0.wav,hardneg_651023412_00048.0_00051.0.npy,0,Crested Goshawk,Taipei City,651023412.wav
+Hard negative,212,False,hardneg_619119971_00028.5_00031.5.wav,hardneg_619119971_00028.5_00031.5.npy,0,Crested Goshawk,Kerala,619119971.wav
+Hard negative,213,False,hardneg_385409621_00001.5_00004.5.wav,hardneg_385409621_00001.5_00004.5.npy,0,Brahminy Kite,Kerala,385409621.wav
+Hard negative,214,False,hardneg_646573008_00046.5_00049.5.wav,hardneg_646573008_00046.5_00049.5.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,215,False,hardneg_651191345_00034.5_00037.5.wav,hardneg_651191345_00034.5_00037.5.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,216,False,hardneg_577769891_00033.0_00036.0.wav,hardneg_577769891_00033.0_00036.0.npy,0,Crested Goshawk,Karnataka,577769891.m4a
+Hard negative,217,False,hardneg_256119441_00004.5_00007.5.wav,hardneg_256119441_00004.5_00007.5.npy,0,Brahminy Kite,Karnataka,256119441.wav
+Hard negative,218,False,hardneg_651535576_00018.0_00021.0.wav,hardneg_651535576_00018.0_00021.0.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,219,False,hardneg_338400651_00001.5_00004.5.wav,hardneg_338400651_00001.5_00004.5.npy,0,Brahminy Kite,Kerala,338400651.wav
+Hard negative,220,False,hardneg_246153251_00022.5_00025.5.wav,hardneg_246153251_00022.5_00025.5.npy,0,Brahminy Kite,Western Australia,246153251.wav
+Hard negative,221,False,hardneg_652522908_00010.5_00013.5.wav,hardneg_652522908_00010.5_00013.5.npy,0,Crested Goshawk,Odisha,652522908.wav
+Hard negative,222,False,hardneg_651191345_00069.0_00072.0.wav,hardneg_651191345_00069.0_00072.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,223,False,hardneg_652522907_00013.5_00016.5.wav,hardneg_652522907_00013.5_00016.5.npy,0,Crested Goshawk,Odisha,652522907.wav
+Hard negative,224,False,hardneg_312760851_00001.5_00004.5.wav,hardneg_312760851_00001.5_00004.5.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,312760851.wav
+Hard negative,225,False,hardneg_651535576_00021.0_00024.0.wav,hardneg_651535576_00021.0_00024.0.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,226,False,hardneg_651023412_00021.0_00024.0.wav,hardneg_651023412_00021.0_00024.0.npy,0,Crested Goshawk,Taipei City,651023412.wav
+Hard negative,227,False,hardneg_244656271_00009.0_00012.0.wav,hardneg_244656271_00009.0_00012.0.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,228,False,hardneg_372625131_00004.5_00007.5.wav,hardneg_372625131_00004.5_00007.5.npy,0,Brahminy Kite,Western Australia,372625131.wav
+Hard negative,229,False,hardneg_632339786_00019.5_00022.5.wav,hardneg_632339786_00019.5_00022.5.npy,0,Crested Goshawk,Taipei City,632339786.wav
+Hard negative,230,False,hardneg_208616361_00004.5_00007.5.wav,hardneg_208616361_00004.5_00007.5.npy,0,Brahminy Kite,Kerala,208616361.m4a
+Hard negative,231,False,hardneg_646573008_00043.5_00046.5.wav,hardneg_646573008_00043.5_00046.5.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,232,False,hardneg_628123122_00003.0_00006.0.wav,hardneg_628123122_00003.0_00006.0.npy,0,Brahminy Kite,Maharashtra,628123122.mp3
+Hard negative,233,False,hardneg_646627617_00007.5_00010.5.wav,hardneg_646627617_00007.5_00010.5.npy,0,Brahminy Kite,Kerala,646627617.wav
+Hard negative,234,False,hardneg_256119441_00000.0_00003.0.wav,hardneg_256119441_00000.0_00003.0.npy,0,Brahminy Kite,Karnataka,256119441.wav
+Hard negative,235,False,hardneg_647012636_00000.0_00003.0.wav,hardneg_647012636_00000.0_00003.0.npy,0,Crested Goshawk,Taipei City,647012636.wav
+Hard negative,236,False,hardneg_651535576_00010.5_00013.5.wav,hardneg_651535576_00010.5_00013.5.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,237,False,hardneg_651191345_00073.5_00076.5.wav,hardneg_651191345_00073.5_00076.5.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,238,False,hardneg_651535576_00015.0_00018.0.wav,hardneg_651535576_00015.0_00018.0.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,239,False,hardneg_632339786_00018.0_00021.0.wav,hardneg_632339786_00018.0_00021.0.npy,0,Crested Goshawk,Taipei City,632339786.wav
+Hard negative,240,False,hardneg_385409621_00000.0_00003.0.wav,hardneg_385409621_00000.0_00003.0.npy,0,Brahminy Kite,Kerala,385409621.wav
+Hard negative,241,False,hardneg_628123122_00004.5_00007.5.wav,hardneg_628123122_00004.5_00007.5.npy,0,Brahminy Kite,Maharashtra,628123122.mp3
+Hard negative,242,False,hardneg_644073410_00016.5_00019.5.wav,hardneg_644073410_00016.5_00019.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,243,False,hardneg_310225_00012.0_00015.0.wav,hardneg_310225_00012.0_00015.0.npy,0,Brahminy Kite,Karnataka,310225.wav
+Hard negative,244,False,hardneg_38604_00048.0_00051.0.wav,hardneg_38604_00048.0_00051.0.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,245,False,hardneg_73644_00009.0_00012.0.wav,hardneg_73644_00009.0_00012.0.npy,0,Brahminy Kite,Selangor,73644.wav
+Hard negative,246,False,hardneg_651023409_00022.5_00025.5.wav,hardneg_651023409_00022.5_00025.5.npy,0,Crested Goshawk,Taipei City,651023409.wav
+Hard negative,247,False,hardneg_556824621_00046.5_00049.5.wav,hardneg_556824621_00046.5_00049.5.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,248,False,hardneg_633947750_00022.5_00025.5.wav,hardneg_633947750_00022.5_00025.5.npy,0,Crested Goshawk,Zhejiang,633947750.wav
+Hard negative,249,False,hardneg_651191345_00031.5_00034.5.wav,hardneg_651191345_00031.5_00034.5.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,250,False,hardneg_244656271_00006.0_00009.0.wav,hardneg_244656271_00006.0_00009.0.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,251,False,hardneg_651191345_00039.0_00042.0.wav,hardneg_651191345_00039.0_00042.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,252,False,hardneg_652522907_00019.5_00022.5.wav,hardneg_652522907_00019.5_00022.5.npy,0,Crested Goshawk,Odisha,652522907.wav
+Hard negative,253,False,hardneg_246153251_00027.0_00030.0.wav,hardneg_246153251_00027.0_00030.0.npy,0,Brahminy Kite,Western Australia,246153251.wav
+Hard negative,254,False,hardneg_652522907_00003.0_00006.0.wav,hardneg_652522907_00003.0_00006.0.npy,0,Crested Goshawk,Odisha,652522907.wav
+Hard negative,255,False,hardneg_609921051_00015.0_00018.0.wav,hardneg_609921051_00015.0_00018.0.npy,0,Brahminy Kite,Karnataka,609921051.m4a
+Hard negative,256,False,hardneg_556824621_00100.5_00103.5.wav,hardneg_556824621_00100.5_00103.5.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,257,False,hardneg_646573008_00058.5_00061.5.wav,hardneg_646573008_00058.5_00061.5.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,258,False,hardneg_618662527_00001.5_00004.5.wav,hardneg_618662527_00001.5_00004.5.npy,0,Crested Goshawk,Yilan County,618662527.wav
+Hard negative,259,False,hardneg_244656271_00003.0_00006.0.wav,hardneg_244656271_00003.0_00006.0.npy,0,Philippine Frogmouth,Agusan del Sur,244656271.wav
+Hard negative,260,False,hardneg_651027109_00058.5_00061.5.wav,hardneg_651027109_00058.5_00061.5.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,261,False,hardneg_282699691_00030.0_00033.0.wav,hardneg_282699691_00030.0_00033.0.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,262,False,hardneg_647012636_00027.0_00030.0.wav,hardneg_647012636_00027.0_00030.0.npy,0,Crested Goshawk,Taipei City,647012636.wav
+Hard negative,263,False,hardneg_649029170_00003.0_00006.0.wav,hardneg_649029170_00003.0_00006.0.npy,0,Crested Goshawk,Taipei City,649029170.wav
+Hard negative,264,False,hardneg_646996683_00012.0_00015.0.wav,hardneg_646996683_00012.0_00015.0.npy,0,Crested Goshawk,Taipei City,646996683.wav
+Hard negative,265,False,hardneg_620403245_00004.5_00007.5.wav,hardneg_620403245_00004.5_00007.5.npy,0,Brahminy Kite,Maharashtra,620403245.wav
+Hard negative,266,False,hardneg_619119971_00001.5_00004.5.wav,hardneg_619119971_00001.5_00004.5.npy,0,Crested Goshawk,Kerala,619119971.wav
+Hard negative,267,False,hardneg_282699691_00007.5_00010.5.wav,hardneg_282699691_00007.5_00010.5.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,268,False,hardneg_221158851_00012.0_00015.0.wav,hardneg_221158851_00012.0_00015.0.npy,0,Brahminy Kite,Maharashtra,221158851.wav
+Hard negative,269,False,hardneg_644073410_00018.0_00021.0.wav,hardneg_644073410_00018.0_00021.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,270,False,hardneg_577769891_00034.5_00037.5.wav,hardneg_577769891_00034.5_00037.5.npy,0,Crested Goshawk,Karnataka,577769891.m4a
+Hard negative,271,False,hardneg_651027110_00066.0_00069.0.wav,hardneg_651027110_00066.0_00069.0.npy,0,Crested Goshawk,Taipei City,651027110.wav
+Hard negative,272,False,hardneg_646996683_00010.5_00013.5.wav,hardneg_646996683_00010.5_00013.5.npy,0,Crested Goshawk,Taipei City,646996683.wav
+Hard negative,273,False,hardneg_639141821_00000.0_00003.0.wav,hardneg_639141821_00000.0_00003.0.npy,0,Crested Goshawk,Hong Kong,639141821.wav
+Hard negative,274,False,hardneg_38604_00049.5_00052.5.wav,hardneg_38604_00049.5_00052.5.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,275,False,hardneg_208616361_00000.0_00003.0.wav,hardneg_208616361_00000.0_00003.0.npy,0,Brahminy Kite,Kerala,208616361.m4a
+Hard negative,276,False,hardneg_651191345_00070.5_00073.5.wav,hardneg_651191345_00070.5_00073.5.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,277,False,hardneg_73644_00004.5_00007.5.wav,hardneg_73644_00004.5_00007.5.npy,0,Brahminy Kite,Selangor,73644.wav
+Hard negative,278,False,hardneg_651027109_00016.5_00019.5.wav,hardneg_651027109_00016.5_00019.5.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,279,False,hardneg_651191345_00075.0_00078.0.wav,hardneg_651191345_00075.0_00078.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,280,False,hardneg_312760851_00000.0_00003.0.wav,hardneg_312760851_00000.0_00003.0.npy,0,Philippine Drongo-Cuckoo,Tawi-Tawi,312760851.wav
+Hard negative,281,False,hardneg_651925041_00013.5_00016.5.wav,hardneg_651925041_00013.5_00016.5.npy,0,Crested Goshawk,Taipei City,651925041.wav
+Hard negative,282,False,hardneg_632339785_00021.0_00024.0.wav,hardneg_632339785_00021.0_00024.0.npy,0,Crested Goshawk,Taipei City,632339785.wav
+Hard negative,283,False,hardneg_650557438_00001.5_00004.5.wav,hardneg_650557438_00001.5_00004.5.npy,0,Crested Goshawk,Changhua County,650557438.wav
+Hard negative,284,False,hardneg_626495911_00009.0_00012.0.wav,hardneg_626495911_00009.0_00012.0.npy,0,Brahminy Kite,Karnataka,626495911.wav
+Hard negative,285,False,hardneg_651023409_00000.0_00003.0.wav,hardneg_651023409_00000.0_00003.0.npy,0,Crested Goshawk,Taipei City,651023409.wav
+Hard negative,286,False,hardneg_651786332_00034.5_00037.5.wav,hardneg_651786332_00034.5_00037.5.npy,0,Philippine Falconet,Misamis Oriental,651786332.wav
+Hard negative,287,False,hardneg_556824621_00036.0_00039.0.wav,hardneg_556824621_00036.0_00039.0.npy,0,Crested Goshawk,Taichung City,556824621.wav
+Hard negative,288,False,hardneg_646627617_00018.0_00021.0.wav,hardneg_646627617_00018.0_00021.0.npy,0,Brahminy Kite,Kerala,646627617.wav
+Hard negative,289,False,hardneg_663287136_00001.5_00004.5.wav,hardneg_663287136_00001.5_00004.5.npy,0,Crested Goshawk,Tamil Nadu,663287136.mp3
+Hard negative,290,False,hardneg_646996685_00007.5_00010.5.wav,hardneg_646996685_00007.5_00010.5.npy,0,Crested Goshawk,Taipei City,646996685.wav
+Hard negative,291,False,hardneg_612819480_00001.5_00004.5.wav,hardneg_612819480_00001.5_00004.5.npy,0,Brahminy Kite,Masbate,612819480.mp3
+Hard negative,292,False,hardneg_648927976_00007.5_00010.5.wav,hardneg_648927976_00007.5_00010.5.npy,0,Crested Goshawk,Taipei City,648927976.wav
+Hard negative,293,False,hardneg_644073410_00036.0_00039.0.wav,hardneg_644073410_00036.0_00039.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,294,False,hardneg_651535576_00019.5_00022.5.wav,hardneg_651535576_00019.5_00022.5.npy,0,Brahminy Kite,Western Australia,651535576.wav
+Hard negative,295,False,hardneg_246153251_00025.5_00028.5.wav,hardneg_246153251_00025.5_00028.5.npy,0,Brahminy Kite,Western Australia,246153251.wav
+Hard negative,296,False,hardneg_644073410_00061.5_00064.5.wav,hardneg_644073410_00061.5_00064.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,297,False,hardneg_651027105_00015.0_00018.0.wav,hardneg_651027105_00015.0_00018.0.npy,0,Crested Goshawk,Taipei City,651027105.wav
+Hard negative,298,False,hardneg_282699691_00051.0_00054.0.wav,hardneg_282699691_00051.0_00054.0.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,299,False,hardneg_620403245_00003.0_00006.0.wav,hardneg_620403245_00003.0_00006.0.npy,0,Brahminy Kite,Maharashtra,620403245.wav
+Hard negative,300,False,hardneg_38604_00045.0_00048.0.wav,hardneg_38604_00045.0_00048.0.npy,0,Philippine Hawk-Eagle,Bataan,38604.wav
+Hard negative,301,False,hardneg_246153251_00024.0_00027.0.wav,hardneg_246153251_00024.0_00027.0.npy,0,Brahminy Kite,Western Australia,246153251.wav
+Hard negative,302,False,hardneg_651665374_00007.5_00010.5.wav,hardneg_651665374_00007.5_00010.5.npy,0,Philippine Frogmouth,Bukidnon,651665374.wav
+Hard negative,303,False,hardneg_651191189_00015.0_00018.0.wav,hardneg_651191189_00015.0_00018.0.npy,0,Crested Goshawk,Taipei City,651191189.wav
+Hard negative,304,False,hardneg_646573008_00057.0_00060.0.wav,hardneg_646573008_00057.0_00060.0.npy,0,Crested Goshawk,Taipei City,646573008.wav
+Hard negative,305,False,hardneg_651925041_00012.0_00015.0.wav,hardneg_651925041_00012.0_00015.0.npy,0,Crested Goshawk,Taipei City,651925041.wav
+Hard negative,306,False,hardneg_282699691_00052.5_00055.5.wav,hardneg_282699691_00052.5_00055.5.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,307,False,hardneg_644073410_00028.5_00031.5.wav,hardneg_644073410_00028.5_00031.5.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,308,False,hardneg_579543901_00015.0_00018.0.wav,hardneg_579543901_00015.0_00018.0.npy,0,Crested Goshawk,Taipei City,579543901.wav
+Hard negative,309,False,hardneg_632339785_00013.5_00016.5.wav,hardneg_632339785_00013.5_00016.5.npy,0,Crested Goshawk,Taipei City,632339785.wav
+Hard negative,310,False,hardneg_644073410_00078.0_00081.0.wav,hardneg_644073410_00078.0_00081.0.npy,0,Crested Goshawk,Taitung County,644073410.wav
+Hard negative,311,False,hardneg_32938_00030.0_00033.0.wav,hardneg_32938_00030.0_00033.0.npy,0,Brahminy Kite,Sulawesi,32938.wav
+Hard negative,312,False,hardneg_619119971_00030.0_00033.0.wav,hardneg_619119971_00030.0_00033.0.npy,0,Crested Goshawk,Kerala,619119971.wav
+Hard negative,313,False,hardneg_632339786_00000.0_00003.0.wav,hardneg_632339786_00000.0_00003.0.npy,0,Crested Goshawk,Taipei City,632339786.wav
+Hard negative,314,False,hardneg_651191345_00072.0_00075.0.wav,hardneg_651191345_00072.0_00075.0.npy,0,Crested Goshawk,Taipei City,651191345.wav
+Hard negative,315,False,hardneg_646996683_00015.0_00018.0.wav,hardneg_646996683_00015.0_00018.0.npy,0,Crested Goshawk,Taipei City,646996683.wav
+Hard negative,316,False,hardneg_110002131_00010.5_00013.5.wav,hardneg_110002131_00010.5_00013.5.npy,0,Crested Goshawk,Singapore,110002131.mp3
+Hard negative,317,False,hardneg_651027109_00018.0_00021.0.wav,hardneg_651027109_00018.0_00021.0.npy,0,Crested Goshawk,Taipei City,651027109.wav
+Hard negative,318,False,hardneg_639141821_00003.0_00006.0.wav,hardneg_639141821_00003.0_00006.0.npy,0,Crested Goshawk,Hong Kong,639141821.wav
+Hard negative,319,False,hardneg_282699691_00006.0_00009.0.wav,hardneg_282699691_00006.0_00009.0.npy,0,Brahminy Kite,Kerala,282699691.wav
+Hard negative,320,False,hardneg_372625131_00006.0_00009.0.wav,hardneg_372625131_00006.0_00009.0.npy,0,Brahminy Kite,Western Australia,372625131.wav
+Hard negative,321,False,hardneg_651027105_00012.0_00015.0.wav,hardneg_651027105_00012.0_00015.0.npy,0,Crested Goshawk,Taipei City,651027105.wav
+Hard negative,322,False,hardneg_626495911_00007.5_00010.5.wav,hardneg_626495911_00007.5_00010.5.npy,0,Brahminy Kite,Karnataka,626495911.wav

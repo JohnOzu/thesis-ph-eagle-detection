@@ -1,0 +1,20 @@
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s Minor Sites Held Out
+============================================================
+Accuracy:    0.8736 (87.36%)
+Precision:   0.9470 (94.70%)
+Recall:      0.7622 (76.22%)
+F1-Score:    0.8446 (84.46%)
+Specificity: 0.9650 (96.50%)
+ROC-AUC:     0.9419
+Confusion:   TN 193 | FP 7 | FN 39 | TP 125
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.83      0.96      0.89       200
+   Eagle (1)       0.95      0.76      0.84       164
+
+    accuracy                           0.87       364
+   macro avg       0.89      0.86      0.87       364
+weighted avg       0.88      0.87      0.87       364
+

@@ -1,0 +1,288 @@
+3.0-SECOND CRNN-GRU MODEL STATISTICS
+FP32 test results at a decision threshold of 0.50.
+Recording Split models are tested on the test subset of the recording-level split.
+LOSO and Minor Sites models are tested on the held-out site(s).
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s Recording Split
+============================================================
+Accuracy:    0.9465 (94.65%)
+Precision:   0.9521 (95.21%)
+Recall:      0.9267 (92.67%)
+F1-Score:    0.9392 (93.92%)
+Specificity: 0.9624 (96.24%)
+ROC-AUC:     0.9823
+Confusion:   TN 538 | FP 21 | FN 33 | TP 417
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.94      0.96      0.95       559
+   Eagle (1)       0.95      0.93      0.94       450
+
+    accuracy                           0.95      1009
+   macro avg       0.95      0.94      0.95      1009
+weighted avg       0.95      0.95      0.95      1009
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s LOSO - Davao del Sur
+============================================================
+Accuracy:    0.8330 (83.30%)
+Precision:   0.8067 (80.67%)
+Recall:      0.6708 (67.08%)
+F1-Score:    0.7325 (73.25%)
+Specificity: 0.9169 (91.69%)
+ROC-AUC:     0.8828
+Confusion:   TN 3000 | FP 272 | FN 557 | TP 1135
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.84      0.92      0.88      3272
+   Eagle (1)       0.81      0.67      0.73      1692
+
+    accuracy                           0.83      4964
+   macro avg       0.83      0.79      0.81      4964
+weighted avg       0.83      0.83      0.83      4964
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s LOSO - Cotabato
+============================================================
+Accuracy:    0.8865 (88.65%)
+Precision:   0.9448 (94.48%)
+Recall:      0.7853 (78.53%)
+F1-Score:    0.8577 (85.77%)
+Specificity: 0.9646 (96.46%)
+ROC-AUC:     0.9392
+Confusion:   TN 1853 | FP 68 | FN 318 | TP 1163
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.85      0.96      0.91      1921
+   Eagle (1)       0.94      0.79      0.86      1481
+
+    accuracy                           0.89      3402
+   macro avg       0.90      0.87      0.88      3402
+weighted avg       0.89      0.89      0.88      3402
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s Recording Split (Cost-Sensitive)
+============================================================
+Accuracy:    0.9524 (95.24%)
+Precision:   0.9527 (95.27%)
+Recall:      0.9400 (94.00%)
+F1-Score:    0.9463 (94.63%)
+Specificity: 0.9624 (96.24%)
+ROC-AUC:     0.9816
+Confusion:   TN 538 | FP 21 | FN 27 | TP 423
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.95      0.96      0.96       559
+   Eagle (1)       0.95      0.94      0.95       450
+
+    accuracy                           0.95      1009
+   macro avg       0.95      0.95      0.95      1009
+weighted avg       0.95      0.95      0.95      1009
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s LOSO - Davao del Sur (Cost-Sensitive)
+============================================================
+Accuracy:    0.8433 (84.33%)
+Precision:   0.8018 (80.18%)
+Recall:      0.7175 (71.75%)
+F1-Score:    0.7573 (75.73%)
+Specificity: 0.9083 (90.83%)
+ROC-AUC:     0.9026
+Confusion:   TN 2972 | FP 300 | FN 478 | TP 1214
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.86      0.91      0.88      3272
+   Eagle (1)       0.80      0.72      0.76      1692
+
+    accuracy                           0.84      4964
+   macro avg       0.83      0.81      0.82      4964
+weighted avg       0.84      0.84      0.84      4964
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s LOSO - Cotabato (Cost-Sensitive)
+============================================================
+Accuracy:    0.8915 (89.15%)
+Precision:   0.9270 (92.70%)
+Recall:      0.8150 (81.50%)
+F1-Score:    0.8674 (86.74%)
+Specificity: 0.9505 (95.05%)
+ROC-AUC:     0.9434
+Confusion:   TN 1826 | FP 95 | FN 274 | TP 1207
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.87      0.95      0.91      1921
+   Eagle (1)       0.93      0.81      0.87      1481
+
+    accuracy                           0.89      3402
+   macro avg       0.90      0.88      0.89      3402
+weighted avg       0.89      0.89      0.89      3402
+
+
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s Recording Split (Cost-Sensitive)
+============================================================
+Accuracy:    0.9286 (92.86%)
+Precision:   0.9458 (94.58%)
+Recall:      0.8911 (89.11%)
+F1-Score:    0.9176 (91.76%)
+Specificity: 0.9589 (95.89%)
+ROC-AUC:     0.9690
+Confusion:   TN 536 | FP 23 | FN 49 | TP 401
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.92      0.96      0.94       559
+   Eagle (1)       0.95      0.89      0.92       450
+
+    accuracy                           0.93      1009
+   macro avg       0.93      0.92      0.93      1009
+weighted avg       0.93      0.93      0.93      1009
+
+
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s LOSO - Davao del Sur (Cost-Sensitive)
+============================================================
+Accuracy:    0.8036 (80.36%)
+Precision:   0.7861 (78.61%)
+Recall:      0.5822 (58.22%)
+F1-Score:    0.6689 (66.89%)
+Specificity: 0.9181 (91.81%)
+ROC-AUC:     0.8495
+Confusion:   TN 3004 | FP 268 | FN 707 | TP 985
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.81      0.92      0.86      3272
+   Eagle (1)       0.79      0.58      0.67      1692
+
+    accuracy                           0.80      4964
+   macro avg       0.80      0.75      0.76      4964
+weighted avg       0.80      0.80      0.80      4964
+
+
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s LOSO - Cotabato (Cost-Sensitive)
+============================================================
+Accuracy:    0.8868 (88.68%)
+Precision:   0.9329 (93.29%)
+Recall:      0.7974 (79.74%)
+F1-Score:    0.8598 (85.98%)
+Specificity: 0.9558 (95.58%)
+ROC-AUC:     0.9309
+Confusion:   TN 1836 | FP 85 | FN 300 | TP 1181
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.86      0.96      0.91      1921
+   Eagle (1)       0.93      0.80      0.86      1481
+
+    accuracy                           0.89      3402
+   macro avg       0.90      0.88      0.88      3402
+weighted avg       0.89      0.89      0.89      3402
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s Minor Sites Held Out
+============================================================
+Accuracy:    0.8736 (87.36%)
+Precision:   0.9470 (94.70%)
+Recall:      0.7622 (76.22%)
+F1-Score:    0.8446 (84.46%)
+Specificity: 0.9650 (96.50%)
+ROC-AUC:     0.9419
+Confusion:   TN 193 | FP 7 | FN 39 | TP 125
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.83      0.96      0.89       200
+   Eagle (1)       0.95      0.76      0.84       164
+
+    accuracy                           0.87       364
+   macro avg       0.89      0.86      0.87       364
+weighted avg       0.88      0.87      0.87       364
+
+
+============================================================
+EVALUATION RESULTS: CRNN-GRU 3.0s Minor Sites Held Out (Cost-Sensitive)
+============================================================
+Accuracy:    0.8407 (84.07%)
+Precision:   0.9274 (92.74%)
+Recall:      0.7012 (70.12%)
+F1-Score:    0.7986 (79.86%)
+Specificity: 0.9550 (95.50%)
+ROC-AUC:     0.9245
+Confusion:   TN 191 | FP 9 | FN 49 | TP 115
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.80      0.95      0.87       200
+   Eagle (1)       0.93      0.70      0.80       164
+
+    accuracy                           0.84       364
+   macro avg       0.86      0.83      0.83       364
+weighted avg       0.86      0.84      0.84       364
+
+
+============================================================
+EVALUATION RESULTS: Edge CRNN-GRU 3.0s Minor Sites Held Out (Cost-Sensitive)
+============================================================
+Accuracy:    0.8489 (84.89%)
+Precision:   0.9431 (94.31%)
+Recall:      0.7073 (70.73%)
+F1-Score:    0.8084 (80.84%)
+Specificity: 0.9650 (96.50%)
+ROC-AUC:     0.8984
+Confusion:   TN 193 | FP 7 | FN 48 | TP 116
+============================================================
+              precision    recall  f1-score   support
+
+No Eagle (0)       0.80      0.96      0.88       200
+   Eagle (1)       0.94      0.71      0.81       164
+
+    accuracy                           0.85       364
+   macro avg       0.87      0.84      0.84       364
+weighted avg       0.86      0.85      0.85       364
+
+
+================================================================================
+1. CRNN-GRU ARCHITECTURE & GENERALIZATION BENCHMARK (FP32)
+================================================================================
+                           Experiment FP32 Accuracy Precision Recall F1-Score Specificity ROC-AUC
+                      Recording Split        94.65%    95.21% 92.67%   0.9392      96.24%  0.9823
+     Recording Split (Cost-Sensitive)        95.24%    95.27% 94.00%   0.9463      96.24%  0.9816
+      Edge-Optimized (Cost-Sensitive)        92.86%    94.58% 89.11%   0.9176      95.89%  0.9690
+                 LOSO - Davao del Sur        83.30%    80.67% 67.08%   0.7325      91.69%  0.8828
+                      LOSO - Cotabato        88.65%    94.48% 78.53%   0.8577      96.46%  0.9392
+  Edge-Optimized LOSO - Davao del Sur        80.36%    78.61% 58.22%   0.6689      91.81%  0.8495
+       Edge-Optimized LOSO - Cotabato        88.68%    93.29% 79.74%   0.8598      95.58%  0.9309
+LOSO - Davao del Sur (Cost-Sensitive)        84.33%    80.18% 71.75%   0.7573      90.83%  0.9026
+     LOSO - Cotabato (Cost-Sensitive)        89.15%    92.70% 81.50%   0.8674      95.05%  0.9434
+                   LOSO - Minor Sites        87.36%    94.70% 76.22%   0.8446      96.50%  0.9419
+  LOSO - Minor Sites (Cost-Sensitive)        84.07%    92.74% 70.12%   0.7986      95.50%  0.9245
+    Edge-Optimized LOSO - Minor Sites        84.89%    94.31% 70.73%   0.8084      96.50%  0.8984
+
+================================================================================
+2. PRODUCTION MODEL EDGE QUANTIZATION BENCHMARK (FP32 vs FP16 vs INT8)
+Latency is measured with the TFLite interpreter on the laptop CPU, not on the ESP32-S3.
+================================================================================
+                           Model           Format Accuracy F1-Score Latency (laptop CPU)      Size   Accuracy Delta
+                 Recording Split       FP32 Keras   94.65%   0.9392         Not measured 4846.1 KB Baseline (0.00%)
+                 Recording Split   TFLite Float16   94.65%   0.9392              3.80 ms  663.7 KB           +0.00%
+                 Recording Split TFLite Full INT8   94.65%   0.9391              1.48 ms  496.7 KB           +0.00%
+Recording Split (Cost-Sensitive)       FP32 Keras   95.24%   0.9463         Not measured 4846.1 KB Baseline (0.00%)
+Recording Split (Cost-Sensitive)   TFLite Float16   95.24%   0.9463              3.74 ms  663.7 KB           +0.00%
+Recording Split (Cost-Sensitive) TFLite Full INT8   95.14%   0.9460              1.39 ms  496.7 KB           -0.10%
+ Edge-Optimized (Cost-Sensitive)       FP32 Keras   92.86%   0.9176         Not measured 1018.0 KB Baseline (0.00%)
+ Edge-Optimized (Cost-Sensitive)   TFLite Float16   92.86%   0.9176              0.51 ms  190.0 KB           +0.00%
+ Edge-Optimized (Cost-Sensitive) TFLite Full INT8   92.67%   0.9151              0.25 ms  216.8 KB           -0.20%

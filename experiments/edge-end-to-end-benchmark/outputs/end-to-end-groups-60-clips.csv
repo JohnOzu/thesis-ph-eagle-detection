@@ -1,0 +1,4 @@
+Group,Clips,Laptop correct,Board correct,Same decision,Board mean probability
+Eagle,20,12,12,20,0.568
+Ambient,20,20,20,20,0.107
+Hard negative,20,19,19,20,0.131
